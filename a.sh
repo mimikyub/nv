@@ -21,7 +21,7 @@ while IFS= read -r line; do
 
     else
         # Transformer :TAG: en #TAG et supprimer les :SDD_<n° SDD>
-        modified_line=$(echo "$line" | sed -E 's/:([A-Z]+):/#\1/g' | sed -E 's/([A-Z])\SDD_[0-9]+:/\1/g')
+        modified_line=$(echo "$line" | sed -E 's/:([A-Z]+):/#\1/g' | sed -E 's/([A-Z])\SDD_[0-9]+:/\1/g' | sed -E 's/# +#/#/g')
         sdd_content+="$modified_line\n"
     fi
 done < "$input_file"
