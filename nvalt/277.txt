@@ -1,0 +1,9 @@
+* SDD-277 Consultation de suivi d'un patient présentant une lombalgie aiguë ou chronique
+** Interroger le patient sur une modification de la douleur ou l'apparition de signes d'alerte #INT
+** Différencier une lombalgie commune d'une lombalgie symptomatique #INT
+** Évaluer les limitations d'activité et les restrictions de participation, notamment professionnelles, dans la lombalgie chronique #INT
+** Réaliser l'examen clinique du rachis lombaire #CLI
+** Identifier les facteurs de risque psycho-sociaux de chronicisation/passage à la chronicité de la lombalgie #ETP
+** Proposer une prise en charge centrée sur le patient dans le cadre d'une décision médicale partagée dans le suivi de lombalgie chronique #PEC
+---
+

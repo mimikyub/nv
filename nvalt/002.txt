@@ -1,0 +1,12 @@
+* SDD-002 Diarrhée
+** Chercher les signes d'interrogatoire et les signes cliniques pour orienter l'enquête étiologique #CLI
+** Caractériser la diarrhée #CLI
+** Prescrire de manière adaptée les examens des selles #DGP
+** Chercher les complications de la diarrhée #DGP
+** Chercher par l'anamnèse les éléments orientant vers une toxi-infection alimentaire collective #INT
+** Mettre en place le traitement symptomatique de la diarrhée #PEC
+** Expliquer les conseils nutritionnels dans un contexte de diarrhée #ETP
+** Expliquer les règles d'hygiène dans un contexte de diarrhée #ETP
+** Initier le traitement d'une parasitose intestinale #PEC
+---
+

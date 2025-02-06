@@ -1,0 +1,10 @@
+* SDD-095 Découverte d'une anomalie au toucher rectal
+** Identifier des éléments de gravité locaux, généraux et/ou fonctionnels proctologiques et urologiques #CLI
+** Identifier l'origine anatomique et les caractéristiques sémiologiques de l'anomalie #CLI
+** Chercher les signes d'interrogatoire et les signes cliniques pour orienter l'enquête étiologique #CLI
+** Expliquer au patient les conditions, le déroulement et le but d'un examen uro-génital et proctologique #ANN
+** Prescrire et interpréter un dosage de PSA dans un contexte d'anomalie du toucher rectal #DGP
+** Réaliser l'examen uro-génital et proctologique #CLI
+** Identifier les situations justifiant la réalisation d'une endoscopie digestive #DGP
+---
+

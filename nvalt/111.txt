@@ -1,0 +1,12 @@
+* SDD-111 Saignement génital durant la grossesse
+** Chercher les facteurs de risque de saignements #INT
+** Adapter l'intérrogatoire et la prise en charge en fonction du moment de survenue durant la grossesse : 1°, 2° ou 3° trimestre #INT
+** Différencier une cause obstétricale d'une cause gynécologique #CLI
+** Réaliser un examen gynécologique pour évaluer le saignement et son origine #CLI
+** Réaliser un examen obstétrical #CLI
+** Chercher des élements de gravité incluant le retentissement hémodynamique et le retentissement fœtal #URG
+** Reconnaître les principaux éléments d'orientation sur un compte rendu d'échographie gynécologique et obstétricale #ICO
+** Diagnostiquer une grossesse extra-utérine #URG
+** Diagnostiquer un hématome rétro-placentaire, un placenta praevia #URG
+---
+

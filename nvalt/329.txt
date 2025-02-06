@@ -1,0 +1,9 @@
+* SDD-329 Conduite à tenir devant une demande d'accès à l'information - au dossier médical
+** Respecter le secret médical dans la transmission des informations au demandeur #PEC
+** Informer le patient sur ses droits d'accès à son dossier médical #ETP
+** Identifier les motivations de la demande d'accès à l'information/de consultation du dossier médical #INT
+** Déterminer le cadre réglementaire de transmission de l'information/du dossier médical #PEC
+** Expliquer au patient ou au demandeur les modalités de consultation du dossier médical #ETP
+** Respecter le délai de transmission de l'information/du dossier médical adapté à la situation rencontrée #PEC
+---
+

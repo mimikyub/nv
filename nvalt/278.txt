@@ -1,0 +1,12 @@
+* SDD-278 Consultation de suivi d'une femme ménopausée
+** Diagnostiquer une ménopause physiologique #INT
+** Réaliser un interrogatoire orienté et un examen gynécologique pelvien, sénologique et prendre la tension artérielle #CLI
+** Réaliser le dépistage du cancer du col de l'utérus et du cancer du sein selon les recommandations #ETP
+** Evaluer si les antécédents personnels ou familiaux justifient un dépistage mammaire hors dépistage organisé #INT
+** Evaluer si les antécédents personnels ou familiaux justifient une évaluation ostéodensitométrique #INT
+** Evaluer le risque cardiovasculaire artériel et veineux #DGP
+** Expliquer les principes du traitement hormonal de la ménopause, les alternatives thérapeutiques et les règles hygieno-diététiques adaptées #ETP
+** Discuter avec la patiente de la balance bénéfice-risque d'un traitement hormonal de la ménopause et la réévaluer #PEC
+** Diagnostiquer un syndrome génito-urinaire de la ménopause #INT
+---
+

@@ -1,0 +1,13 @@
+* SDD-170 Plaie
+** Identifier le mécanisme de la plaie, identifier le risque de souillure ou de corps étranger #INT
+** Décrire les caractéristiques sémiologiques de la plaies #CLI
+** Réaliser un examen clinique précis à la recherche de signes évocateurs de lésions de structures anatomiques nécessitant une exploration chirurgicale #CLI
+** Chercher des lésions osseuses associés #PEC
+** Identifier les situations nécessitant un avis chirurgical spécialisé #COM
+** Réaliser les premiers soins locaux #PEC
+** Evaluer le risque de tétanos et adapter la stratégie préventive #ETP
+** Réaliser une anesthésie locale #PRO
+** Réaliser une suture cutanée #PRO
+** Réaliser un pansement compressif #PRO
+---
+

@@ -1,0 +1,10 @@
+* SDD-258 Prévention de la douleur liée aux soins
+** Identifier les soins/procédures et les facteurs favorisants/déclenchants douloureux #ETP
+** Justifier la prescription de soins/procédures douloureux #ETP
+** Créer un environnement favorable pour la réalisation du soin/procédure douloureux #PEC
+** Evaluer la douleur avec un outil adapté à la situation #CLI
+** Anticiper, prescrire, surveiller et réévaluer la prise en charge antalgique multimodale #PEC
+** Anticiper, évaluer et prendre en charge l'anxiété associée aux douleurs #PEC
+** Réaliser une anesthésie locale #PRO
+---
+

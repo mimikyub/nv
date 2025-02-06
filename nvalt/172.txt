@@ -1,0 +1,13 @@
+* SDD-172 Traumatisme cranien
+** Organiser et sécuriser les premiers secours en pré-hospitalier #URG
+** Chercher les circonstances de survenue du traumatisme et les antécédents en précisant les troubles de l'hémostase congénital ou acquis #INT
+** Calculer le score de Glasgow adapté à l'âge, identifier ses limites et en déduire la gravité du traumatisme crânien #CLI
+** Examiner et immobiliser si besoin le rachis cervical d'un patient traumatisé crânien #PEC
+** Orienter la prise en charge thérapeutique en prévention des Agressions Cérébrales Secondaires d’Origines Systémiques (ACSOS) #PEC
+** Identifier les situations nécessitant la protection des voies aériennes supérieures #PEC
+** Réaliser un examen neurologique adapté à la situation incluant l'examen de la symétrie et de la réactivité des pupilles #CLI
+** Identifier les principales situations nécessitant un recours à un avis neurochirurgical urgent #URG
+** Préciser les modalités de surveillance selon la gravité du traumatisme crânien et orienter la prise en charge du patient vers la structure adaptée #PEC
+** Expliquer les consignes de surveillance d'un traumatisé crânien léger à domicile à un patient et son entourage #ETP
+---
+

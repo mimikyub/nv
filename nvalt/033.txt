@@ -1,0 +1,11 @@
+* SDD-033 Difficultés à procréer
+** Chercher des facteurs de risque d'infertilité féminine et masculine #INT
+** Chercher à l'examen clinique féminin des signes évoquant des troubles de la sécretion hormonale, une endometriose ou une pathologie génitale #CLI
+** Chercher à l'examen clinique masculin des signes évoquant des troubles de la sécretion hormonale ou une pathologie génitale #CLI
+** Evaluer la fréquence et la qualité des rapports sexuels #INT
+** Prescrire le bilan de première intention d'infertilité féminine : bilan hormonal, imagerie pelvienne #EXA
+** Prescrire un spermogramme et interpréter les résultats #EXA
+** Expliquer au patient les grands principes reglementaires et pratiques de l'assistance médicale à la procreation (AMP) et de la préservation de fertilité #PEC
+** Identifier les étiologies d'infertilité nécessitant une prise en charge en aide médicale à la procréation #ETP
+---
+

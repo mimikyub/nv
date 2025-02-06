@@ -1,0 +1,12 @@
+* SDD-096 Brulure mictionnelle
+** Chercher les signes d'interrogatoire et les signes cliniques (urologiques, extra-urologiques et généraux) pour orienter l'enquête étiologique #INT
+** Différencier le caractère aigu, subaigu ou chronique de la brûlure mictionnelle #INT
+** Identifier les éléments en faveur d'une atteinte infectieuse #CLI
+** Justifier l'indication d'une bandelette urinaire et d'un ECBU #CLI
+** Réaliser un examen uro-génital adapté à l'âge #CLI
+** Reconnaître les modifications biologiques en rapport avec une infection urinaire #EXA
+** Identifier à partir des données cliniques et paracliniques, la structure anatomique concernée #CLI
+** Proposer un bilan d'infection sexuellement transmissible, si pertinent #PEC
+** Dépister et prévenir les récidives de brûlures mictionnelles #ETP
+---
+

@@ -1,0 +1,7 @@
+* SDD-107 Prolapsus
+** Reconnaître cliniquement un prolapsus et éliminer les principaux diagnostics différentiels #CLI
+** Rechercher les signes urologiques, génito-sexuels et digestifs associés à la survenue d'un prolapsus #CLI
+** Distinguer une cystocèle, d'une hystérocèle, d'une colpocèle ou d'une rectocèle #CLI
+** Evoquer un prolapsus symptôme #DGP
+---
+

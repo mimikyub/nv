@@ -1,0 +1,12 @@
+* SDD-066 Apparition d'une difficulté à la marche
+** Caractériser le mode d'installation, le mode évolutif et les signes fonctionnels associés #INT
+** Quantifier l'altération de la capacité de marche par des tests cliniques simples #CLI
+** Réaliser une analyse visuelle qualitative de la marche, un examen neurologique, cardiovasculaire, ostéo-articulaire et général pour orienter l'enquête étiologique #CLI
+** Établir un diagnostic syndromique et topographique #CLI
+** Confronter les résultats des examens complémentaires prescrits à la plainte fonctionelle et aux données de l'examen clinique #EXA
+** Évaluer les conséquences: limitations d'activité, restrictions de participation et risque de chute #DGP
+** Prescrire et vérifier l'adaptation des aides techniques de première intention #PEC
+** Identifier les situations justifiant un avis chirurgical spécialisé #DGP
+** Rédiger une ordonnance de rééducation #PROPEC:SDD_066:
+---
+

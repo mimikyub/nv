@@ -1,0 +1,11 @@
+* SDD-091 Anomalies des muqueuses
+** Identifier le terrain, le mode de survenue, les facteurs déclanchants et les signes associés à l'anomalie des muqueuses #CLI
+** Caractériser les lésions muqueuses sur le plan sémiologique #CLI
+** Chercher à l'examen d'autres lésions muqueuses ou tégumentaires #CLI
+** Identifier un angioedème et reconnaître le caractère urgent de sa prise en charge #URG
+** Evaluer l'infiltration péri-lésionnelle et examiner les aires ganglionnaires de drainage #CLI
+** Evaluer le retentissement fonctionel sur le plan algique et nutritionnel #INT
+** Poser l'indication d'une biopsie devant une lésion muqueuse persistante #DGP
+** Poser l'indication d'un avis spécialisé devant une lésion muqueuse persistante #DGP
+---
+

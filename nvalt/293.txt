@@ -1,0 +1,9 @@
+* SDD-293 Consultation de suivi addictologie
+** Interroger le patient sur les symptômes de sevrage et l'existence de nouveaux symptômes depuis la dernière consultation #INT
+** Interroger le patient sur l'efficacité et la tolérance des traitements précédemment prescrits #INT
+** Evaluer le retentissement fonctionnel, sur la qualité de vie; promouvoir l'insertion socio-professionnelle #INT
+** Rédiger une prescription sur une ordonnance sécurisée #PRO
+** Dépister la survenue des complications à distance des addictions #CLI
+** Dépister de nouvelles comorbidités addictives et/ou psychiatriques #INT
+---
+

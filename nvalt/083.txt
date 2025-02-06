@@ -1,0 +1,8 @@
+* SDD-083 Cicatrice anormale
+** Chercher l'origine de la cicatrice, son mode évolutif, et les soins déjà appliqués #INT
+** Distinguer une cicatrice normale, d'une cicatrice pathologique, d'un retard de cicatrisation #CLI
+** Chercher une urgence chirurgicale, hémorragique ou infectieuse devant une cicatrice anormale #URG
+** Evaluer le retentissement psycho-social de la cicatrice #INT
+** Distinguer une plaie en cours de cicatrisation d'une plaie infectée #CLI
+---
+

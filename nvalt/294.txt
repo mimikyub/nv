@@ -1,0 +1,10 @@
+* SDD-294 Consultation de suivi de suivi en gynécologie
+** Réaliser un interrogatoire orienté #INT
+** Réaliser un examen gynécologique pelvien, sénologique et prendre la tension artérielle #CLI
+** Dépister les violences faites aux femmes #INT
+** Réaliser le dépistage du cancer du col de l'utérus et du cancer du sein selon les recommandations #ETP
+** Identifier les situations à risque d'IST et signes cliniques d'appel #INT
+** Réaliser une consultation pré-conceptionnelle et prescrire les examens appropriés chez une femme sans antécédent #PEC
+** Adapter la consultation aux différentes périodes de la vie génitale #CLI
+---
+

@@ -1,0 +1,9 @@
+* SDD-152 Oeil rouge et - ou douloureux
+** Caractériser la douleur oculaire et les signes associés #INT
+** Caractériser la rougeur et différencier une hémorragie sous-conjonctivale d'une autre cause #CLI
+** Chercher les signes d'interrogatoire permettant d'orienter l'enquête étiologique #INT
+** Réaliser un examen non specialisé de l'œil, de ses annexes, du champ visuel, de l'oculomotricité et du tonus oculaire #CLI
+** Identifier les situations nécessitant une prise en charge ophtalmologique en urgence #URG
+** Initier la prise en charge d'une crise aiguë de fermeture de l'angle #URG
+---
+

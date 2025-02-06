@@ -1,0 +1,8 @@
+* SDD-204 Elévation des marqueurs biochimiques cardiaques
+** Identifier les situations justifiant le dosage des marqueurs biochimiques cardiaques #DGP
+** Réaliser un électrocardiogramme de repos 18 dérivations #PRO
+** Interpréter une variation des marqueurs biochimiques cardiaques, à l'aide des éléments cliniques et paracliniques #EXA
+** Distinguer une étiologie cardiaque et extra-cardiaque, à l'aide des éléments cliniques et paracliniques #DGP
+** Identifier les situations d'urgences justifiant une hospitalisation conventionnelle ou en soins critiques #URG
+---
+

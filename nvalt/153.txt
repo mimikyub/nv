@@ -1,0 +1,10 @@
+* SDD-153 Otalgie
+** Réaliser un examen de l'oreille externe et une otoscopie #CLI
+** Chercher les éléments d'interrogatoire et clinique permettant de localiser l'atteinte anatomique responsable de l'otalgie : oreille externe, oreille moyenne, otalgie réflexe, névralgie #DGP
+** Intier une prise en charge thérapeutique symptomatique et étiologique #PEC
+** Identifier les situations nécéssitant la réalisation d'une imagerie médicale #DGP
+** Adopter une conduite de réassurance pour réaliser un examen otoscopique #CLI
+** Réaliser une otoscopie #PRO
+** Distinguer à l'otoscope les différents éléments anatomiques de l'oreille externe et de l'oreille moyenne #CLI
+---
+

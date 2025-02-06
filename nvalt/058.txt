@@ -1,0 +1,7 @@
+* SDD-058 Splénomégalie
+** Reconnaitre une splénomégalie à l'examen clinique #CLI
+** Chercher les signes d'interrogatoire et les signes cliniques pour orienter l'enquête étiologique #CLI
+** Reconnaitre une splénomégalie sur un examen d'imagerie (coupe de scanner abdominal) #ICO
+** Mettre en place les mesures prophylactiques nécessaires avant et après une splénectomie diagnostique ou thérapeutique #ETP
+---
+

@@ -1,0 +1,12 @@
+* SDD-283 Consultation de suivi et éducation thérapeutique d'un patient asthmatique
+** Interroger le patient sur le vécu de son asthme et de son traitement et l'existence de nouveaux symptômes depuis la dernière consultation #INT
+** Expliquer les mécanismes d'action des traitements de l'asthme #ETP
+** Evaluer le contrôle de l'asthme #INT
+** Interpréter une épreuve fonctionnelle respiratoire et un débit expiratoire de pointe #EXA
+** Chercher une cause professionnelle ou allergique #INT
+** Informer le patient des facteurs d'exacerbation sévère d'asthme et lui expliquer les mesures d'eviction allergénique #ETP
+** Prévenir et expliquer la survenue d'effets secondaires au traitement #ETP
+** Rédiger et expliquer un plan d'action en cas de crise #URG
+** Evaluer les techniques de prise des traitements inhalés #ETP
+---
+

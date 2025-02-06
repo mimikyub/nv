@@ -1,0 +1,8 @@
+* SDD-017 Amaigrissement
+** Quantifier la perte de poids et sa vitesse de survenue #INT
+** Chercher des signes de dénutrition et de carences #CLI
+** Déterminer le mécanisme de l'amaigrissement : diminution des ingesta, perte calorique, augmentation des dépenses et malabsorption #DGP
+** Chercher à l'interrogatoire et l'examen clinique les éléments d'orientation diagnostique vers les grandes causes d'amaigrissement #CLI
+** Orienter le patient vers le spécialiste adapté selon le diagnostic envisagé #PEC
+---
+

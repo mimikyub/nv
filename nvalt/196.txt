@@ -1,0 +1,9 @@
+* SDD-196 Analyse du sédiment urinaire
+** Identifier les situations cliniques justifiant l'analyse du sédiment urinaire #DGP
+** Caractériser la nature du sédiment et corréler aux examens biologiques sanguins et urinaires #EXA
+** Mesurer la pression artérielle, chercher des oedèmes et des signes en faveur d'une maladie systémique #CLI
+** Réaliser un examen du pelvis et des fosses lombaires #CLI
+** Chercher des signes en faveur d'une infection urinaire et évaluer la gravité #CLI
+** Analyser les élements cliniques et paracliniques et orienter le diagnostic étiologique vers une pathologie néphrologique, urologique, infectieuse #EXA
+---
+

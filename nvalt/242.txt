@@ -1,0 +1,10 @@
+* SDD-242 Gestion du sevrage tabagique contraint
+** Evaluer le niveau de dépendance au tabac #INT
+** Quantifier la consommation de tabac récente, son historique #INT
+** Chercher les autres dépendances #INT
+** Chercher les antécédents psychiatriques personnels, notamment dépression et tentatives de suicide #INT
+** Mettre en place une substitution nicotinique adaptée au patient #PEC
+** Evaluer les risques de non-observance au cadre de soin en contexte d'hospitalisation et ouvrir des solutions, le cas échéant #PEC
+** Initier le bilan du tabagisme chronique en fonction du contexte #PEC
+---
+

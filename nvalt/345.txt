@@ -1,0 +1,12 @@
+* SDD-345 Situation de handicap
+** Identifier les situations cliniques justifiant une évaluation des conséquences fonctionnelles et sociales de la maladie #PEC
+** Analyser les principales situations de handicap (examen clinique, questionnaires, échelles) #CLI
+** Evaluer les limitations d'activité et restrictions de participation #CLI
+** Identifier les besoins en rééducation #PEC
+** Identifier les situations qui pourraient nécessiter une compensation matérielle ou humaine #INT
+** Expliquer aux patients et à l'entourage les conséquences fonctionnelles d'une pathologie chronique invalidante #ANN
+** Expliquer aux patients et à l'entourage les éléments du pronostic fonctionnel et les possibilités de récupération et de compensation #ANN
+** Evaluer le retentissement sur les aidants #INT
+** Orienter vers la maison du handicap #PEC
+---
+

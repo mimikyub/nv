@@ -1,0 +1,12 @@
+* SDD-028 Coma et troubles de conscience
+** Interroger l’entourage, les témoins et l'équipe de secours pour recueillir l’histoire de la maladie et orienter les hypothèses diagnostiques #INT
+** Calculer le score de Glasgow adapté à l'âge, identifier ses limites et en déduire la profondeur du coma #DGP
+** Réaliser les premières mesures de protection des voies aériennes et identifier les situations nécessitant une intubation #URG
+** Réaliser une glycémie capillaire #PRO
+** Evoquer et chercher rapidement les causes systémiques et neurologiques cliniquement observables d'un coma #DGP
+** Prescrire en fonction des premiers élements cliniques observés et interpréter un examen d'imagerie, une ponction lombaire et/ou des explorations biologiques adaptées #DGP
+** Organiser la conduite des explorations paracliniques en fonction des premiers élements cliniques observés, dont l'imagerie, la ponction lombaire et les explorations biologiques #DGP
+** Distinguer les situations nécessitant une intervention thérapeutique urgente, des situations nécessitant une surveillance #PEC
+** Réaliser une ponction lombaire #PRO
+---
+

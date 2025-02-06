@@ -1,0 +1,12 @@
+* SDD-197 Analyse des bicarbonates
+** Reconnaître une dyspnée de Kussmaul #CLI
+** Calculer un trou anionique plasmatique et en déduire une orientation étiologique devant une acidose métabolique #DGP
+** Réaliser un interrogatoire et un examen clinique adapté aux résultats biologiques #DGP
+** Prescrire de manière raisonnée les explorations biologiques adaptées devant une acidose métabolique en fonction du trou anionique plasmatique #DGP
+** Identifier les principaux mécanismes d'alcalose métabolique et en déduire une orientation étiologique #DGP
+** Initier la prise en charge thérapeutique dans les situations urgentes et orienter la prise en charge en unité adaptée #PEC
+** Reconnaître l'impact des médicaments diurétiques sur les bicarbonates sanguins #EXA
+** Corriger une acidose métabolique chez un patient présentant une insuffisance rénale chronique à un stade sévère #PEC
+** Réaliser un prélèvement artériel pour analyse des gaz du sang et de la lactacidémie #PRO
+---
+

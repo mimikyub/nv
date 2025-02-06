@@ -1,0 +1,12 @@
+* SDD-330 Accompagnement global d'un aidant
+** Evaluer le contexte socio psychologique du patient et/ou de sa famille #INT
+** Identifier les aidants naturels du patient #INT
+** Recueillir le vécu de la situation auprès de l'aidant #INT
+** Repérer les signes de souffrance ou d'épuisement de l'aidant #INT
+** Identifier et anticiper les besoins médicaux, sociaux, psychologiques de l'aidant #INT
+** Transmettre les informations pertinentes à l'aidant dans le respect du cadre législatif et déontologique #ANN
+** Proposer les dispositifs de soutien médicaux, techniques, sociaux et psychologiques destinés à l'aidant #PEC
+** Etablir une relation de confiance avec les aidants #ANN
+** Intégrer l'aidant dans le projet de soins #PEC
+---
+

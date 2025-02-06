@@ -1,0 +1,9 @@
+* SDD-117 Apathie
+** Chercher à l'interrogatoire et à l'examen clinique une étiologie non psychiatrique, en particulier une étiologie neurologique #CLI
+** Réaliser un entretien psychiatrique à la recherche d'une étiologie psychiatrique, en particulier, dépression et schizophrénie #INT
+** Evaluer le retentissement de l'apathie sur la vie quotidienne #CLI
+** Indiquer un traitement de fond de la maladie étiologique #PEC
+** Expliquer l'intérêt d'une thérapeutique non médicamenteuse et la mettre en place dans le cadre de la décision partagée #PEC
+** Soutenir les proches dans leur rôle d'aidant #ETP
+---
+

@@ -1,0 +1,13 @@
+* SDD-312 Prévention des risques fœtaux
+** Prescrire de manière adaptée les examens complémentaires de dépistage au cours de la grossesse #DGP
+** Orienter la démarche diagnostique en cas d'infection lors de la grossesse #PEC
+** Prévenir et diagnostiquer l'alloimmunisation anti-érythrocytaire #PEC
+** Adapter les traitements médicamenteux au cours de la grossesse et informer sur les risques associés à l'automédication #PEC
+** Appliquer les recommandations vaccinales chez la femme en âge de procréer ou enceinte #ETP
+** Expliquer le mode de transmission, les conséquences et les mesures préventives des principales pathologies infectieuses maternelles à risque fœtal #INT
+** Expliquer les conséquences d'une addiction sur la grossesse #INT
+** Organiser la prise en charge spécifique dans le but de prévenir les risques fœtaux (ie.suivi tabacologique, information sur l'alcool…) #PEC
+** Chercher et identifier les risques foetaux en lien avec l'environnement socio-professionnel #INT
+** Evaluer la balance bénéfice/risque d'un examen d'imagerie irradiant au cours de la grossesse #DGP
+---
+

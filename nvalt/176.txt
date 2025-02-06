@@ -1,0 +1,13 @@
+* SDD-176 Traumatisme sévère
+** Identifier le mécanisme du traumatisme #INT
+** Organiser et sécuriser les premiers secours en pré-hospitalier #URG
+** Réaliser un bilan lésionnel complet #CLI
+** Hiérarchiser la prise en charge thérapeutique immédiate et des premières heures #PEC
+** Adapter la mobilisation et le transport au contexte du traumatisme sévère #PEC
+** Proposer une prise en charge antalgique multimodale adaptée #PEC
+** Adapter l'état hémodynamique en fonction de l'âge et du traumatisme #PEC
+** Prévenir les complications locales et générales des traumatisés sévères #PEC
+** Proposer une rééducation et un suivi des séquelles somatiques et psychologiques #PEC
+** Prévenir le risque de contamination par Clostridium tetani #ETP
+---
+

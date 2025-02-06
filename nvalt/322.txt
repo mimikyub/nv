@@ -1,0 +1,12 @@
+* SDD-322 Vaccinations de l'adulte et de l'enfant
+** Effectuer un entretien permettant d'identifier les antécédents, traitements, statut vaccinal et sérologique et le contexte socio-environnemental #INT
+** Expliquer les objectifs, bénéfices et effets indésirables fréquents d'une prise en charge vaccinale, et des principaux vaccins #ETP
+** Mettre à jour le calendrier vaccinal pour la population générale #PEC
+** Identifier l'indication et proposer une vaccination spécifique pour une population ciblée #PEC
+** Adapter l'indication des vaccinations en fonction du risque individuel et collectif #PEC
+** Identifier un schéma de vaccination incomplet/inconnu et proposer un rattrapage #PEC
+** Décrire les modalités pratiques d'une vaccination #ETP
+** Administrer un vaccin #PRO
+** Consigner sur le carnet de santé les vaccinations effectuées et programmer les suivantes #COM
+---
+

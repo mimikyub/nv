@@ -1,0 +1,10 @@
+* SDD-065 Déformation rachidienne
+** Réaliser l'examen clinique des différents segments rachidiens #CLI
+** Identifier à l'examen physique un déséquilibre rachidien frontal, sagittal et axial #CLI
+** Chercher les signes cliniques orientant vers une étiologie secondaire de la déformation rachidienne #CLI
+** Déterminer à l'examen physique le caractère réductible ou non de la déformation #CLI
+** Évaluer le retentissement viscéral, respiratoire, neurologique et fonctionnel de la déformation rachidienne #CLI
+** Identifier les situations justifiant la prescription d'examens d'imagerie #DGP
+** Reconnaître une déformation rachidienne sur l'imagerie panrachidienne en charge #ICO
+---
+

@@ -1,0 +1,11 @@
+* SDD-128 Tremblements
+** Caractériser la sémiologie du tremblement #CLI
+** Déterminer si un tremblement s'intègre ou non dans un syndrome extra-pyramidal #DGP
+** Chercher et identifier les éléments d'une maladie de Parkinson et d'un syndrome parkinsonien atypique #CLI
+** Chercher une cause iatrogène de tremblement ou de syndrome parkinsonien #INT
+** Proposer une prise en charge thérapeutique de première intention devant une maladie de Parkinson #PEC
+** Proposer une prise en charge thérapeutique de première intention devant une maladie de parkinson #PEC
+** Expliquer au patient et à son entourage le pronostic et l'évolution de la maladie de Parkinson #ANN
+** Expliquer au patient et à son entourage le pronostic et l'évolution de la maladie de parkinson #ANN
+---
+

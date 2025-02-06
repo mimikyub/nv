@@ -1,0 +1,11 @@
+* SDD-097 Rétention aigue d'urines
+** Diagnostiquer une rétention aiguë d'urine #URG
+** Chercher un facteur déclanchant/favorisant et proposer des mesures de prévention adaptée #ETP
+** Différencier une rétention aiguë ou subaiguë, d'une rétention chronique #PEC
+** Réaliser un examen uro-génital et un toucher rectal #CLI
+** Chercher et prevenir les complications de la rétention aiguë d'urine #PEC
+** Réaliser un sondage vésical #PRO
+** Poser l'indication d'un drainage par sonde vésicale ou cathéter sus-pubien #PEC
+** Réaliser un bladder-scanner #PRO
+---
+

@@ -1,0 +1,9 @@
+* SDD-068 Boiterie
+** Identifier cliniquement une boiterie, la caractériser, distinguer une boiterie d'esquive d'une boiterie d'équilibration #CLI
+** Chercher les éléments de l'interrogatoire et de l'examen clinique orientant vers une cause ostéo-articulaire ou extra-ostéo-articulaire #CLI
+** Identifier les signes d'alerte (drapeaux rouges) orientant vers une pathologie sous-jacente nécessitant une prise en charge urgente #URG
+** Evaluer la douleur et prescrire les mesures thérapeutiques adaptées #PEC
+** Expliquer au patient les modalités d'une ponction acticulaire #ETP
+** Identifier les indications et chercher les contre-indications à la ponction articulaire, et analyser les résultats #DGP
+---
+

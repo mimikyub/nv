@@ -1,0 +1,9 @@
+* SDD-142 Corps étranger de l'oreille ou du nez
+** Diagnostiquer un corps étranger de l'oreille ou du nez #CLI
+** Orienter la prise en charge en cas de pile bouton #URG
+** Evoquer la présence d'un corps étranger de l'oreille ou du nez devant des signes chroniques #DGP
+** Planifier la stratégie thérapeutique de retrait du corps étranger #PEC
+** Diagnostiquer les complications possibles d'un corps étranger de l'oreille ou du nez #CLI
+** Informer les patients/parents sur les risques associés aux piles boutons et prévenir l'insertion de corps étrangers #ETP
+---
+

@@ -1,0 +1,11 @@
+* SDD-121 Déficit neurologique sensitif et - ou moteur
+** Argumenter et justifier les explorations complémentaires et le délai de réalisation #DGP
+** Caracteriser la sémiologie du déficit neurologique et l'intégrer dans un tableau neurologique #CLI
+** Chercher des éléments de gravité généraux et/ou fonctionnels #URG
+** Déterminer l'orientation étiologique en fonction des données anamnestiques et reconnaitre le caractère neurologique du déficit #INT
+** Grader l'intensité du déficit avec les scores adaptés #CLI
+** Identifier les situations devant faire discuter un transfert en réanimation #URG
+** Initier la prise en charge pré-hospitalière en cas d'une suspicion d'accident vasculaire cérébral #URG
+** Initier la prise en charge thérapeutique du déficit neurologique en fonction de l'hypothèse étiologique #PEC
+---
+

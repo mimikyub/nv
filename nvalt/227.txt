@@ -1,0 +1,9 @@
+* SDD-227 Découverte d'une anomalie médullaire ou vertébrale à l'examen d'imagerie médicale
+** Identifier le type d'imagerie réalisée et ses caractéristiques techniques #ICO
+** Identifier les différents éléments anatomiques du rachis cervical, dorsal et lombaire #ICO
+** Déterminer la structure anatomique siège de l'anomalie #ICO
+** Décrire les caractéristiques sémiologiques de l'anomalie orientant vers une étiologie infectieuse, inflammatoire, tumorale, malformative ou mécanique #ICO
+** Justifier l'indication d'un scanner et d'une IRM #DGP
+** Intégrer l'anomalie d'imagerie au contexte clinique et paraclinique #EXA
+---
+

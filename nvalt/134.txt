@@ -1,0 +1,11 @@
+* SDD-134 Troubles du langage et - ou phonation
+** Caractériser la sémiologie du trouble: aphasie sensitive ou motrice; dysphonie; dysarthrie; trouble de la phonation; trouble développemental du langage et des sons, de la parole et de la fluence #INT
+** Caractériser le trouble du langage: réceptif ou productif; oral ou écrit #INT
+** Eliminer un trouble de l'audition #CLI
+** Réaliser en fonction du contexte, un examen neurologique, de la cavité buccale et ORL #CLI
+** Chercher un retard du développement psycho-moteur #INT
+** Évaluer le retentissement scolaire, familial, social et profesionnel #INT
+** Identifier les situations nécéssitant un bilan orthophonique #PEC
+** Rédiger une ordonnance d'orthophonie #PRO
+---
+

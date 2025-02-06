@@ -1,0 +1,11 @@
+* SDD-161 Douleur thoracique
+** Eliminer et chercher en priorité les quatre urgences cardio-vasculaires #URG
+** Caractériser la douleur, l'évolution, son mode d'installation et les signes associés #INT
+** Chercher à l'examen clinique les signes d'orientation étiologique #PEC
+** Réaliser un électrocardiogramme de repos 18 dérivations #PRO
+** Initier la prise en charge thérapeutique symptomatique et étiologique urgente #PEC
+** Identifier les situations d'urgence nécessitant une hospitalisation en secteur traditionel ou en soin intensif/critique #URG
+** Prescrire les éléments de surveillance adaptés au contexte #PEC
+** Contextualiser, rationnaliser et interpréter les biomarqueurs à visée diagnostique #EXA
+---
+

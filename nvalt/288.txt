@@ -1,0 +1,11 @@
+* SDD-288 Consultation de suivi et traitement de fond d'un patient dépressif
+** Mener un entretien psychiatrique avec un patient présentant des symptômes dépressifs #INT
+** Evaluer le retentissement socio-professionnel, familial et sur la qualité de vie #PEC
+** Evaluer de manière systématique le risque suicidaire (Risque, Urgence, Dangerosité) :Urgence,Examen_clinique:SDD_288:
+** Chercher des signes et symptômes dépressifs, leur intensité, leur évolution avec d'éventuels traitements, en fonction de l'âge #DGP
+** Indiquer et informer le patient sur les bénéfices et les risques attendus d'un antidépresseur #PEC
+** Réévaluer systématiquement la pertience de la prescription d'anxiolytiques, d'hypnotiques et prévenir la dépendance aux benzodiazépines #PEC
+** Indiquer et informer le patient sur les bénéfices d'une psychothérapie spécifique #PEC
+** Evaluer les complications et co-morbidités psychiatriques et addictologiques #INT
+---
+

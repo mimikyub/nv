@@ -1,0 +1,10 @@
+* SDD-333 Demande d'un certificat médical initial
+** Différencier un certificat médical initial descriptif d'un autre certificat médical #INT
+** Effectuer un interrogatoire et un examen clinique détaillé #INT
+** Initier la rédaction un certificat médical initial #PRO
+** Distinguer les alégations du patients et les constatations médicales #INT
+** Décrire, de façon détaillée et précise, les lésions objectivées en évitant toute interprétation #CLI
+** S'assurer de la remise en mains propres à la demande du patient/responsables légaux #PEC
+** Evaluer le retentissement physique et psychologique #CLI
+---
+

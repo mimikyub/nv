@@ -1,0 +1,12 @@
+* SDD-279 Consultation de suivi d'une pathologie chronique
+** Interroger le patient sur le vécu de sa pathologie chronique et de son traitement et l'existence de nouveaux symptomes depuis la dernière consultation #INT
+** Examiner le patient à la recherche de complications ou d'une décompensation de sa pathologie chronique #CLI
+** Chercher les facteurs de risques de décompensation et les prévenir #INT
+** Chercher et prévenir les comorbidités #INT
+** Déterminer avec le patient la prise en charge thérapeutique optimale adaptée à sa situation #PEC
+** Planifier le suivi au long cours chez un patient atteint d'une pathologie chronique #PEC
+** Rédiger une ordonnance conforme à la prise en charge d'une ALD #PRO
+** Evaluer le retentissement socio-professionnel de la pathologie chronique #INT
+** Favoriser l'adoption par le patient de mesures physiques et diététiques favorisant la santé #ETP
+---
+

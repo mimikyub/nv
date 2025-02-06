@@ -1,0 +1,9 @@
+* SDD-216 Anomalie leucocytes
+** Détecter et interpréter une anomalie de la numération et de la formule leucocytaire #EXA
+** Intégrer l'anomalie leucocytaire à l'analyse de l'hémogramme #DGP
+** Conduire l'interrogatoire et l'examen clinique devant des anomalies fréquentes de la formule leucocytaire #CLI
+** Rechercher les signes de gravité devant une neutropénie #URG
+** Evaluer le degré d'urgence selon le type cellulaire impliqué dans l'hyperleucocytose #URG
+** Prescrire les examens biologiques sanguins et médullaires de première intention #DGP
+---
+

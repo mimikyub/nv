@@ -1,0 +1,10 @@
+* SDD-020 Découverte d'anomalies à l'auscultation pulmonaire
+** Argumenter et justifier les explorations fonctionelles adaptées #PEC
+** Chercher les éléments de l'interrogatoire et les signes cliniques pulmonaires et extra-pulmonaires pour orienter l'enquête étiologique #CLI
+** Décrire la sémiologie de l'anomalie auscultatoire: nature, localisation, symétrie #CLI
+** Déterminer la structure anatomique concernée en fonction de l'anomalie auscultatoire et des données de l'examen clinique #CLI
+** Déterminer le caractère aigu ou chronique des symptômes respiratoires associés #INT
+** Identifier les situations d'urgence devant une anomalie auscultatoire :Urgence_vitale:SDD_020:
+** Interpréter une radiographie de thorax en rapport avec une anomalie auscultatoire #ICO
+---
+

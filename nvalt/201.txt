@@ -1,0 +1,10 @@
+* SDD-201 Dyskaliémie
+** Chercher les symptômes cliniques d'une dyskaliémie #CLI
+** Réaliser un électrocardiogramme de repos 18 dérivations #PRO
+** Identifier les signes électrocardiographiques de dyskaliémie et reconnaître les signes de gravité #ICO
+** Identifier les situations où la kaliémie mesurée est faussement élevée #EXA
+** Eliminer une insuffisance rénale, un trouble de l'équilibre acide-base, des pertes extra-rénales ou rénales de potassium et une hypertension artérielle #DGP
+** Chercher une cause médicamenteuse ou toxique responsable de dyskaliémie #INT
+** Initier la prise en charge thérapeutique dans les situations urgentes et orienter la prise en charge en unité adaptée #PEC
+---
+

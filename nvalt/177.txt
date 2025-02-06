@@ -1,0 +1,13 @@
+* SDD-177 Traumatisme thoracique
+** Organiser, sécuriser les premiers secours en pré-hospitalier #PEC
+** Identifier le mécanisme du traumatisme #INT
+** Evoquer une lésion viscérale intrathoracique avec ou sans lésion traumatique externe #DGP
+** Chercher des lésions associées extra-thoraciques #DGP
+** Chercher un emphysème sous cutané, une asymétrie d'ampliation thoracique et des signes d'insuffisance cardiaque droite aiguë #CLI
+** Identifier un état de choc et déterminer son mécanisme #URG
+** Identifier les situations indiquant le recours à une thérapeutique de sauvetage #URG
+** Planifier la prise en charge initale adaptée au degré d'urgence #PEC
+** Proposer un drainage thoracique en cas d'épanchement pleural gazeux ou liquidien #PEC
+** Proposer une analgésie multimodale #PEC
+---
+

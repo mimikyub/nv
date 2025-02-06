@@ -1,0 +1,12 @@
+* SDD-352 Expliquer un traitement au patient (adulte - enfant - adolescent)
+** Evaluer le contexte socio-psychologique du patient et/ou de sa famille #INT
+** Chercher lors de l'entretien les attentes du patient #INT
+** Expliquer les modalités de prise des traitements #ETP
+** Expliquer les effets indésirables potentiels et les associations médicamenteuses contre-indiquées #PEC
+** Communiquer dans un langage compréhensible pour le patient et/ou son entourage et s'assurer de la bonne compréhension du patient #INT
+** Expliquer au patient les modalités de surveillance du traitement prescrit #PEC
+** Ecouter et répondre aux interrogations du patient #INT
+** Expliquer les principes d'un traitement probabiliste #ANN
+** Identifier les facteurs pouvant conduire à une mauvaise observance et tenter de les corriger #INT
+---
+

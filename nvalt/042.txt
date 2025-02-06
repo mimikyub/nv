@@ -1,0 +1,12 @@
+* SDD-042 Hypertension artérielle
+** Mesurer une pression artérielle dans les conditions recommandées #CLI
+** Confirmer le diagnostic d'HTA, identifier le grade, prescrire une automesure tensionnelle et une mesure ambulatoire de la pression artérielle (MAPA) #DGP
+** Diagnostiquer et prendre en charge une urgence hypertensive #URG
+** Chercher à l'interrogatoire les antécédents et les facteurs de risque cardiovasculaires #INT
+** Prescrire les examens complémentaires de première intention #DGP
+** Identifier les situations suspectes d'HTA secondaires #DGP
+** Prescrire de manière raisonnée les explorations complémentaires en cas de suspicion d'HTA secondaire #DGP
+** Chercher des atteintes d'organes cibles et d'autres anomalies vasculaires #DGP
+** Initier une prise en charge thérapeutique adaptée à la situation clinique du patient #PEC
+---
+

@@ -1,0 +1,10 @@
+* SDD-013 Nausées-vomissements
+** Caractériser les nausées-vomissements, l'évolution, le mode d'installation et les signes associés #INT
+** Distinguer des nausées d’une anorexie #INT
+** Chercher les signes d'interrogatoire et les signes cliniques pour orienter l'enquête étiologique #CLI
+** Identifier une urgence chirurgicale, neurologique ou métabolique #URG
+** Eliminer une grossesse #DGP
+** Evaluer le retentissement général, fonctionnel, biologique et/ou nutritionnel #DGP
+** Proposer une prise en charge thérapeutique symptomatique ou préventive #PEC
+---
+

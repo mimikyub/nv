@@ -1,0 +1,6 @@
+* SDD-221 Interprétation d'un myélogramme
+** Expliquer au patient les modalités de l'examen, ses objectifs et ses limites d'interprétation #ANN
+** Interpréter le résultat du myélogramme en prenant en compte la richesse médullaire, la présence de cellules anormales ou d'anomalies morphologiques cellulaires #DGP
+** Prescrire une biopsie ostéo-médullaire selon le contexte clinique et les résultats du myélogramme #PEC
+---
+

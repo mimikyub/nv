@@ -1,0 +1,10 @@
+* SDD-112 Saignement génital anormal (hors grossesse connue)
+** Evaluer la quantité, la durée et la période des saignements #INT
+** Différencier les ménorragies et les métrorragies, des menstruations normales #INT
+** Réaliser un examen gynécologique pour évaluer le saignement et son origine #CLI
+** Evaluer la tolérance hémodynamique #URG
+** Chercher à l'interrogatoire et à l'examen clinique des éléments d'orientation étiologique #CLI
+** Eliminer une grossesse chez une femme en âge de procréer #DGP
+** Proposer une prise charge thérapeutique #PEC
+---
+

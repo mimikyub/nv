@@ -1,0 +1,12 @@
+* SDD-302 Consultation aux voyageurs
+** Evaluer les risques d'un voyage en fonction de la destination, du type de voyage et du voyageur #INT
+** Expliquer les risques particuliers et dissuader d'un voyage/ une destination devant une situation épidémiologique ou un terrain de fragilité particulier du voyageur #ETP
+** Expliquer les mesures de prévention en fonction des risques identifiés #ETP
+** Proposer si nécessaire les vaccinations en fonction de la destination, du type de voyage et du voyageur et mettre à jour le calendrier vaccinal #ETP
+** Expliquer la protection personnelle contre les piqures d'anophèle et prescrire une chimioprophylaxie antipaludique en fonction de la destination, du type de voyage et du voyageur #ETP
+** Expliquer la conduite à tenir en cas de morsure et informer sur le risque de rage #ETP
+** Expliquer la conduite à tenir en cas de plaie ou piqure d'insecte et informer sur le risque d'infection #ETP
+** Expliquer la conduite à tenir en cas de fièvre/syndrome infectieux #ETP
+** Expliquer la conduite à tenir en cas de diarrhée et informer sur les signes de gravité #ETP
+---
+

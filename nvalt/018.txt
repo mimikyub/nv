@@ -1,0 +1,12 @@
+* SDD-018 Découverte d'anomalies à l'auscultation cardiaque
+** Décrire et identifier une anomalie ausculatoire #CLI
+** Chercher les signes d'interrogatoire et signes cliniques cardiaques et extra-cardiques permettant d'orienter l'enquête étiologique #CLI
+** Chercher les éléments anté-nataux et post-nataux associés à la découverte d'un souffle cardiaque chez le nouveau-né #CLI
+** Orienter la prise en charge d'un patient souffrant d'une valvulopahtie #PEC
+** Identifier les situations nécessitant une hospitalisation conventionelle ou en soins critiques #PEC
+** Evaluer le retentissement cardio-vasculaire chez un patient présentant une anomalie auscultatoire #CLI
+** Identifier les situations necessitant la réalisation d'une échocardiographie #DGP
+** Organiser son raisonnement en fonction de la présence d'une valve cardique prothétique #PEC
+** Réaliser un électrocardiogramme de repos 18 dérivations #PRO
+---
+

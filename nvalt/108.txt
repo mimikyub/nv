@@ -1,0 +1,8 @@
+* SDD-108 Anomalie des bourses
+** Différencier une anomalie des bourses aigue et chronique #CLI
+** Différencier une pathologie testiculaire d'une pathologie des annexes #CLI
+** Justifier et expliquer une indication de chirurgie scrotale en urgence #URG
+** Orienter son interrogatoire et son examen vers une cause urologique ou extra urologique #CLI
+** Réaliser l'examen urologique des bourses et du scrotum et caractériser l'anomalie chez le nouveau-né, l'enfant et l'adulte #CLI
+---
+

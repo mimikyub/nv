@@ -1,0 +1,12 @@
+* SDD-282 Prescription médicamenteuse,consultation de suivi et éducation d'un patient hypertendu
+** Interroger le patient sur le vécu de son HTA et de son traitement et l'existence de nouveaux symptômes depuis la dernière consultation #INT
+** Prendre connaissance des résultats des examens complémentaires et les expliquer au patient #EXA
+** Examiner le patient à la recherche de complications de l'HTA ou d'autres facteurs de risque cardio-vasculaire, et chercher une hypotension orthostatique #CLI
+** Discuter avec le patient des principaux effets indésirables des grandes classes d'antihypertenseurs et lui expliquer les principes thérapeutiques médicamenteux et non médicamenteux #ETP
+** Expliquer l'automesure tensionnelle #ETP
+** Initier ou adapter un traitement antihypertenseur en intègrant la notion de bénéfice-risque et de sécurité pour le patient #PEC
+** Expliquer au patient les mesures non médicamenteuses à associer au traitement et la prise en charge des autres facteurs de risques cardiovasculaires #ETP
+** Expliquer au patient les complications liées à l'HTA et les signes cliniques d'alerte #ETP
+** Expliquer et planifier les modalités du suivi : tolérance des traitements, équilibre de l'HTA et suivi biologique #PEC
+---
+

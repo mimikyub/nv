@@ -1,0 +1,12 @@
+* SDD-355 Organisation de la sortie d'hospitalisation
+** Identifier et prendre en charge les facteurs de risque de réhospitalisation #PEC
+** Proposer une évaluation et un suivi social #ETP
+** Associer le patient et son entourage au projet de sortie #ETP
+** Evaluer la capacité du patient et/ou de son entourage à un retour et à un maintien sécurisés à domicile #ETP
+** Solliciter les structures de soins à domicile adaptées à la situation clinique (ex: prestataires, HAD, réseaux, CLIC…) #ETP
+** Anticiper les risques évolutifs et la conduite à tenir en cas de problématique médicale #DGP
+** Communiquer au médecin traitant et aux soignants du domicile les informations permettant d'assurer la continuité des soins #COM
+** Expliquer les ordonnances et les autres papiers de sortie (ex: bon de transport, Arrêt de travail, certificats..) #ETP
+** S'assurer de la possiblité d'accès à tous les traitements avant la sortie de l'hôpital #PEC
+---
+

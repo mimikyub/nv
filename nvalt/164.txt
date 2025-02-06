@@ -1,0 +1,10 @@
+* SDD-164 Anomalie de l'examen clinique mammaire
+** Caractériser le mode d'installation et le mode évolutif de l'anomalie #INT
+** Chercher les facteurs de risque de cancer du sein #INT
+** Réaliser un examen mammaire complet ainsi qu'un examen des aires ganglionnaires axillaires et sus-claviculaires #CLI
+** Chercher un écoulement mamelonaire associé selon le contexte #CLI
+** Reconnaître cliniquement une lésion bénigne d'une lésion suspecte de malignité #CLI
+** Reconnaître les éléments en faveur d'un abcès mammaire #CLI
+** Evaluer le développement mammaire selon les stades de Tanner #CLI
+---
+

@@ -1,0 +1,9 @@
+* SDD-275 Prise en charge d'une suspicion de thrombophilie
+** Chercher les éléments anamnéstiques évocateurs d'une thrombophilie et orienter l'examen physique #INT
+** Chercher les facteurs de risque (transitoires/persistants, acquis/constitutionnels, majeurs/mineurs) de maladie thrombo-embolique veineuse #INT
+** Identifier les indications et les limites d'un bilan de thrombophilie constitutionnelle et acquise #DGP
+** Argumenter le choix des examens du bilan paraclinique #DGP
+** Adapter la prise en charge contraceptive chez la patiente porteuse d’une thrombophilie #PEC
+** Argumenter le choix et la durée du traitement anticoagulant selon la thrombophilie suspectée #PEC
+---
+

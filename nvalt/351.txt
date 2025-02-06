@@ -1,0 +1,12 @@
+* SDD-351 Violences psychologiques et - ou physiques
+** Evoquer des violences psychologiques et/ou physiques devant des signes d'appel cliniques évocateurs ou aspécifiques #CLI
+** Examiner et identifier les lésions tégumentaires évocatrices de violences physiques #CLI
+** Chercher des violences sexuelles associées #INT
+** Identifier les situations de harcèlement sur personne vulnérable: violence scolaire, violence sur mineur, personne handicapée, personne âgée #INT
+** Identifier les situations cliniques justifiant un signalement judiciaire #URG
+** Identifier les signes et symptômes d'un état de stress #CLI
+** Chercher les troubles psychiatriques comorbides, notamment les troubles dépressifs et addictifs #INT
+** Evaluer et prévenir le risque suicidaire #URG
+** Evaluer le retentissement social, scolaire, familial et professionnel des violences #ETP
+---
+

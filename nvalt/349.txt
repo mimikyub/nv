@@ -1,0 +1,12 @@
+* SDD-349 Troubles des interactions sociales  -  difficultés de socialisation
+** Evaluer le contexte socio-psychologique du patient et/ou de sa famille #INT
+** Caractériser le trouble des interactions sociales/difficultés de sociabilisation #INT
+** Reconstituer la chronologie d'apparition et d'évolution des troubles #INT
+** Évaluer le niveau de développement intellectuel, moteur, langagier, de l'alimentation, du sommeil et du contrôle sphinctérien #INT
+** Chercher d'autres éléments sémiologiques en faveur d'un trouble du spectre de l'autisme #CLI
+** Chercher les signes cliniques pour orienter l'enquête étiologique et chercher des comorbidités #CLI
+** Orienter le patient vers les consultations spécialisées appropriées #COM
+** Evaluer le retentissement social, scolaire, professionnel et famillial #INT
+** Chercher des comportements-problèmes associés #INT
+---
+

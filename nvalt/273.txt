@@ -1,0 +1,11 @@
+* SDD-273 Prise en charge d'un allaitement normal et difficile
+** Conseiller, promouvoir et soutenir l'allaitement maternel #ETP
+** Evaluer l'efficience de l'allaitement maternel #INT
+** Prescrire la supplémentation vitaminique chez le nourrisson allaité #PEC
+** Identifier un ictère au lait de mère et discuter les diagnostics différentiels #DGP
+** Réaliser un examen mammaire et reconnaitre les complications de l'allaitement maternel #CLI
+** Eduquer la mère à reconnaitre les complications de l'allaitement, aux moyens de prévention et à leur prise en charge #ETP
+** Prendre en charge les complications de l'allaitement #PEC
+** Repérer les situations contre-indiquant l'allaitement #INT
+---
+

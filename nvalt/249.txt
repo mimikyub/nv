@@ -1,0 +1,12 @@
+* SDD-249 Prescrire des ains
+** Chercher à l'interrogatoire les antécédents d'intolérance, allergie, contre-indications avant de prescrire des AINS #INT
+** Evaluer les intéractions médicamenteuses limitant l'initiation des AINS #PEC
+** Prescrire la posologie la plus faible sur la durée la plus courte possible #PEC
+** Intégrer les comorbidités du patient et les indications dans le choix thérapeutique #PEC
+** Prendre en compte l'étiologie de la fièvre avant de prescrire des AINS et adapter la posologie des AINS à l'enfant #PEC
+** Réévaluer la prescription en fonction des données de suivi #PEC
+** Anticiper et prévenir les risques liés à l'automédication #ETP
+** Informer le patient des effets indésirables potentiels de l'usage des AINS #ETP
+** Identifier les situations pour lesquelles la prescription d'AINS peut aggraver la pathologie #PECDGP:SDD_249:
+---
+

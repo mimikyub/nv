@@ -1,0 +1,7 @@
+* SDD-222 Prescription et analyse du frottis sanguin
+** Justifier la prescription d'un frottis sanguin #DGP
+** Identifier les situations d'urgence mises en évidence par le frottis sanguin #URG
+** Interpreter les résultats du frottis sanguin #EXA
+** Proposer une stratégie diagnostique devant des anomalies du frottis sanguin #DGP
+---
+

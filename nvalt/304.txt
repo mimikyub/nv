@@ -1,0 +1,12 @@
+* SDD-304 Dépistage du diabète gestationnel chez une femme enceinte
+** Identifier les patientes relevant du dépistage du diabète gestationnel #INT
+** Expliquer les modalités de dépistage et de diagnostic du diabète gestationnel #ETP
+** Interpréter les résultats d'une hyperglycémie provoquée orale #EXA
+** Expliquer les principes de la prise en charge nutritionnelle durant la grossesse #ETP
+** Expliquer les modalités de surveillance glycémique (y compris utilisation du lecteur glycémique) et les objectifs glycémiques en cours de grossesse #ETP
+** Interpréter les valeurs de glycémies capillaires et porter l'indication d'une insulinothérapie #PEC
+** Exposer les risques maternels, fœtaux et néonataux du diabète gestationnel #ETP
+** Planifier le suivi obstétrical de la grossesse en cas de diabète gestationnel #PEC
+** Expliquer les risques métaboliques à long terme, les modalités de dépistage et de prévention #ETP
+---
+

@@ -1,0 +1,12 @@
+* SDD-217 Baisse de l'hémoglobine
+** Chercher un saignement #CLI
+** Identifier les situations de fausse anémie par hémodilution #DGP
+** Analyser et interpréter l'hémogramme et le frottis sanguin en fonction du contexte clinique #EXA
+** Chercher des signes d'hémorragie, les facteurs de risques d'hémorragie et les co-morbidités associées #CLI
+** Justifier l'indication du dosage des réticulocytes #DGP
+** Identifier le(s) mécanisme(s) d'une anémie #DGP
+** Hiérarchiser les explorations complémentaires en fonction du caractère central ou périphérique de l'anémie et du contexte clinique #DGP
+** Justifier l'indication d'explorations médullaires #DGP
+** Proposer une prise en charge symptomatique et étiologique adaptée #PEC
+---
+

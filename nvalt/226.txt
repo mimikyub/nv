@@ -1,0 +1,11 @@
+* SDD-226 Découverte d'une anomalie du cerveau à l'examen d'imagerie médicale
+** Reconnaître le type d'imagerie réalisée/le type de séquence IRM #ICO
+** Identifier les structures normales de l'encéphale et des paires crâniennes, en imagerie : scanner et IRM #ICO
+** Localiser l'anomalie sur l'imagerie : topographie / structure(s) atteinte(s) #ICO
+** Décrire les caractéristiques sémiologiques des images #ICO
+** Identifier des signes orientant vers une pathologie ischémique, hémorragique, infectieuse, tumorale ou inflammatoire #URG
+** Identifier les signes radiologiques nécessitant une prise en charge thérapeutique urgente #ICO
+** Demander de manière raisonnée d'autres examens d'imagerie à visée diagnostique selon le contexte #DGP
+** Informer le clinicien des résultats en cas d'anomalie nécessitant une prise en charge rapide #URG
+---
+

@@ -1,0 +1,9 @@
+* SDD-085 Érythème
+** Chercher les signes d'interrogatoire et les signes généraux de gravité #INT
+** Chercher des signes dermatologiques de gravité (signe de Nikolsky, atteinte muqueuse) #URG
+** Caractériser l’érythème (localisé ou diffus), en relief ou plan, morbilliforme, scarlatiniforme, roséoliforme #CLI
+** Identifier les signes cutanés et muqueux associés permettant d'orienter l'enquête étiologique : purpura, bulles, érosions, fragilité cutanée (signe de Nikolsky), squames #CLI
+** Prescrire de façon raisonée une biopsie cutanée pour examen immuno-histologique et immunofluorescence directe #DGP
+** Mettre en place et expliquer les bases du traitement étiologique #PEC
+---
+

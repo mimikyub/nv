@@ -1,0 +1,12 @@
+* SDD-255 Prescrire un anti-infectieux
+** Identifier les antibiotiques, antiviraux, antiparasitaires, antifongiques systémiques et locaux sur une ordonnance ou un compte rendu #EXA
+** Prescrire de manière raisonnée les anti-infectieux : indication et non indication #PEC
+** Choisir la molécule selon le spectre d'activité, le terrrain, le site, les antécédents infectieux et de traitement du patient et l'écologie du lieu d'exercice #PEC
+** Déterminer les modalités d'administration #PEC
+** Identifier les contre-indications et les interactions médicamenteuses associées à la prescription d'un anti infectieux #PEC
+** Réévaluer la thérapeutique à 48h avec ou sans documentation microbiologique: spectre, voie, durée #PEC
+** Injecter en IV ou en IM une céphalosporine de 3ème génération devant un purpura fulminans #URG
+** Expliquer les principes et les modalités pratiques du traitement antitrétroviral à un patient séropositif pour le VIH #ETP
+** Expliquer les principes et les modalités pratiques du traitement antituberculeux à un patient #ETP
+---
+

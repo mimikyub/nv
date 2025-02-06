@@ -1,0 +1,6 @@
+* SDD-106 Masse pelvienne
+** Chercher à l'interrogatoire les signes d'orientation étiologique prenant en compte l'âge et le sexe #INT
+** Réaliser l'examen abdomino-pelvien avec les touchers pelviens et l'examen sous spéculum #CLI
+** Éliminer une grossesse chez une femme en âge de procréer, indépendamment de l'anamnèse #DGP
+---
+

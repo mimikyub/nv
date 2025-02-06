@@ -1,0 +1,7 @@
+* SDD-210 Hyperprotidémie
+** Chercher les signes cliniques et biologiques de déshydratation et d'inflammation #CLI
+** Chercher les signes cliniques d'une hyperviscosité #URG
+** Caractériser le type d'hyperprotidémie à l'aide d'une éléctrophorèse des protéines sériques #EXA
+** Interprêter les résulats de la protidémie à l'aide du taux d'hémoglobine #EXA
+---
+

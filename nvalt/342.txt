@@ -1,0 +1,11 @@
+* SDD-342 Rédaction d'une ordonnance - d'un courrier médical
+** Chercher à l'interrogatoire les antécedents d'intolérance médicamenteuse, d'allergie, les contre-indications avant de prescrire #INTPEC:SDD_342:
+** Prescrire selon le contexte de soins: ALD, Maladie professionnelle, Accident de travail #PEC
+** Rédiger une ordonnance conforme prenant en compte le statut du médicament #PRO
+** Réaliser une ordonnance de surveillance pour les classes de médicaments les plus courantes #PEC
+** Détailler les éléments pertinents à faire figurer dans un courrier médical fonction de la pathologie ou problématique #PEC
+** Anticiper la poursuite du suivi médical pour une ordonnance ou un courrier médical #PEC
+** Expliquer la prescription et le courrier au patient: les bénéfices attendus, les délais d'efficacité, les risques éventuels et la conduite à tenir en cas d'effet indésirable #ETP
+** Adapter les durées de prescription et de renouvellement des prescriptions médicamenteuses et non médicamenteuses #PEC
+---
+

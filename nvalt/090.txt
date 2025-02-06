@@ -1,0 +1,10 @@
+* SDD-090 Tache cutanée du nourrisson
+** Interroger l'entourage sur le mode d'installation et l'évolutivité #INT
+** Décrire les caracteristiques sémiologiques de la ou des "tâche(s)" #DGP
+** Différencier un hémangiome infantile d'une malformation artério-veineuse ou capillaire #DGP
+** Expliquer les phases évolutives d'un hémangiome infantile #ANN
+** Identifier les hémangiomes à risque de complication #CLI
+** Diagnostiquer un naevus congénital #DGP
+** Diagnostiquer une tache café au lait #DGP
+---
+

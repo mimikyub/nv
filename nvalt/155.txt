@@ -1,0 +1,9 @@
+* SDD-155 Rhinorrhée
+** Caractériser la rhinorrhée, ses circonstances d'apparition et son mode évolutif #CLI
+** Chercher les éléments d'interrogatoire et clinique pour orienter l'enquête étiologique #CLI
+** Distinguer une rhinopharyngite simple d'une infection sinusienne #CLI
+** Chercher une complication respiratoire, neurologique ou ophtalmologique en en évaluant le degré de gravité #URG
+** Initier la prise en charge thérapeutique en fonction de l'étiologie #PEC
+** Expliquer au patient les principes de la prise en charge d'une rhinorrhée #ETP
+---
+

@@ -1,0 +1,8 @@
+* SDD-064 Vertige et sensation vertigineuse
+** Différencier le vertige d'une sensation vertigineuse #INT
+** Caractériser le vertige, le mode d'installation, les facteurs déclanchants, le mode évolutif et la présence de signes ORL associés #INT
+** Chercher à l'interrogatoire les symptômes associés en faveur d'une cause vestibulaire, neurologique ou cardiovasculaire #INT
+** Chercher les signes cliniques permettant de différencier un syndrome vestibulaire d'un syndrôme cérébelleux #CLI
+** Différencier un syndrome vestibulaire aigu central d'un syndrome vestibulaire aigu périphérique #URG
+---
+

@@ -1,0 +1,6 @@
+* SDD-225 Découverte d'une anomalie cervico-faciale à l'examen d'imagerie médicale
+** Identifier les structures cervico-faciales normales en imagerie : échographie, scanner et IRM #ICO
+** Déterminer la structure à l'origine de l'anomalie #ICO
+** Décrire les caractéristiques sémiologiques des images #ICO
+---
+

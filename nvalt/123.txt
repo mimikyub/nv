@@ -1,0 +1,12 @@
+* SDD-123 Humeur triste - douleur morale
+** Chercher les signes et symptômes orientant vers une étiologie psychiatrique et non psychiatrique #CLI
+** Soutenir la verbalisation de l'humeur triste #INT
+** Chercher les signes et symptômes du syndrome dépressif #INT
+** Chercher les caractéristiques cliniques d'un épisode dépressif caractérisé (mélancolique, psychotique, mixte, anxieuse, catatonique) #INT
+** Chercher les signes et symptômes en lien avec un épisode maniaque ou hypomane antérieur #INT
+** Evaluer le risque suicidaire #URG
+** Evaluer la pertinence de la prescription de psychotropes et leur dépendance #PEC
+** Associer les proches à la démarche diagnostique et à la prise en charge en fonction de la situation #INT
+** Organiser la prise en charge en ambulatoire, en fonction de la sévérité du trouble #COM
+---
+

@@ -1,0 +1,8 @@
+* SDD-235 Découverte diagnostic positif dépistage rapide vih
+** Annoncer les résultats lors d'une consultation dédiée, expliquer qu'un premier résultat necessite une confirmation sur un deuxième prélèvement #ANN
+** Aborder les facteurs de risque de transmission et leur prévention #ETP
+** Proposer un bilan d'IST #PEC
+** Organiser le deuxième prélèvement et transmettre les informations pertinentes au virologue #COM
+** Assurer la confidentialité #COM
+---
+

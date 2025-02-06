@@ -1,0 +1,11 @@
+* SDD-256 Prescrire un hypnotique - anxiolytique
+** Caractériser les troubles du sommeil (endormissement, maintien...) et évaluer les besoins d'examens complémentaires pour choisir le traitement. Typer l'insomnie et dépistage préalable d'apnée du sommeil #INT
+** Proposer en priorité des approches non médicamenteuses de l'anxiété et des troubles du sommeil #ETP
+** Informer et décrire les principaux effets secondaires attendus, y compris le risque de dépendance et de sevrage #ETP
+** Prescrire les anxiolytiques et les hypnotiques en prenant en compte les comorbidités et les spécificités d'âge #PEC
+** Prescrire et dé-prescrire un traitement anxiolytique et hypnotique en accord avec les recommandations et le bon usage #PEC
+** Identifier les patients à risque d'addiction #INT
+** Dépister le mésusage ou l'abus #INT
+** Rédiger une prescription sur une ordonnance sécurisée #PRO
+---
+

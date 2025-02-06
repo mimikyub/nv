@@ -1,0 +1,8 @@
+* SDD-008 Masse abdominale
+** Préciser les circonstances de découverte de la masse abdominale #INT
+** Identifier les signes fonctionnels et physiques abdominaux et extra-abdominaux associés #CLI
+** Déterminer les caractéristiques cliniques de la masse abdominale #CLI
+** Distinguer une organomégalie d'une masse abdominale #CLI
+** Chercher à l'interrogatoire et l'examen clinique les éléments en faveur d'une origine cancéreuse #DGP
+---
+

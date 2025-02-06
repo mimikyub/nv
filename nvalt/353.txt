@@ -1,0 +1,12 @@
+* SDD-353 Identifier une situation de déconditionnement
+** Evaluer le contexte socio-psychologique du patient et/ou de sa famille #INT
+** Identifier les signes cliniques d'un déconditionnement #CLI
+** Eliminer une cause organique #CLI
+** Identifier les facteurs favorisants et/ou déclenchants du déconditionnement #DGP
+** Identifier les conséquences physiques et psychiques du déconditionnement #DGP
+** Évaluer les limitations d'activité et les restrictions de participation en lien avec le déconditionnement #DGP
+** Chercher, expliquer et corriger les facteurs de risque modifiables du déconditionnement #ETP
+** Chercher et identifier une situation de sédentarité et/ou d'inactivité physique #DGP
+** Prescrire une activité physique adaptée #PECETP:SDD_353:
+---
+

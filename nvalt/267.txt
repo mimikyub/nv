@@ -1,0 +1,12 @@
+* SDD-267 Consultation de suivi d'un patient polymorbide
+** Interroger le patient sur le vécu de ses pathologies et de son traitement et l'existence de nouveaux symptômes depuis la dernière consultation #INT
+** Evaluer le retentissement psychosocial, sur les aidants et le vécu de la situation #INT
+** Différencier les facteurs prédisposants et déclenchants, et adapter l'examen clinique en présence de nouveaux symptômes #INT
+** Hiérarchiser les problématiques aiguës et chroniques, en tenant compte des éléments cliniques et paracliniques #CLI
+** Définir avec le patient un plan de soins personnalisé intégrant ses priorités et souhaits #PEC
+** Prescrire les examens complémentaires pertinents en fonction du plan de soins #PEC
+** Réévaluer et modifier le traitement en fonction des objectifs personalisés, du plan de soins, de l'éventuelle iatrogénie et des interactions médicamenteuses #PEC
+** Expliquer au patient les principales mesures hygiéno-diététiques adaptées #ETP
+** Anticiper la prise en charge et le parcours de soins en cas de situations aiguë, avec le patient, les aidants et les professionnels impliqués #PEC
+---
+

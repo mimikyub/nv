@@ -1,0 +1,8 @@
+* SDD-151 Oedème de la face et du cou
+** Décrire les caractéristiques cliniques, le mode de survenue, les facteurs déclanchants et les signes associés à l'œdème #CLI
+** Differencier un œdème de cause allergique, locale, systémique ou iatrogène #DGP
+** Evaluer le retentissement respiratoire et hémodynamique #URG
+** Initier la prise en charge thérapeutique adaptée au degré d'urgence #URG
+** Mettre en place une stratégie de prévention de la récidive #ETP
+---
+

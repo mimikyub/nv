@@ -1,0 +1,12 @@
+* SDD-115 Anomalie du développement psychomoteur
+** Evaluer le contexte socio-psychologique #INT
+** Chercher les antécédents familiaux, les circonstances de la naissance, une consanguinité et faire un arbre généalogique #INT
+** Réaliser un examen neurologique et évaluer le tonus axial et périphérique d'un enfant en fonction de son âge #CLI
+** Réaliser un examen clinique, morphologique, analyser la courbe staturo-pondérale et le périmètre crânien #CLI
+** Identifier les signes d'alerte précoces d'anomalie du développement psychomoteur et du langage #CLI
+** Identifier un développement anormal du rythme du sommeil, de l'alimentation et du contrôle sphinctérien #INT
+** Repérer les signes évocateurs d'un trouble du spectre autistique #CLI
+** Expliquer les principes de prise en charge médico-sociale d'un enfant handicapé et les principes de scolarisation #ETP
+** Orienter la famille vers un/des spécialistes #COM
+---
+

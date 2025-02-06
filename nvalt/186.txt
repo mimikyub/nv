@@ -1,0 +1,10 @@
+* SDD-186 Syndrome inflammatoire aigu ou chronique
+** Identifier les situations justifiant la réalisation d'un bilan inflammatoire et déterminer les paramètres à mesurer #DGP
+** Identifier un syndrome inflammatoire et déterminer son ancienneté #EXA
+** Identifier les anomalies biologiques en rapport avec un syndrome inflammatoire #EXA
+** Chercher des éléments d'urgence ou de gravité face à un syndrome inflammatoire aigu ou chronique #URG
+** Identifier les complications d'un syndrome inflammatoire prolongé #CLI
+** Chercher les signes d'interrogatoire et les signes cliniques pour orienter l'enquête étiologique #CLI
+** Prescrire de manière raisonnée les explorations complémentaires en fonction des données d'anamnèse et d'examen clinique #DGP
+---
+

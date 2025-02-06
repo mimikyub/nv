@@ -1,0 +1,12 @@
+* SDD-250 Prescrire des antalgiques
+** Evaluer la douleur avec un outil adapté #PEC
+** Adapter les types d'antalgiques, leur posologie et leur voie d'adminitration en fonction de l'âge, du terrain, des mécanismes et de l'intensité de la douleur #PEC
+** Adapter le traitement proposé au degré d'urgence #URG
+** Identifier les terrains à risque de mésusage, dépendance et d'addiction #ETP
+** Prévenir les effets indésirables des traitements antalgiques #ETP
+** Ajuster le traitement en fonction de l'évaluation de l'efficacité et des effets indésirables #PEC
+** Discuter l'intérêt d'une analgésie multimodale pouvant inclure les traitements non-pharmacologiques #PEC
+** Rédiger une prescription sur une ordonnance sécurisée #PRO
+** Identifier les associations médicamenteuses inappropriées #PEC
+---
+

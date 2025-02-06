@@ -1,0 +1,9 @@
+* SDD-213 Allongement du temps de céphaline activée (tca)
+** Analyser l'ensemble du bilan de coagulaton et de l'hémogramme devant un allongement du TCA : isolé/non isolé #EXA
+** Chercher les causes d'allongement du TCA à l'interrogatoire (y compris prises médicamenteuses) #INT
+** Chercher des antécédents personnels et familiaux de syndrome hémorragique ou thrombotique #INT
+** Chercher les signes de gravité lors d'un évènement thrombotique ou hémorragique, en lien avec un allongement du TCA #URG
+** Prescrire et justifier un bilan biologique devant une suspicion de syndrome des antiphospholipides #DGP
+** Proposer une prise en charge initiale devant un syndrome des antiphospholipides #PEC
+---
+

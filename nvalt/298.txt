@@ -1,0 +1,12 @@
+* SDD-298 Consultation et suivi d'un patient ayant des troubles cognitifs
+** Interroger le patient et l'entourage sur le vécu des troubles cognitifs et l'existence de nouveaux symptômes depuis la dernière consultation #INT
+** Identifier les complications des troubles cognitifs: la dénutrition, les troubles de la marche et de l'équilibre, les chutes,les troubles du comportement #CLI
+** Déterminer le caractère évolutif du trouble cognitif #CLI
+** Prévenir l'épuisement des aidants #ETP
+** Informer le patient et l'entourage sur l'existence de facteurs de décompensation #ETP
+** Adapter le plan d'aide personnalisé de santé visant à favoriser et maintenir l'autonomie #PEC
+** Orienter le patient vers une prise en charge médico-sociale si nécessaire #PEC
+** Prescrire une prise en charge ambulatoire adaptée (ex: orthophoniste, Equipe Spécialisée Alzheimer, kinésithérapeute) #PEC
+** Rédiger le certificat médical accompagnant la demande d'allocation personalisée d'autonomie (APA) #PRO
+---
+

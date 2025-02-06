@@ -1,0 +1,12 @@
+* SDD-118 Céphalée
+** Caractériser la douleur, le mode d'installation, le mode évolutif et les facteurs déclanchants #INT
+** Réaliser un agenda des céphalées #INT
+** Evaluer le rententissement biopsychosocial #INT
+** Chercher les signes d'interrogatoire et les signes cliniques pour orienter l'enquête étiologique #CLI
+** Identifier les situations d'urgence associées aux céphalées aigües #URG
+** Identifier les situations nécessitant une ponction lombaire #URG
+** Identifier les situations nécessitant une imagerie cérébrale #URG
+** Expliquer au patient migraineux les règles hygiéno-diététiques #ETP
+** Prescrire les traitements de fond et les éventuels traitements de crise #PEC
+---
+

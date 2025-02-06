@@ -1,0 +1,7 @@
+* SDD-219 Hyperéosinophilie
+** Utiliser les antécédents, les facteurs d'exposition, les manifestations cliniques associées pour guider l'enquête étiologique de première ligne #CLI
+** Prescrire les examens complémentaires de première intention en fonction des orientations diagnostiques #DGP
+** Chercher et identifier les éléments cliniques évocateurs d'une atteinte viscérale ou d'une complication #CLI
+** Caractériser le caractère chronique et/ou marqué de l'hyperéosinophilie, justifiant une enquête étiologique approfondie #DGP
+---
+

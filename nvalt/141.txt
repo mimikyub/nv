@@ -1,0 +1,11 @@
+* SDD-141 Sensation de brûlure oculaire
+** Caractériser la douleur oculaire et les signes associés #INT
+** Chercher des facteurs favorisants de sécheresse oculaire #INT
+** Chercher des facteurs favorisants de conjonctivite #INT
+** Chercher le port de lentilles de contact #INT
+** Examiner les annexes et la surface oculaire #CLI
+** Identifier les situations nécessitant une prise en charge ophtalmologique en urgence #URG
+** Expliquer au patient les principes du traitement de la sécheresse oculaire #ETP
+** Initier la prise en charge de la secheresse occulaire #PEC
+---
+

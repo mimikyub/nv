@@ -1,0 +1,11 @@
+* SDD-061 Syndrome polyuro-polydypsique
+** Identifier un syndrome polyuro-polydysique et le différencier d'une polydipsie psychogène, d'un syndrome sec, ou d'une pollakiurie #CLI
+** Evaluer sur les données de l’anamnèse, de l’examen clinique et des données biologiques, l’état d’hydratation du patient #CLI
+** Différencier une polyurie osmotique d'une polyurie hypotonique par le calcul des osmolarités plasmatiques et urinaires #EXA
+** Chercher une hyperglycémie et un trouble ionique associé #URG
+** Demander une bandelette urinaire et interpréter son résultat devant un syndrome polyuro-polydipsique #EXA
+** Chercher des signes en faveur d'une acidocétose #EXA
+** Initier la prise en charge d’une acidocétose ou d'une décompensaton hyperosmolaire d’un diabète #URG
+** Chercher les causes iatrogènes de diabète insipide #INT
+---
+

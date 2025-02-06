@@ -1,0 +1,12 @@
+* SDD-327 Annonce d'un diagnostic de maladie grave au patient et - ou à sa famille
+** Evaluer le contexte socio psychologique du patient et/ou de sa famille #INT
+** Créer les conditions propices à l'annonce d'une maladie grave #PEC
+** Evaluer la connaissance et la compréhension des informations par le patient et/ou sa famille avant et après l'annonce #INT
+** Formuler de manière claire et comprehensible un diagnostic de maladie grave adaptée au patient et/ou à sa famille #ANN
+** Ecouter et reformuler les réactions et questions du patient et/ou de sa famille #ANN
+** Identifier et respecter les mécanismes de défense psychique du patient et/ou de sa famille #INT
+** Proposer au patient et à sa famille la possibilité de réaborder dans un second temps les questions soulevées #ANN
+** Ecouter les attentes et les souhaits du patient quant aux propositions thérapeutiques #INT
+** Expliquer le retentissement de la maladie sur le patient et sa famille #ANN
+---
+

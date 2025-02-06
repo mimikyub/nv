@@ -1,0 +1,9 @@
+* SDD-150 Limitation de l'ouverture buccale
+** Caracteriser le mode d'installation #INT
+** Mesurer la limitation d'ouverture buccale #CLI
+** Réaliser un examen complet de la face et de la cavité buccale #CLI
+** Différencier une cause locale d'une cause générale #CLI
+** Différencier un trismus d'une ankylose #DGP
+** Evaluer le retentissement de la limitation de l'ouverture buccale #INT
+---
+

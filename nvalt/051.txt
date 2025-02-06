@@ -1,0 +1,11 @@
+* SDD-051 Obésité et surpoids
+** Dépister le surpoids et l'obésité de l'enfant à partir de la courbe de corpulence et déterminer l'âge de rebond d'adiposité #INT
+** Recueillir l'histoire pondérale, les circonstances de la prise de poids et catactériser l'obesité par le calcul de l'IMC et la mesure du tour de taille #CLI
+** Caractériser le comportement alimentaire et dépister les troubles des conduites alimentaires #INT
+** Chercher et prévenir les co-morbidités #ETP
+** Evaluer le retentissement psycho-social #INT
+** Evaluer l'activité physique et la sédentarité #ETP
+** Différencier une obésité primaire et secondaire #DGP
+** Expliquer au patient la différence entre le surpoids et l'obésité, et les risques associés à l'obésité #ETP
+---
+

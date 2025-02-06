@@ -1,0 +1,12 @@
+* SDD-053 Hypertension durant la grossesse
+** Mesurer une pression artérielle dans les conditions recommandées, prescrire et expliquer une automesure tensionnelle, et identifier une HTA gravidique #CLI
+** Evaluer les facteurs de risque d'hypertension gravidique #INT
+** Interpréter des résultats biologiques sanguins et urinaires dans le cadre d'une HTA pendant la grossesse #EXA
+** Adapter la prise en charge en fonction des chiffres de pression artérielle #PEC
+** Chercher les signes cliniques et biologiques de prééclampsie #DGP
+** Chercher les complications maternelles et fœtales de la prééclampsie #DGP
+** Initier la prise en charge de l'HTA gravidique ou de la pré-éclampsie, orienter vers une maternité de niveau adapté #PEC
+** Prévoir le suivi en post-partum chez une femme avec hypertension révélée pendant la grossesse #DGP
+** Expliquer les risques de récidives de prééclampsie et les modalités de prévention #ETP
+---
+

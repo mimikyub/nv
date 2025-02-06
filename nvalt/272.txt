@@ -1,0 +1,12 @@
+* SDD-272 Prescrire et réaliser une transfusion sanguine
+** Chercher les antécédents pertinents avant une transfusion de produits sanguins labiles #INT
+** Poser l'indication d'une transfusion de culot de globules rouges devant une anémie #PEC
+** Informer le patient avant une transfusion de produits sanguins labiles, selon les recommandations #ANN
+** Prescrire un bilan pré-transfusionnel #PEC
+** Rédiger une prescription de transfusion #PRO
+** Superviser les étapes de l'acte transfusionnel, de la réception du produit à la fin de la séance transfusionnelle #COM
+** Réaliser un test de compatibilité ultime pré-transfusionnel au lit du malade #PRO
+** Prendre en charge une complication et une réaction transfusionnelle immédiate #PEC
+** Contacter l'Etablissement Francais du Sang et le correspondant d'hémovigilance en cas d'incident transfusionnel #COM
+---
+

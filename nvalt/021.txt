@@ -1,0 +1,10 @@
+* SDD-021 Asthénie
+** Explorer la signification pour le patient du motif de consultation asthénie / fatigue #INT
+** Chercher une altération de l'état général associée #INT
+** Caractériser l'asthénie : physique et/ou psychique, ancienneté, mode évolutif, facteurs aggravant ou d'amélioration #INT
+** Evaluer son retentissement et chercher des signes de gravité #INT
+** Chercher les signes d'interrogatoire et les signes cliniques pour orienter l'enquête étiologique #CLIDGP:SDD_021:
+** Planifier un suivi en fonction des hypothèses diagnostiques #PEC
+** Orienter le patient si besoin vers un interniste, un spécialiste d'organe ou un psychiatre selon les hypothèses diagnostiques #COM
+---
+

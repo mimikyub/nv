@@ -1,0 +1,10 @@
+* SDD-100 Douleur testiculaire
+** Différencier le caractère aigu, subaigu ou chronique de la douleur #INT
+** Eliminer une douleur projetée du haut appareil urinaire ou du rachis #INT
+** Chercher un traumatisme causal #INT
+** Réaliser l'examen urologique d'une bourse douloureuse en adoptant une attitude appropriée et identifier les principales étiologies #CLI
+** Différencier une pathologie testiculaire d'une pathologie des annexes #CLI
+** Identifier les situations nécessitant le recours en urgence à un avis spécialisé #URG
+** Expliquer au patient et/ou à son entourage l'intérêt d'un traitement médical et/ou chirurgical #ANN
+---
+

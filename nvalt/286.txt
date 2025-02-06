@@ -1,0 +1,12 @@
+* SDD-286 Consultation de suivi et éducation thérapeutique d'un patient bpco
+** Interroger le patient sur le vécu de sa BPCO, de son traitement et l'existence de nouveaux symptômes depuis la dernière consultation #INT
+** Evaluer la technique de prise des traitements inhalés #ETP
+** Encourager le sevrage tabagique (et son maintien) en exposant ses effets bénéfiques sur la BPCO et encourager une activité physique #ETP
+** Expliquer les signes d'alerte et la conduite à tenir en cas d'exacerbation de BPCO #ETP
+** Evaluer les différentes dimensions de la sévérité d'une BPCO à l'état stable #PEC
+** Dépister les comorbidités, le retentissement général de la BPCO et dépister une dénutrition associée #CLI
+** Expliquer au patient les facteurs de risques et les mécanismes de la BPCO #ETP
+** Exposer les bénéfices attendus et l'importance des vaccinations #ETP
+** Prescrire le traitement de fond adapté #PEC
+---
+

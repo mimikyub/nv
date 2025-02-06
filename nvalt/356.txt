@@ -1,0 +1,11 @@
+* SDD-356 Information et suivi d'un patient en chirurgie ambulatoire
+** Identifier les situations pouvant relever de la chirurgie ambulatoire et chercher les contre-indications #INT
+** Expliquer aux patients les objectifs, les bénéfices et les effets indésirables attendus de la prise en charge ambulatoire #ETP
+** Transmettre au patient les règles d'hygiène pré-opératoire #ETP
+** Transmettre au patient les règles du jeûne aux solides, aux liquides et au tabac #ETP
+** Transmettre au patient les règles d'accompagnement pour le retour à domicile #ETP
+** Transmettre au patient les situations nécessitant une consultation en urgence après la sortie de l'hôpital #ETP
+** Expliquer au patient le suivi dématérialisé après la sortie de l'hôpital et les ordonnances de sortie #ETP
+** Proposer au patient une stratégie antalgique multimodale adaptative #PEC
+** Chercher les complications post-opératoires précoces #DGP
+

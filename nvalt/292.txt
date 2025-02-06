@@ -1,0 +1,11 @@
+* SDD-292 Première consultation d'addictologie
+** Identifier les situations justifiant une consultation spécialisée en addictologie #PEC
+** Diagnostiquer un usage nocif, une dépendance à une substance ou une addiciton comportementale selon la CIM #INT
+** Diagnostiquer un syndrome de sevrage #CLI
+** Proposer un traitement substitutif #PEC
+** Evaluer les comorbidités addictologiques et psychiatriques #INT
+** Définir des objectifs de soins avec le patient #PEC
+** Chercher les complications médicales #INT
+** Evaluer le retentissement de l'addiction sur la vie sociale, familiale et professionnelle #INT
+---
+

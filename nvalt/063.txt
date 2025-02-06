@@ -1,0 +1,7 @@
+* SDD-063 Troubles sexuels et troubles de l'érection
+** Chercher à l'interrogatoire et à l'examen clinique, les éléments d'orientation diagnostique et étiologique #INT
+** Chercher à interrogatoire et à l'examen physique les éléments en faveur d'une dysfonction sexuelle d'origine organique, psychogène ou iatrogène #CLI
+** Orienter le couple vers une prise en charge pluridisciplinaire (médicale, psychologique) d'une dysfonction sexuelle #ETP
+** Orienter la démarche diagnostique et la prise en charge de douleurs pendant les rapports selon leur caractéristiques #PEC
+---
+

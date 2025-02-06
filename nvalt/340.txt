@@ -1,0 +1,12 @@
+* SDD-340 Prise volontaire ou involontaire d'un toxique ou d'un médicament potentiellement toxique
+** Orienter l'enquête étiologique et l'examen clinique en fonction du ou des toxiques suspectés #CLI
+** Quantifier et dater la prise de toxique afin d'anticiper l'évolution #INT
+** Identifier les principaux toxidromes et rechercher la prise de toxique devant une situation évocatrice #CLI
+** Réaliser un électrocardiogramme de repos 18 dérivations #PRO
+** Prendre les mesures urgentes permettant d'arrêter ou limiter l'exposition à un toxique et évoquer l'utilisation d'un antidote adapté à la situation #PEC
+** Orienter le patient dans une filière de soin adaptée une fois la prise en charge aigue réalisée et adapter la surveillance en fonction du toxique impliqué et la gravité #PEC
+** Déclarer l'exposition aux autorités compétentes lorsque cela est nécessaire #COM
+** Identifier une situation d'exposition collective #PEC
+** Evaluer le risque suicidaire et/ou rechercher une maltraitance #INT
+---
+

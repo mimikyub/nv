@@ -1,0 +1,9 @@
+* SDD-315 Prévention des risques professionnels
+** Identifier et classer les risques professionnels retrouvés à l'interrogatoire en 4 grandes catégories (chimique, biologique, physique et organisationnel) #ETP
+** Effectuer un examen clinique ciblé selon les risques professionnels retrouvés à l'interrogatoire #CLI
+** Prescrire les examens paracliniques pertinents pour évaluer le retentissement des expositions professionnelles sur la santé #DGP
+** Etablir le lien entre la pathologie du patient et ses expositions professionnelles #DGP
+** Demander au médecin du travail des informations pertinentes sur les risques professionnels de son patient et sur leur prévention dans le respect du cadre juridique #COM
+** Alerter et solliciter le médecin du travail pour savoir si une action de prévention collective ou individuelle des risques professionnels est nécessaire #ETP
+---
+

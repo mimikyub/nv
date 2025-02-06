@@ -1,0 +1,12 @@
+* SDD-166 Tachycardie
+** Identifier les anomalies auscultatoires associées à la tachycardie #CLI
+** Evaluer la tolérance clinique et hémodynamique #URG
+** Orienter son interrogatoire et son examen clinique à la recherche des causes de tachycardie #DGP
+** Réaliser un électrocardiogramme de repos 18 dérivations #PRO
+** Identifier les principales formes de tachycardies sur l'électrocardiogramme #ICO
+** Interpéter une accélération du rythme cardiaque chez l'enfant en fonction de son âge #CLI
+** Initier la prise en charge d'une tachycardie sur fibrillation atriale mal tolérée #URG
+** Identifier les situations requérant une cardioversion en urgence et chercher les contre-indications #URG
+** Identifier les situations d'urgence justifiant une hospitalisation et d'une surveillance continue #URG
+---
+

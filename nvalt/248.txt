@@ -1,0 +1,11 @@
+* SDD-248 Prescription et suivi d'un traitement par anticoagulant et - ou anti-agrégant
+** Identifier et évaluer le risque thrombotique sur les éléments cliniques et biologiques, et l'utilisation de scores validés #DGP
+** Identifier et évaluer le risque hémorragique sur les éléments cliniques et biologiques, et l'utilisation de scores validés #DGP
+** Identifier les contre-indications aux antithrombotiques #PEC
+** Identifier les médicaments interragissant avec les antithrombotiques #PEC
+** Prescrire et justifier l'indication et le choix d'un traitement antithrombotique #PEC
+** Prescrire les bilans biologiques nécessaires à la mise en œuvre et au suivi d'un traitement anticoagulant #PEC
+** Eduquer le patient sous anticoagulant au long cours: suivi de ses INR, suivi biologique, complications, adhésion au traitement #ETP
+** Chercher et identifier les complications des antithrombotiques #DGP
+---
+

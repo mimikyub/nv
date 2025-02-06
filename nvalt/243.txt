@@ -1,0 +1,10 @@
+* SDD-243 Mise en place et suivi d’un appareil d'immobilisation
+** Réaliser une contention plâtrée ou une résine #PRO
+** Prescrire les mesures médicamenteuses et non médicamenteuses pour prévenir les complications d'une immobilisation #PEC
+** Expliquer au patient les risques liés à l'immobilisation et les moyens de prévention de ces risques #ETP
+** Dépister et diagnostiquer une complication sous plâtre #URG
+** Chercher les situations nécessitant la révision ou le retrait de l'immobilisation en urgence #URG
+** Prendre en charge une thrombose veineuse sous immobilisation #URG
+** Dépister un syndrome des loges et mettre en place une procedure d'urgence #URG
+---
+

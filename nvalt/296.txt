@@ -1,0 +1,10 @@
+* SDD-296 Consultation de suivi pédiatrique
+** Identifier le risque d'interaction médicamenteuse et son mécanisme dans une situation de polymédication #PEC
+** Hiérarchiser le bénéfice attendu pour chaque médicament prescrit #PEC
+** Mettre en œuvre le suivi clinique et paraclinique nécessaire en fonction des associations médicamenteuses #PEC
+** Réévaluer régulièrement la prescription de chaque médicament #PEC
+** Évaluer l'observance et l'automédication #INT
+** Expliquer l'indication, le risque et le bénéfice de chaque traitement prescrit en fonction des pathologies prises en charge #ETP
+** Identifier les situations de polymédication devant donner lieu à une déprescription #PEC
+---
+

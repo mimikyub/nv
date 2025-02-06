@@ -1,0 +1,9 @@
+* SDD-009 Masse - tuméfaction pariétale
+** Réaliser un examen complet abdominal, des cicatrices et des orifices herniaires #CLI
+** Identifier une hernie symptôme #INT
+** Différencier une hernie symptomatique, d'une hernie engouée et d'une hernie étranglée #URG
+** Déterminer les caractéristiques cliniques de la masse/tuméfaction permettant d'orienter vers son origine intra-abdominale ou pariétale #CLI
+** Chercher une complication digestive #URG
+** Informer le patient des signes d'étranglement d'une hernie pariétale #ANN
+---
+

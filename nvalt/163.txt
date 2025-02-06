@@ -1,0 +1,11 @@
+* SDD-163 Expectoration
+** Caractériser les expectorations #INT
+** Identifier le mode d'installation et le mode évolutif #INT
+** Chercher les expositions et les facteurs de risques de pathologies respiratoires chroniques #INT
+** Chercher les signes d'interrogatoire et cliniques respiratoires et extrarespiratoires permettant d'orienter l'enquête étiologique #CLI
+** Reconnaître une bronchorhée, évoquer le diagnostic de bronchectasies et chercher des arguments en faveur d'une mucoviscidose #CLI
+** Prescrire et interpréter un examen virologique, bactériologique et mycobactériologique adapté à la situation #DGP
+** Prescrire la kinésithérapie respiratoire de désobstruction bronchique #PEC
+** Prescrire et interpréter un examen d'imagerie adapté à la situation #DGP
+---
+

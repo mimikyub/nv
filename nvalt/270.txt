@@ -1,0 +1,14 @@
+* SDD-270 Demande d'amaigrissement
+** Identifier les raisons motivant le patient à perdre du poids #INT
+** Evaluer les apports alimentaires et la qualité nutritive #INT
+** Evaluer l'activité physique, la sédentarité et le mode de vie #INT
+** Identifier un trouble des conduites alimentaires et un trouble addictif #ETP
+** Identifier les antécédents familiaux d'obésité et de surpoids #INT
+** Chercher les co-morbidités et évaluer le retentissement bio-psycho-social #INT
+** Promouvoir une activité physique adaptée à l'âge #ETP
+** Promouvoir de bonnes habitudes alimentaires, et informer des risques liés à la restriction cognitive #ETP
+** Identifier une éventuelle indication ou contre-indication à la chirurgie bariatrique #PEC
+** Expliquer au patient les principes et les risques de la chirurgie bariatrique #ANN
+** Planifier une prise en charge multidisciplinaire #PEC
+---
+

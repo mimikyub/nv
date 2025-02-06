@@ -1,0 +1,12 @@
+* SDD-043 Découverte d'une hypotension artérielle
+** Mesurer et interpréter la pression artérielle selon l'âge ou la taille corporelle #CLI
+** Diagnostiquer un état de choc #CLI
+** Orienter son examen en fonction de l'interrogatoire et des signes associés et hiérarchiser les hypothèses étiologiques #CLI
+** Prescrire en urgence des explorations complémentaires de première intention à visée étiologique et pour évaluer le retentissement de l'hypotension artérielle #DGP
+** Prescrire le ou les traitement(s) symptomatique(s) et étiologique(s) urgent(s) en fonction du mécanisme suspecté de l'hypotension artérielle #PEC
+** Prescrire les éléments de surveillance adaptés au contexte #PEC
+** Prescrire immédiatement une antibiothérapie de type cefotaxime ou ceftriaxone en cas d'hypotension artérielle associée à un purpura fébrile #URG
+** Identifier les situations faisant suspecter une hypotension orthostatique et diagnostiquer une hypotension orthostatique #DGP
+** Identifier la/les cause(s) à l'origine de l'hypotension orthostatique #DGP
+---
+

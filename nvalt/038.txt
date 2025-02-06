@@ -1,0 +1,10 @@
+* SDD-038 État de mort apparente
+** Produire une attitude relationnelle adaptée à la situation d'urgence #ANN
+** Reconnaitre un arrêt cardio-respiratoire #URG
+** Evoquer les étiologies réversibles d'arrêt cardiaque et proposer un traitement #PEC
+** Appliquer l'algorithme de réanimation cardiopulmonaire de base #PEC
+** Réaliser les manoeuvres de réanimation cardiopulmonaire de base #PRO
+** Evoquer les situations de limitation des traitements, de non initiation et d'arrêt de la réanimation #PEC
+** Adapter les modalités de voies d'abord vasculaires #URG
+---
+

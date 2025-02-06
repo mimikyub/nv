@@ -1,0 +1,7 @@
+* SDD-059 Tendance au saignement
+** Identifier les signes de gravité d'un saignement #URG
+** Différencier le caractère acquis et constitutionnel d'une tendance au saignement #DGP
+** Référer au spécialiste en hémostase quand cela est nécessaire #COM
+** Interpréter les résultats d'un bilan de coagulation et d'un hémogramme #EXA
+---
+

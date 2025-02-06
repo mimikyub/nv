@@ -1,0 +1,12 @@
+* SDD-104 Leucorrhées
+** Réaliser un examen gynécologique #CLI
+** Décrire la leucorhée et differencier les leucorhées physiologiques et pathologiques #CLI
+** Prescrire et interprêter un prélèvement vaginal et ou de l'endocol #DGP
+** Différencier une infection genitale basse et haute #CLI
+** Identifier les facteurs de risque d'infection sexuellement transmissible et dépister les IST selon le contexte #INT
+** Initier la prise en charge thérapeutique pour une infection genitale basse et haute #PEC
+** Informer des risques sur la fertilité d'une infection génitale haute #ETP
+** Expliquer au patient l'intérêt du dépistage du/des partenaire(s) sexuel(s) en cas d'IST #ETP
+** Expliquer les conseils de prévention des infections sexuellement transmissibles #ETP
+---
+

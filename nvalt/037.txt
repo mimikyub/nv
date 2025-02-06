@@ -1,0 +1,12 @@
+* SDD-037 Éruptions chez l'enfant
+** Identifier à l'interrogatoire des éléments d'orientation étiologique, le contexte social, le mode de début et la chronologie de l'éruption #INT
+** Chercher à l'interrogatoire les signes orientant vers une cause médicamenteuse ou un un agent externe #INT
+** Identifier les caracteristiques cliniques de la lésion élémentaire #CLI
+** Evaluer l'extension par un examen cutaneo-muqueux complet #CLI
+** Chercher les signes cliniques associés #CLI
+** Identifier les situations à risque de contagion et expliquer les mesures de prévention, et les mesures d'hygiène associées #ETP
+** Identifier une urgence diagnostique et thérapeutique devant une éruption fébrile #URG
+** Identifier les complications possibles et mettre en place un suivi adapté #PEC
+** Consigner sur le carnet de santé les maladies éruptives contagieuses ou à prévention vaccinale de l'enfant #ETP
+---
+

@@ -1,0 +1,12 @@
+* SDD-003 Distension abdominale
+** Différencier une distension d'une obésité abdominale #CLI
+** Identifier le mécanisme de la distension: liquidienne ou digestive, différencier d'une masse abdominale #CLI
+** Réaliser l'interrogatoire et l'examen clinique en fonction du mécanisme de la distension #CLI
+** Diagnostiquer un syndrome occlusif #CLI
+** Evoquer une cirrhose #DGP
+** Réaliser une ponction d'ascite #PRO
+** Interpréter les résultats biologiques d'une ponction d'ascite #EXA
+** Poser une sonde gastrique #PRO
+** Identifier les situations nécessitant le recours à un avis spécialisé et transmettre les informations nécessaires #PEC
+---
+

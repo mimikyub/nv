@@ -1,0 +1,11 @@
+* SDD-187 Bactérie multirésistante à l’antibiogramme
+** Reconnaitre une BHR/BMR à l'antibiogramme #EXA
+** Identifier les patients à risque de portage d'une BMR pour adapter la stratégie thérapeutique #PEC
+** Prescrire un dépistage de BMR/BHR de manière adaptée aux patients à risque #ETP
+** Différencier une colonisation d'une infection #DGP
+** Reconnaitre les situations où la mise en place des précautions complémentaires contact est nécessaire #PEC
+** Prescrire et appliquer les précautions complémentaires contact #PEC
+** Expliquer les principes de la prévention de la transmission aux patients et aux soignants #ETP
+** Expliquer à un patient la colonisation/infection par une BMR #ETP
+---
+

@@ -1,0 +1,9 @@
+* SDD-109 Perte de liquide chez une femme enceinte avant terme
+** Diagnostiquer une perte anormale de liquide amniotique avant terme et éliminer les diagnostics différentiels #CLI
+** Evaluer le risque de chorioamniotite #URG
+** Expliquer les principes de prise en charge de la rupture prématurée des membranes avant terme #ANN
+** Expliquer les risques fœtaux et néonataux liés à la rupture des membranes avant terme #ANN
+** Interpréter le rythme cardiaque fœtal #ICO
+** Orienter vers une maternité de niveau adapté à l'âge gestationnel #COM
+---
+

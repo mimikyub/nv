@@ -1,0 +1,11 @@
+* SDD-149 Ingestion ou inhalation d'un corps étranger
+** Identifier un syndrome de pénétration #URG
+** Orienter la prise en charge en cas de pile bouton #URG
+** Diagnostiquer une ingestion ou inhalation de corps étrangers sur les données de l'interrogatoire et de l'examen clinique #CLI
+** Orienter le patient dans une filière de soin adaptée en fonction du degré d'urgence #PEC
+** Expliquer au patient et à son entourage les principes et les risques des gestes endoscopiques #ANN
+** Prévenir les ingestions et inhalations de corps étrangers #ETP
+** Informer les patients/parents sur les risques associés aux piles boutons #ETP
+** Poser l'indication d'un transfert vers un centre spécialisé et choisir les modalités de transport #PEC
+---
+

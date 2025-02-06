@@ -1,0 +1,12 @@
+* SDD-092 Ulcère cutané
+** Chercher à l'interrogatoire des signes pour orienter l'enquête étiologique #INT
+** Identifier les caractéristiques du ou des ulcères et de la peau péri-lésionnelle #CLI
+** Chercher les signes cliniques orientant vers une étiologie artérielle ou veineuse #CLI
+** Reconnaître une angiodermite nécrotique #CLI
+** Chercher les signes cliniques d'ischémie aiguë ou permanente #CLI
+** Expliquer au patient les différents temps de la cicatrisation #ANN
+** Mettre en place le traitement de première intention et mettre à jour la vaccination antitétanique #PEC
+** Chercher les complications : eczéma, surinfections, cancérisation #CLI
+** Identifier les indications et les contre indications d'une compression élastique veineuse #PEC
+---
+

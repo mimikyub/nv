@@ -1,0 +1,11 @@
+* SDD-076 Jambes lourdes
+** Déterminer la plainte fonctionnelle, le mode d'apparition et le mode évolitif #INT
+** Chercher à l'interrogatoire les antécédents, l'histoire clinique récente, les symptômes permettant d'orienter l'enquête étiologique #INT
+** Différencier l'insuffisance veineuse des autres causes d'œdème des membres inférieurs #CLI
+** Chercher à l'examen les signes d'insuffisance veineuse (en décubitus et en orthostatisme) #CLI
+** Expliquer les règles hygiéno-diététiques #ETP
+** Prescrire de manière adaptée une compression #PEC
+** Expliquer les modalités de prise en charge #ETP
+** Expliquer l'intérêt du port d'une compression élastique veineuse selon la compréhension et les contraintes du patient #ETP
+---
+

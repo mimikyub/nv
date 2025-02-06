@@ -1,0 +1,11 @@
+* SDD-251 Prescrire des corticoïdes par voie générale ou locale
+** Mettre en place le bilan clinique et para-clinique préalable à l'introduction de corticoïdes #PEC
+** Choisir la voie d'administration des corticoïdes, le type de corticoïde approprié et la durée de la corticothérapie #PEC
+** Préciser les mesures hygiéno-diététiques nécessaires à l'usage des corticoïdes #PEC
+** Organiser le dépistage et la prise en charge de l'ostéoporose cortico-induite #PEC
+** Organiser la prévention, la surveillance et la prise en charge des autres complications induites par une corticothérapie courte ou longue #PEC
+** Rassurer le patient sur l'utilisation d'une corticothérapie et ses effets secondaires #ETP
+** Prévenir ou dépister un défaut d'observance #ETP
+** Identifier une pathologie psychiatrique sous jacente à risque de décompensation #ETP
+---
+

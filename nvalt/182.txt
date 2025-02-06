@@ -1,0 +1,9 @@
+* SDD-182 Analyse de la bandelette urinaire
+** Identifier les situations cliniques où l'analyse d'une BU est pertinante #DGP
+** Réaliser et lire une bandelette urinaire #PRO
+** Interpréter les résultats de la bandelette urinaire #DGP
+** Déterminer la valeur diagnostique de la bandelette urinaire selon la situation clinique et interpréter les résultats #PEC
+** Orienter l'examen clinique et les examens paracliniques selon l'étiologie suspectée, en cas de résultat pathologique #DGP
+** Utiliser la bandelette urinaire comme outil de dépistage ou de suivi #ETP
+---
+

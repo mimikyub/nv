@@ -1,0 +1,9 @@
+* SDD-245 Prescription d'un appareillage simple
+** Interroger le patient sur ses déficiences, limitations d'activité et restrictrions de participation #INT
+** Identifier une situation clinique dans laquelle la prescription d'un appareillage simple est indiquée #PEC
+** Déterminer les objectifs de l'appareillage simple #PEC
+** Expliquer au patient les modalités de mise en place et de port de l'appareillage simple #ETP
+** Expliquer au patient les modalités de prescription et de remboursement de l'appareillage simple #ETP
+** Évaluer l'efficacité et la tolérance de l'appareillage simple #INT
+---
+

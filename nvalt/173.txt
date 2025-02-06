@@ -1,0 +1,12 @@
+* SDD-173 Traumatisme des membres
+** Identifier le mécanisme du traumatisme #INT
+** Organiser et sécuriser les premiers secours en pré-hospitalier #URG
+** Proposer une prise en charge antalgique multimodale adaptée comprenant une immobilisation #PEC
+** Identifier à l'examen clinique les structures anatomiques impliquées #URG
+** Chercher des lésions associées #PEC
+** Décrire et interpréter des clichés radiographiques de membres #ICO
+** Diagnostiquer une fracture ouverte et évaluer la gravité #CLI
+** Identifier et prévenir les complications locales et systémiques #DGP
+** Discuter une prise en charge chirurgicale ou orthopédique #PEC
+---
+

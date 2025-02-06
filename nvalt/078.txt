@@ -1,0 +1,12 @@
+* SDD-078 Acné
+** Identifier les lésions élémentaires : séborrhée, comédons ouverts, comédons fermés, pustules, papules, nodules #CLI
+** Différencier l'acné d'une folliculite infectieuse et d'une rosacée #CLI
+** Différencier une forme inflammatoire d'une forme rétentionnelle #CLI
+** Evaluer le retentissement sur la qualité de vie #INT
+** Expliquer au patient le mécanisme de formation des lésions #ETP
+** Chercher des signes d'hyperandrogénie associés chez la femme adulte et l'adolescente #PEC
+** Expliquer au patient les règles hygiéno-diététiques et les principes thérapeutiques #ETP
+** Prescrire une contraception adaptée en cas de besoin contraceptif #PEC
+** Mettre en place un traitement adapté en différenciant l'indication d'un traitement topique de celle d'un traitement systémique #PEC
+---
+

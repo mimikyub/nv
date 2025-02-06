@@ -1,0 +1,8 @@
+* SDD-232 Demande d'explication d'un patient sur le déroulement, les risques et les bénéfices attendus d'un examen d'imagerie
+** Informer le patient et son entourage sur le déroulement d'un examen #ANN
+** Informer le patient et son entourage le patient et son entourage des résultats attendus #ANN
+** Expliquer au patient et à son entourage les éventuelles contre-indications des examens d'imagerie #EXA
+** Expliquer à la femme enceinte, les notions de radioprotection, de justification, d'optimisation et de limitation de l'exposition aux radiations #ETP
+** Expliquer, au patient et à son entourage, les notions de radioprotection, de justification, d'optimisation et de limitation de l'exposition aux radiations #ETP
+---
+

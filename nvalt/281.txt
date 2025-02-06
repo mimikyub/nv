@@ -1,0 +1,12 @@
+* SDD-281 Prescription médicamenteuse, consultation de suivi et éducation d'un patient diabétique de type 2 ou ayant un diabète secondaire
+** Chercher à l'interrogatoire les antécedents d'intolérance médicamenteuse, d'allergie, les contre-indications avant de prescrire #INTPEC:SDD_281:
+** Interroger le patient sur le vécu de son diabète et de son traitement et l'existence de nouveaux symptomes depuis la dernière consultation #INT
+** Prendre connaissance des résultats des examens complémentaires et les expliquer au patient #EXA
+** Examiner le patient à la recherche de complications du diabète ou d'autres facteurs de risque cardio-vasculaire #CLI
+** Définir les objectifs glycémiques et une HbA1c personnalisés pour le patient dans le cadre d'une décision médicale partagée #PEC
+** Expliquer au patient les principales mesures hygiéno-diététiques adaptées à ses problèmes de santé et sa situation et poposer au patient des séances d'éducation thérapeutique #ETP
+** Identifier les situations justifiant l'introduction d'une insulinothérapie et/ou une autosurveillance glycémique #PEC
+** Prescrire les antidiabétiques adaptés aux objectifs, au terrain, au risque hypoglycémique et aux contre-indications #PEC
+** Planifier le suivi systématique et dépister les complications, selon les recommandations #PEC
+---
+

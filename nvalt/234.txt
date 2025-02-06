@@ -1,0 +1,7 @@
+* SDD-234 Interprétation d'une recherche d'accès palustre
+** Evaluer la probabilité d'un accès palustre en fonction des données de l'interrogatoire et de l'examen clinique #INT
+** Diagnostiquer une forme évolutive d'accès palustre, l'espèce et la parasitémie à partir des données biologiques #EXA
+** Chercher les éléments parasitologiques de gravité #URG
+** Transmettre/récuperer le résultat en urgence pour mise en route du traitement #COM
+---
+

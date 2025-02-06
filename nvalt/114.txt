@@ -1,0 +1,11 @@
+* SDD-114 Agitation
+** Chercher à l'interrogatoire et à l'examen clinique une étiologie non psychiatrique et iatrogène à l'état d'agitation #CLI
+** Réaliser un entretien psychiatrique à la recherche d'une étiologie psychiatrique #INT
+** Evaluer le risque suicidaire, d'auto ou d'hétéro-agressivité #INT
+** Hiérarchiser les traitements pharmacologiques et évaluer leur efficacité #PEC
+** Mettre en place les règles générales de prévention de l'agressivité et du risque suicidaire #URG
+** Adapter le bilan pré-thérapeutique à l'état d'agitation #PEC
+** Discuter l'indication d'un isolement et d'une contention mécanique #PEC
+** Identifier les situations nécessitant une hospitalisation libre ou sans consentement #PEC
+---
+

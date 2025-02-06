@@ -1,0 +1,10 @@
+* SDD-029 Contracture musculaire localisée ou généralisée
+** Identifier une contracture musculaire localisée ou généralisée et les muscles impliqués par l'examen clinique #CLI
+** Caractériser le mode d'installation, le mode évolutif et les facteurs déclenchants #INT
+** Chercher les signes d'interrogatoire pour orienter l'enquête étiologique #INT
+** Chercher les signes physiques généraux, musculaires et extra-musculaires pour orienter l'enquête étiologique #DGP
+** Chercher les signes de gravité #URG
+** Évaluer le retentissement fonctionnel, les déficiences, limitations d'activité et restrictions de participation #INT
+** Proposer la prise en charge initiale de la contracture musculaire en fonction de l'enquête étiologique #PEC
+---
+

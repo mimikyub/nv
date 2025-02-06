@@ -1,0 +1,10 @@
+* SDD-034 Douleur aiguë post-opératoire
+** Utiliser et tracer systématiquement une échelle d’auto-évaluation validée par la HAS chez un patient adulte communiquant ou adaptée à l'âge de l'enfant #CLI
+** Chercher les critères diagnostiques usuels devant toute douleur #CLI
+** Chercher une complication chirurgicale #DGP
+** Elaborer une stratégie d’analgésie multimodale #PEC
+** Expliquer au patient et à l'équipe soignante l'utilisation de techniques analgésiques non pharmacologiques #ETP
+** Planifier une ré-évaluation de la douleur par l'équipe de soin #PEC
+** Anticiper une douleur post-opératoire en expliquant comment utiliser les thérapeutiques analgésiques controlées par le patient #ETP
+---
+

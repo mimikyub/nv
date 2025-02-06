@@ -1,0 +1,9 @@
+* SDD-240 Hospitalisation en soins psychiatrique sans consentement
+** Indiquer une hospitalisation en soins psychiatriques sans consentement #PEC
+** Adapter la modalité de soins psychiatriques sans consentement à la situation clinique #PEC
+** Expliquer les modalités d'application de l'hospitalisation en soins psychiatriques sans consentement #ANN
+** Expliquer les règles de la demande de tiers en cas de soins psychiatriques à la demande d'un tiers #ANN
+** Expliquer le déroulement d'une hospitalisation en soins psychiatriques sans consentement #COM
+** Expliquer les modalités de levée de la mesure #ANN
+---
+

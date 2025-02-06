@@ -1,0 +1,10 @@
+* SDD-189 Analyse d'un examen cytobactériologiques des urines (ecbu)
+** Identifier les situations cliniques où la réalisation d'un ECBU est pertinente #CLI
+** Réaliser le recueil des urines selon les bonnes pratiques de prélèvement #PRO
+** Interpréter les résultats de l'ECBU, en prenant en compte les éventuels matériels endo-urinaires #DGP
+** Orienter l'examen clinique selon l'étiologie suspectée, en cas de seuil pathologique mis en évidence, #CLI
+** Interpréter la pathogénicité d'un microorganisme mis en évidence sur un ECBU #EXA
+** Expliquer au patient la prise en charge ou l'abstention thérapeutique #ANN
+** Initier la prise en charge thérapeutique en cas de nécessité #PEC
+---
+

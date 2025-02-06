@@ -1,0 +1,12 @@
+* SDD-317 Dépistage et prévention des violences faites aux femmes
+** Evaluer le contexte socio-psychologique du patient et/ou de sa famille #INT
+** Chercher l'existence de violences passées et/ou présentes lors de l'interrogatoire et en préciser la nature #INT
+** Explorer les conséquences des violences subies sur l'état de santé de la patiente #DGP
+** Considérer l'impact sur les enfants du foyer #ETP
+** Identifier les situations à risque élevé et proposer une prise en charge adaptée #PEC
+** Informer la victime sur ses droits, impliquer le service social et l'orienter en fonction de la situation #PEC
+** Chercher une éventuelle grossesse et proposer une prise en charge adaptée #PEC
+** Identifier les situations relevant d'un signalement judiciaire pour la patiente et/ou les enfants du foyer #PEC
+** Identifier les situations où l'examen clinique ou le soin pourrait être considéré comme une violence par la patiente #ETP
+---
+

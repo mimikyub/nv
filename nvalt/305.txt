@@ -1,0 +1,10 @@
+* SDD-305 Dépistage et conseils devant une infection sexuellement transmissible
+** Expliquer au patient les situations à risque, les moyens de prévention des IST et la conduite à tenir en cas de prise de risque #ETP
+** Chercher les signes cliniques de l'IST en cause et d'autres IST associées, y compris par l'examen cutané et des muqueuses #CLI
+** Prescrire un dépistage des autres ISTs #PEC
+** Expliquer les conséquences sur la fertilité des infections génitales hautes #ANN
+** Proposer un dépistage +/- un traitement des partenaires sexuels #PEC
+** Chercher des arguments en faveur de violences sexuelles #PEC
+** Proposer une vaccination anti-VHB, anti-VHA et/ou anti-HPV en fonction du contexte #ETP
+---
+

@@ -1,0 +1,11 @@
+* SDD-339 Prescrire un arret de travail
+** Explorer la demande du patient en terme d'arrêt de travail #INT
+** Expliquer au patient les objectifs médicaux et médico-légaux ainsi que les bénéfices et limites de l'arrêt de travail #ETP
+** Adapter la durée d'arrêt de travail à la pathologie et au métier, dans une logique centrée-patient #PEC
+** Planifier le suivi et orienter vers une visite de pré-reprise si nécessaire #PEC
+** Identifier si l'arrêt de travail s'intégre à une maladie professionnelle ou un accident du travail #PEC
+** Identifier les situations ne relevant pas d'un arrêt de travail #PEC
+** Expliquer le rôle du médecin du travail #INT
+** Rédiger un arrêt de travail conforme #PRO
+---
+

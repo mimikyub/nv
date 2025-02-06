@@ -1,0 +1,12 @@
+* SDD-208 Hyperglycémie
+** Réaliser une glycémie capillaire #PRO
+** Interpréter une glycémie capillaire et une bandelette urinaire #DGP
+** Justifier l'indication de la recherche de corps cétoniques et d'un gaz du sang #PEC
+** Réaliser un prélèvement artériel pour analyse des gaz du sang et du lactate artériel #PRO
+** Chercher les facteurs déclenchants à l'origine de l'hyperglycémie #INT
+** Initier la prise en charge adaptée au degré d'urgence #URG
+** Chercher les éléments cliniques et paracliniques pertinents pour orienter l'étiologie du diabète #DGP
+** Expliquer au patient les facteurs de risque de l'hyperglycémie, sa prévention et sa prise en charge #ETP
+** Expliquer au patient les risques liés à un contrôle glycémique insuffisant #ETP
+---
+

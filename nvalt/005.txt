@@ -1,0 +1,9 @@
+* SDD-005 Douleur anale
+** Caracteriser la douleur #INT
+** Chercher les symptômes associés à la douleur anale #INT
+** Chercher des signes cliniques non proctologiques d'orientation diagnostique #CLI
+** Détecter une anomalie à l'examen proctologique et la caractériser #CLI
+** Proposer une prise en charge adaptée à la pathologie hémmoroïdaire #PEC
+** Identifier les situations pour lesquelles la prescription d'AINS peut aggraver la pathologie #DGP
+---
+

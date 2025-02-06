@@ -1,0 +1,14 @@
+* SDD-126 Mouvements anormaux
+** Identifier le type de mouvement anormal #CLI
+** Caractériser la sémiologie du tremblement #CLI
+** Déterminer si un tremblement s'intègre ou non dans un syndrome extra-pyramidal #DGP
+** Identifier les conséquences fonctionnelles des symptômes et le retentissement sur la participation #INT
+** Chercher une cause iatrogène de syndrome parkinsonien #INT
+** Chercher et identifier les symptômes de la maladie de Parkinson #CLI
+** Chercher et identifier les signes évocateurs d'un syndrome parkinsonien atypique #CLI
+** Proposer une prise en charge thérapeutique de première intention devant une maladie de Parkinson #PEC
+** Proposer une prise en charge thérapeutique de première intention devant une maladie de parkinson #PEC
+** Expliquer au patient et à son entourage le pronostic et l'évolution de la maladie de Parkinson #ANN
+** Expliquer au patient et à son entourage le pronostic et l'évolution de la maladie de parkinson #ANN
+---
+

@@ -1,0 +1,12 @@
+* SDD-027 Chute de la personne âgée
+** Repérer un sujet âgé à risque de chute et proposer des mesures de prévention #ETP
+** Reconstituer l'histoire et le mécanisme de la chute isolée ou des chutes à répétition #INT
+** Repérer les principaux facteurs de risque intrinsèques, iatrogènes ou liés à l'environnement des chutes à répétition #INT
+** Chercher à l'interrogatoire et à l'examen clinique les facteurs étiologiques de la chute #INT
+** Evaluer à l'examen cliniques le retentissement et les complications de la chute #CLI
+** Réaliser un examen de la marche et de l'équilibre en s'aidant des tests appropriés #CLI
+** Expliquer au patient et aux aidants la prise en charge et la correction des facteurs de risque pour prévenir les chutes #ETP
+** Proposer une prise en charge multidomaine et pluridisciplinaire adaptée selon le bilan étiologique et facteurs identifiés #PEC
+** Evaluer le retentissement psycho-social et prévenir l'isolement #ETP
+---
+

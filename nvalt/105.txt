@@ -1,0 +1,10 @@
+* SDD-105 Découverte d'une malformation de l'appareil génital
+** Chercher à l'interrogatoire une cause iatrogène ou des antécedents familiaux orientant vers une origine génétique #INT
+** Réaliser un entretien et un examen clinique à la recherche d'autres anomalies génitales ou extra-génitales #CLI
+** Orienter la prise prise en charge vers un généticien et un centre de maladie rare #PEC
+** Distinguer le phimosis du paraphimosis #CLI
+** Distinguer la hernie inguino-scrotale de l'hydrocoèle congénitale #CLI
+** Organiser la prise en charge d'une cryptorchidie, d'un phismosis et paraphimosis #PEC
+** Evaluer le retentissement psychologique et proposer un accompagnement adapté #INT
+---
+

@@ -1,0 +1,10 @@
+* SDD-259 Évaluation et prise en charge de la douleur aiguë
+** Utiliser et tracer systématiquement une échelle d'évaluation validée par la HAS chez un patient adulte communiquant ou adaptée à l'âge de l'enfant #CLI
+** Elaborer une stratégie d'analgésie multimodale en fonction de la situation clinique #PEC
+** Chercher et traiter la cause de la douleur #PEC
+** Expliquer au patient et à l'équipe soignante l'utilisation de techniques analgésiques non pharmacologiques #ETP
+** Planifier une ré-évaluation de la douleur par l'équipe de soin et adapter le traitement #PEC
+** Anticiper et prévenir une douleur aigüe #ETP
+** Expliquer à un patient non hospitalisé la gestion des médicaments, le risque de mésusage, les effets indésirables et les principes de reconsultation #ETP
+---
+

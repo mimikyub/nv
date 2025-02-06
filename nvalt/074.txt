@@ -1,0 +1,12 @@
+* SDD-074 Faiblesse musculaire
+** Faire le diagnostic d'une faiblesse musculaire et la côter avec une échelle adaptée muscle par muscle #CLI
+** Recueillir les éléments d'anamnèse et familiaux orientant l'enquête étiologique #INT
+** Caractériser le mode d'installation et d'évolution #CLI
+** Analyser la topographie de la faiblesse musculaire (distal/proximal, axial/périphérique, symétrique/asymétrique) #CLI
+** Différencier une faiblesse musculaire d'origine périphérique, d'une déficience motrice neurologique d'origine centrale #CLI
+** Chercher les signes musculaires associés à la faiblesse #CLI
+** Chercher des signes extramusculaires et généraux #CLI
+** Chercher des éléments de gravité généraux et/ou fonctionnels et identifier les situations nécessitant un transfert en unité de soins critiques #URG
+** Argumenter et justifier les explorations d'imagerie et d'électrophysiologie adaptées #DGP
+---
+

@@ -1,0 +1,12 @@
+* SDD-039 Examen du nouveau-né à terme
+** Identifier les facteurs de risque et les signes cliniques des 3 principales urgences (détresse respiratoire, infection néonatale précoce et ictère) lors de l'examen clinique à la naissance et à distance #CLI
+** Effectuer un examen clinique détaillé du nouveau -né (poids, PC, taille) et détecter d'éventuelles malformations #CLI
+** Effectuer un examen de la maturation neurologique du nouveau né #CLI
+** Etablir le certificat du 8ème jour et remplir le carnet de santé #ETP
+** Transmettre les bases de puériculture aux parents #ETP
+** Expliquer la conduite à tenir en cas de fièvre chez un nourrisson de moins de 3 mois #ETP
+** Expliquer les dépistages systématiques néonataux (sanguins, sensoriels, luxation congénitale de hanches) #ETP
+** Informer les parents sur les vaccinations recommandées pour l'entourage du nouveau-né (cocooning) #ETP
+** Evaluer le contexte socio-psychologique #INT
+---
+

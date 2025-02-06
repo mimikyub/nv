@@ -1,0 +1,11 @@
+* SDD-268 Consultation de suivi de grossesse normale (1er-2ème et 3ème trimestre)
+** Dépister les facteurs de vulnérabilité #INT
+** Chercher les facteurs de risque de complications #INT
+** Informer la patiente sur les règles hygiéno-diététiques de la grossesse et les risques spécifiques #ETP
+** Réaliser un examen obstétrical adapté au trimestre de la grossesse #CLI
+** Prescrire de manière adaptée les examens complémentaires de dépistage au cours de la grossesse #DGP
+** Informer la patiente de la prise en charge sociale pendant la grossesse #ETP
+** Prescrire les traitements nécessaires en fonction des examens de suivi d'une grossesse normale #PEC
+** Dépister une complication de la grossesse #CLI
+---
+

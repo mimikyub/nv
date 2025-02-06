@@ -1,0 +1,11 @@
+* SDD-236 Interprétation d'un résultat de sérologie
+** Informer le biologiste du contexte clinique de la demande #COM
+** Repérer les valeurs seuils des techniques #EXA
+** Evaluer l'évolutivité de l'infection à partir des résultats sérologiques #EXA
+** Identifier les situations où des examens complémentaires sont nécessaires pour préciser la cinétique de l'infection naturelle ou sous traitement #DGP
+** Identifier les situations cliniques où la prescription d'un examen sérologique n'est pas indiquée #DGP
+** Interpreter le résultats d'une sérologie syphilis et programmer la surveillance sérologique #EXA
+** Interpreter le résultats d'une sérologie hépatite B et programmer la surveillance sérologique #EXA
+** Informer le patient des résultats sérologiques et des suites de la prise en charge #ANN
+---
+

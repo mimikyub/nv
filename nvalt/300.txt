@@ -1,0 +1,11 @@
+* SDD-300 Consultation d'anesthésie
+** Demander une consultation pré-anesthésie #COM
+** Préciser un antécédent d'allergie et identifier les antécédents #INT
+** Informer sur les différentes modalités anesthésiques possibles et les complications potentielles #ANN
+** Etablir et expliquer une stratégie de prise en charge de la douleur péri-opératoire et de l'anxiété #PEC
+** Informer sur les règles du jeûne pré-anesthésique, incluant le tabac #ETP
+** Préciser les antécédents obstétricaux et néonataux (dossier, carnet de santé) chez le nouveau-né, le nourrisson et le petit enfant #INT
+** Envisager une stratégie d'apport des besoins hydriques et caloriques selon l'âge et la durée du jeûne #PEC
+** Evoquer une anomalie de l'hémostase #DGP
+---
+

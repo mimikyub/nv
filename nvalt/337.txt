@@ -1,0 +1,12 @@
+* SDD-337 Identification, prise en soin et suivi d'un patient en situation palliative
+** Recueillir et estimer le niveau de connaissance et de compréhension du patient et de son entourage par rapport à la maladie et à son évolution #INT
+** Aborder avec le patient la question des directives anticipées et de la limitation des thérapeutiques #ANN
+** Repérer la complexité de la situation et la nécessité du recours à une équipe spécialisée de soins palliatifs #PEC
+** Colliger et hiérarchiser les objectifs de soins, les explorations et les traitements #PEC
+** Prévenir, évaluer et prendre en charge la douleur et les autres symptômes d'inconfort et évaluer la dimension psychosociale de la souffrance #PEC
+** Proposer une prise en charge palliative au sein d'un réseau ou en milieu hospitalier #PEC
+** Argumenter les traitements étiologiques et symptomatiques adaptés au contexte clinique #PEC
+** Anticiper l'évolution et les risques de complications de la pathologie #PEC
+** Présenter une synthèse de la situation clinique du patient dans sa globalité #PEC
+---
+

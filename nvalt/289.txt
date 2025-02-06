@@ -1,0 +1,9 @@
+* SDD-289 Consultation et suivi d'un patient épileptique
+** Interroger le patient sur le vécu de son épilepsie, de son traitement et l'existence de nouveaux symptômes depuis la dernière consultation #INT
+** Expliquer les facteurs de risque de survenue d'une crise et ses dangers potentiels #ETP
+** Expliquer l'ordonnance de traitement anti épileptique avec notament les contre-indications, les effets indésirables attendus et le risque d'interaction médicamenteuse #ETP
+** Adapter la prise en charge thérapeutique en cas de souhait de grossesse, de grossesse évolutive ou d'allaitement #PEC
+** Conseiller un patient sur l'adaptation des activités de la vie quotidienne #ETP
+** Expliquer au patient et à son entourage la conduite à tenir devant une crise épileptique habituelle du patient ou d'une crise généralisée tonico-clonique #ETP
+---
+

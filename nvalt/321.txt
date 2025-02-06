@@ -1,0 +1,10 @@
+* SDD-321 Suspicion maltraitance et enfance en danger
+** Identifier les lésions tégumentaires évocatrices de maltraitance et réaliser un examen complet à la recherche d'autres lésions/signes #CLI
+** Evoquer une situation de négligence ou de carence de soin #CLI
+** Evoquer une situation de maltraitance devant des incohérences à l'interrogatoire ou des signes d'appel cliniques ou d'imagerie #DGP
+** Envisager un diagnostic différentiel d'une maltraitance #DGP
+** Evoquer des violences sexuelles devant des signes d'appel clinique #DGP
+** Evoquer le diagnostic du syndrome du bébé secoué #DGP
+** Repérer les critères d'hospitalisation en cas de suspicion de maltraitance #PEC
+---
+

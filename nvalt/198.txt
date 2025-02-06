@@ -1,0 +1,12 @@
+* SDD-198 Choléstase
+** Diagnostiquer une cholestase icterique et anictérique #CLI
+** Interpréter les résultats des marqueurs biologiques de la cytolyse, de la cholestase et de la fonction hépatique #EXA
+** Différencier une étiologie hépato-biliaire chronique ou aiguë #DGP
+** Différencier une cholestase avec ou sans obstacle biliaire #DGP
+** Différencier une cause hépatique et extra-hépatique #DGP
+** Identifier les situations bénignes de syndrome cholestatique #DGP
+** Hiérarchiser la prescription des examens morphologiques nécessaires à l'exploration d'une cholestase #DGP
+** Evoquer un diagnostic de cirrhose sur la base des arguments cliniques, biologiques et d'imagerie #EXA
+** Prendre en charge un prurit lié à une cholestase #PEC
+---
+

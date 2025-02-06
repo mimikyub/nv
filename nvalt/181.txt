@@ -1,0 +1,12 @@
+* SDD-181 Tumeurs malignes sur pièce opératoire - biopsie
+** Préciser le site du prélèvement, sa nature, son mode de conservation et son délai d'acheminement en service d'anatomie pathologique #COM
+** Expliquer aux intervenants les étapes d'analyse du prélèvement et leurs délais de réalisation #COM
+** Expliquer les principes d'un examen extemporané au cours d'une chirurgie carcinologique #COM
+** Expliquer au patient les éléments d'un compte-rendu d'anatomo-pathologie tumorale et leurs significations diagnostiques, pronostiques et théranostiques #ANN
+** Justifier l'analyse en urgence d'un prélèvement tissulaire #URG
+** Expliquer les éléments sémiologiques anatomopathologiques et leur signification physiopathologique #COM
+** Intégrer les données anatomopathologique au dossier clinique d'un patient #EXA
+** Prescrire de manière raisonnée un prélèvement biologique/cellulaire/tissulaire adapté #PEC
+** Interpréter le résultat d'analyse d'un prélèvement biologique/cellulaire/tissulaire et le confronter aux données cliniques du patient #DGPEXA:SDD_181:
+---
+

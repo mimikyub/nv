@@ -1,0 +1,10 @@
+* SDD-237 Décès
+** Annoncer avec empathie à la famille et aux proches la possibilité de décès imminent, si adapté #ANN
+** Identifier les signes cliniques de la mort #CLI
+** Identifier les situations de décès relevant d'un obstacle médico-légal à l'inhumation #DGP
+** Annoncer avec empathie à la famille et aux proches le décès dans des conditions adaptées #ANN
+** Détecter les facteurs de risque d'un deuil pathologique #ETP
+** Ecouter les réactions et répondre aux questions de la famille/des proches du patient décédé #INT
+** Faire un diagnostic clinique de mort encéphalique et demander un/des examens complémentaires pour la confirmer #DGP
+---
+

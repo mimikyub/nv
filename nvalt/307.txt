@@ -1,0 +1,10 @@
+* SDD-307 Dépistage prénatal de la trisomie 21
+** Chercher et identifier à l'interrogatoire, les éléments pouvant placer la patiente dans une situation à risque élevé #INT
+** Proposer à la patiente une stratégie de dépistage de la trisomie 21 en tenant compte du terme de grossesse #PEC
+** Expliquer le déroulement d'un test de dépistage, son intérêt et ses limites, en vue de recueillir un consentement éclairé de la patiente #INT
+** Expliquer à la patiente les résultats d'un test de dépistage de la trisomie 21 #ANN
+** Expliquer à la patiente les possibilités de prise en charge diagnostique selon le résultat du dépistage #ANN
+** Informer sur les signes cliniques, l'évolution naturelle, les complications et la prise en charge d'un patient présentant une trisomie 21 #ANN
+** Expliquer le risque de récurrence lors d'une prochaine grossesse #ANN
+---
+

@@ -1,0 +1,12 @@
+* SDD-287 Consultation de suivi et éducation thérapeutique d'un patient insuffisant cardiaque
+** Interroger le patient sur le vécu de son insuffisance cardiaque/cardiopathie, de son traitement et l'existence de nouveaux symptômes depuis la dernière consultation #INT
+** Informer le patient des principaux effets indésirables des traitements instaurés #ETP
+** Interroger et examiner un patient insuffisant cardiaque à la recherche de signes de décompensation et chercher les facteurs déclenchants #CLI
+** Expliquer au patient le mécanisme de l'insuffisance cardiaque et ses complications #ETP
+** Eduquer le patient à détecter les signes d'insuffisance cardiaque et connaitre ceux devant motiver un contact médical #ETP
+** Prescrire les examens complémentaires permettant de faire le suivi d'un patient insuffisant cardiaque #DGP
+** Expliquer les résultats de l'échographie cardiaque #ANN
+** Expliquer et mettre en place les princiales mesures hygièno-diététiques, promouvoir les bienfaits d'une activité physique adaptée et d'une réadaptation cardiaque #ETP
+** Repérer des signes de gravité chez un patient insuffisant cardiaque indiquant une hospitalisation en urgence #URG
+---
+

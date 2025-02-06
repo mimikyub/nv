@@ -1,0 +1,13 @@
+* SDD-350 Violences sexuelles
+** Recueillir les informations sur l'existence de violences sexuelles et leur type #INT
+** Reconnaître à l'interrogatoire et à l'examen physique des signes ou séquelles de violences sexuelles #CLI
+** Reconnaître à l'interrogatoire les principales situations spécifiques, notamment violences sur mineurs et violences conjugales #INT
+** Expliquer au patient l'interêt d'un examen clinique complet et les principes de la prise en charge #ETP
+** Evaluer le risque de complications infectieuses et programmer leur dépistage #PEC
+** Prescrire les prophylaxies adaptées à la situation de violence sexuelle #PEC
+** Proposer un soutien psychologique #PEC
+** Diagnostiquer une grossesse et proposer une prise en charge adaptée #PEC
+** Informer la victime sur ses droits et l'orienter en fonction de la situation :Education/prévention,PEC:SDD_350:
+** Identifier les situations relevant d'un signalement judiciaire pour la patiente et/ou les enfants du foyer #PEC
+---
+

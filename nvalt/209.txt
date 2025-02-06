@@ -1,0 +1,10 @@
+* SDD-209 Hypoglycémie
+** Réaliser une glycémie capillaire #PRO
+** Identifier les signes et situations cliniques devant faire chercher une hypoglycémie #CLI
+** Interpréter un dosage de la glycémie #EXA
+** Prendre en charge en urgence une hypoglycémie selon des mesures adaptées à l'état de conscience #URG
+** Evoquer le caractère organique de l'hypoglycémie chez le nouveau-né/ nourrisson/enfant non diabétique qui présente une hypoglycémie #DGP
+** Identifier les principales causes d'hypoglycémie chez le patient diabétique #INT
+** Expliquer au patient diabétique comment identifier, prévenir et traiter les épisodes d'hypoglycémies #ETP
+---
+

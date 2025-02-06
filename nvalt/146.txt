@@ -1,0 +1,9 @@
+* SDD-146 Dysphonie
+** Différencier une dysphonie d'un autre trouble de la parole et du langage #CLI
+** Caracteriser la dysphonie #CLI
+** Orienter l'interrogatoire selon les habitudes de vie du patient et l'évolution de la dysphonie #INT
+** Chercher les signes ORL, respiratoires et neurologiques associés à la dysphonie #CLI
+** Réaliser un examen orienté selon les données de l'interrogatoire #DGP
+** Evoquer une laryngite aigue chez l'enfant et initier la prise en charge #URG
+---
+

@@ -1,0 +1,12 @@
+* SDD-192 Analyse d'un résultat de gaz du sang
+** Identifier les situations justifiant la réalisation d'un gaz du sang artériel ou veineux #DGP
+** Différencier un gaz du sang artériel et veineux #EXA
+** Réaliser un prélèvement artériel pour analyse des gaz du sang et de la lactacidémie #PRO
+** Diagnostiquer une acidose et une alcalose et évaluer le degré de compensation #EXA
+** Chercher les élements utiles à l'enquête étiologique d'une acidose ou d'une alcalose #CLI
+** Prendre en compte un dosage élevé des lactates #EXA
+** Analyser la PaO2 en fonction des conditions d'oxygénation et du chiffre d'hémoglobine #EXA
+** Initier une prise en charge adaptée à la gravité du trouble acido-basique #PEC
+** Orienter la prise en charge en hospitalisation conventionnelle ou en unité de soins critiques, si besoin #PEC
+---
+

@@ -1,0 +1,9 @@
+* SDD-012 Station au sol prolongée
+** Identifier le mécanisme de la chute et/ou de la station au sol prolongée et en évaluer sa durée #INT
+** Evaluer avec le patient et son entourage le mode de vie et le degré d'autonomie #INT
+** Evaluer les complications traumatiques de la chute #CLI
+** Evaluer les complications cutanées, infectieuses, métaboliques, thrombotiques de la station au sol prolongée #PEC
+** Diagnostiquer et prendre en charge une rhabdomyolyse aigue #PEC
+** Mettre en place des actions préventives contre le risque de chute et de station prolongée au sol #ETP
+---
+

@@ -1,0 +1,10 @@
+* SDD-253 Prescrire des diurétiques
+** Prescrire et justifier l'indication d'un diurétique #PEC
+** Choisir le diurétique selon l'indication thérapeutique #PEC
+** Suivre l'efficacité du traitement en fonction de l'indication #PEC
+** Expliquer au patient les règles hygiénodiététiques associées #INT
+** Chercher à l'interrogatoire les potentielles contre-indications et interactions médicamenteuses spécifiques aux diurétiques #INT
+** Mettre en place une surveillance clinique et biologique des traitements introduits et chercher les principaux effets secondaires #PEC
+** Chercher une hypotension orthostatique et adapter les traitements #PEC
+---
+

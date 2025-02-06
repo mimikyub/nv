@@ -1,0 +1,12 @@
+* SDD-054 Œdème localisé ou diffus
+** Orienter son examen selon le caractère général ou localisé et selon le caractère inflammatoire ou non de l'œdème #CLI
+** Orienter l'enquête étiologique en fonction des caractéristiques cliniques de l'œdème et des signes fonctionnels associés #DGP
+** Chercher une cause médicamenteuse ou un traumatisme #INT
+** Eliminer devant un oedème généralisé une protéinurie, une maladie hépatique et une insuffisance cardiaque #CLI
+** Chercher devant un oedème localisé une lésion focale, des signes d'obstructions veineuses et une allergie #CLI
+** Evaluer le retentissement d'une pathologique systémique responsable de l'oedème #CLI
+** Expliquer les règles hygiéno-diététiques #ETP
+** Expliquer l'intérêt du port d'une compression #ETP
+** Initier la prise en charge thérapeutique urgente en cas de nécessité #URGPEC:SDD_054:
+---
+

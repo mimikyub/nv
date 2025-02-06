@@ -1,0 +1,11 @@
+* SDD-311 Prévention des infections liées aux soins
+** Implémenter les précautions d'hygiène standard #PEC
+** Mettre en place des mesures de précautions complémentaires pour les situations le justifiant #PEC
+** Evaluer l'intérêt d'un soin à risque infectieux ou d'une intervention chirurgicale en argumentant la balance bénéfices/risques #PEC
+** Respecter les indications d'initiation, de spectre et de durée de l'antibiothérapie #PEC
+** Prescrire une antibioprophylaxie dans les situations à risque le justifiant #PEC
+** Chercher la survenue d'infections liées aux soins #DGP
+** Evaluer quotidiennement l'indication de pose et de maintien des dispositifs intravasculaires et urinaires #PEC
+** Informer le patient et son entourage sur les mesures d'hygiène à adopter pour encadrer un soin #ETP
+---
+

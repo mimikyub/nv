@@ -1,0 +1,8 @@
+* SDD-263 Prise en charge d'une ectoparasitose
+** Chercher les facteurs de risque et les signes cliniques faisant suspecter une gale profuse ou hyperkératosique #INT
+** Prescrire un bilan d'IST selon la situation clinique #DGP
+** Prescrire le traitement et mesures associées #PEC
+** Dépister et traiter les sujets contact selon le type d'ectoparasitose #PEC
+** Gérer une épidémie de gale dans une collectivité #PEC
+---
+

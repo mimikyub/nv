@@ -1,0 +1,13 @@
+* SDD-199 Créatinine augmentée
+** Identifier une élévation significative de la créatininémie et utilser les formules d'estimation du débit de filtration glomérulaire #DGP
+** Différencier le caractère aigu ou chronique de l'élévation de la créatinine sur les éléments anamnéstiques, cliniques, biologiques et radiologiques #DGP
+** Identifier les éléments cliniques et biologiques permettant de préciser la cause de l'insuffisance rénale (obstructive, fonctionnelle, organique) #DGP
+** Chercher les complications cliniques et métaboliques de l'insuffisance rénale #CLI
+** Identifier les situations justifiant une biopsie rénale #DGP
+** Identifier les situations justifiant un drainage du haut ou bas appareil urinaire #DGP
+** Evaluer le risque iatrogène et/ou toxique/surdosage et informer le sujet et les collaborateurs sur le nécessité à venir d'adaptations thérapeutiques #ETP
+** Identifier les critères d'épuration extrarénale en urgence #URG
+** Initier le traitement étiologique de l'insuffisance rénale et prendre en charge les complications métaboliques et cliniques #PEC
+** Prevenir et diagnostiquer une nécrose tubulaire aigue #PEC
+---
+

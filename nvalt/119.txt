@@ -1,0 +1,12 @@
+* SDD-119 Confusion mentale - désorientation
+** Différencier, à l'aide de l'interrogatoire du patient et de l'entourage, une confusion d'une démence #INT
+** Eliminer une cause iatrogène #INT
+** Identifier les différents facteurs prédisposant et précipitant de la confusion #DGP
+** Chercher à l'interrogatoire et à l'examen clinique les éléments permettant d'identifier une cause neurologique ou non neurologique #CLI
+** Justifier et argumenter, si indiqué, la prescription d'une imagerie cérébrale et diagnostiquer un hématome sous-dural #DGP
+** Prescrire les traitements pharmacologiques d'urgence d'un patient confus #PEC
+** Prescrire les approches non pharmacologiques dans la prise en charge d'un patient confus #PEC
+** Traiter la/les cause(s) de la confusion #PEC
+** Réaliser une glycémie capillaire #PRO
+---
+

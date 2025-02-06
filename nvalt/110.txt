@@ -1,0 +1,6 @@
+* SDD-110 Saignement génital anormal en post-partum
+** Réaliser un examen gynécologique pour évaluer le saignement et son origine #CLI
+** Evaluer la tolérance hémodynamique #URG
+** Chercher à l'examen clinique des signes de complications septiques #CLI
+---
+

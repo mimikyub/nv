@@ -1,0 +1,11 @@
+* SDD-193 Analyse de l'éléctrophorèse des protéines sériques
+** Justifier les indications de prescription d'une éléctrophorèse des protéines sériques #DGP
+** Interpréter un tracé d'une éléctrophorèse des protéines sériques #EXA
+** Justifier l'indication d'une immunofixation sanguine ou d'un dosage des chaînes légères libres sériques #DGP
+** Justifier l'indication d'un myélogramme #DGP
+** Justifier l'indication d'un dosage pondéral des immunoglobulines #DGP
+** Justifier les indications d'une exploration des protéines urinaires (protéinurie, électrophorèse des protéines urinaires, etc.) #DGP
+** Expliquer au patient les précautions à prendre devant un pic monoclonal #ETP
+** Chercher les complications pouvant être associées à un pic monoclonal #EXA
+---
+

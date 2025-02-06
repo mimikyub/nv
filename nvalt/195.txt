@@ -1,0 +1,12 @@
+* SDD-195 Analyse du bilan lipidique
+** Chercher des signes cliniques évocateurs de dyslipidémie #CLI
+** Analyser et interpréter le bilan lipidique en fonction du contexte de la prescription #EXA
+** Chercher les facteurs de risques cardiovasculaires associés #INT
+** Evaluer le niveau de risque cardiovasculaire #DGP
+** Justifier l'indication d'exploration cardiovasculaire #PEC
+** Chercher une cause secondaire de dyslipidémie #INT
+** Expliquer au patient les régles hygiéno-diététiques #ETP
+** Interprêter le bilan en prenant en considération les niveaux cibles du LDL-cholestérol #EXA
+** Justifier l'indication d'un traitement hypolipémiant #PEC
+---
+

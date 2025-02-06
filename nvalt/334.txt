@@ -1,0 +1,7 @@
+* SDD-334 Demande de traitement et investigation inappropriés
+** Evaluer le contexte socio-psychologique du patient et/ou de sa famille #INT
+** Explorer les motivations du patient ou de l'entourage #INT
+** Elaborer une décision médicale partagée #PEC
+** Mobiliser des stratégies de communication spécifiques pour décliner #ANN
+---
+

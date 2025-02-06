@@ -1,0 +1,13 @@
+* SDD-088 Prurit
+** Caractériser le prurit, sa topographie et son mode évolutif #INT
+** Chercher les facteurs d'exposition potentiellement responsables du prurit #INT
+** Différencier un prurit sine materia d'un prurit associé à des lésions cutanées #CLI
+** Différencier des lésions primitives de lésions de grattage #CLI
+** Chercher les signes cliniques dermatologiques et non dermatologiques pour orienter l'enquête étiologique #CLI
+** Diagnostiquer la lésion dermatologique primitive #CLI
+** Apprécier l'impact psycho-social d'un prurit chronique #INT
+** Identifier les signes de surinfection d'une lésion de grattage #CLI
+** Mettre en place le traitement étiologique #PEC
+** Prescrire un traitement symptomatique du prurit sine materia #PEC
+---
+

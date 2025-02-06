@@ -1,0 +1,13 @@
+* SDD-297 Consultation du suivi en cancérologie
+** Chercher par l'interrogatoire et à l'examen clinique des signes de progression tumorale loco-régionale ou métastatique #CLI
+** Evaluer de manière globale le patient: indice d'activité OMS, douleur, inconfort, altération de l'état général, état nutritionnel #CLI
+** Chercher par l'interrogatoire des effets indésirables des traitements antitumoraux #INT
+** Prévenir ou traiter les effets indésirables des traitements antitumoraux #PEC
+** Donner les recommandations sur l'équilibre alimentaire, l'activité physique et l'exposition au tabac et à l'alcool #ETP
+** Annoncer une récidive ou un échec de traitement avec empathie et en tenant compte des mécanismes de défense du patient #ANN
+** Impliquer le médecin traitant dans le suivi et les autres professionnels de santé pour l'accès aux soins de support #COM
+** Evaluer le retentissement psychologique, social et professionnel de la maladie #INT
+** Evaluer le retentissement sur les aidants #INT
+** Anticiper la possible dégradation à venir et reflechir au projet de soins avec le patient #PEC
+---
+

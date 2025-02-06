@@ -1,0 +1,12 @@
+* SDD-102 Hématurie
+** Eliminer une fausse hématurie à l'interrogatoire et l'inspection des urines et en s'aidant d'une bandelette urinaire #DGP
+** Différencier une hématurie microscopique d'une hématurie macroscopique #CLI
+** Préciser les caractéristiques de l'hématurie macroscopique (initiale/totale/terminale), chercher les signes urologiques accompagnateurs et préciser le mode évolutif #INT
+** Identifier une hématurie caillotante et chercher les signes de gravité #CLI
+** Intégrer l'analyse du sédiment urinaire et de la biologie à la démarche diagnostique #DGP
+** Chercher à l'interrogatoire et l'examen clinique les éléments orientant vers une pathologie néphrologique, urologique, infectieuse ou une maladie de système #CLI
+** Chercher les signes de gravité nephrologique et urologique justifiant une prise en charge urgente #URG
+** Initier la prise en charge thérapeutique urgente en cas de nécessité #URG
+** Poser une sonde vésicale double courant en cas d'hématurie caillotante #PEC
+---
+

@@ -1,0 +1,9 @@
+* SDD-103 Incontinence urinaire
+** Chercher les facteurs de risque et prédisposant de l'incontinence urinaire #CLI
+** Expliquer les règles hygiéno-diététiques de prévention et la prise en charge de l'incontinence urinaire #ETP
+** Eliminer les principaux diagnostics différentiels #DGP
+** Evaluer l'importance et le retentissement personnel d'une incontinence urinaire #INT
+** Réaliser un examen pelvien, uro-génital et neurologique #CLI
+** Différencier une incontinence urinaire par urgenturie, d'effort, permanente ou mixte #CLI
+---
+

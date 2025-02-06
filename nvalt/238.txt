@@ -1,0 +1,10 @@
+* SDD-238 Demande et préparation aux examens endoscopiques (bronchiques, digestifs)
+** Chercher une antériorité #INT
+** Identifier les situations justifiant une endoscopie digestive ou bronchique et leur degré d'urgence #PEC
+** Rédiger la demande d'une endoscopie digestive/bronchique #PRO
+** Expliquer aux patients les objectifs, les bénéfices et les risques d'une endoscopie #ANN
+** Identifier les situations justifiant un prélèvement per-endoscopique digestif ou pulmonaire #PEC
+** Evaluer et prévenir les risques en lien avec la procédure envisagée et le terrain; adapter la surveillance après la procédure #PEC
+** Adapter les traitements autour de la procédure #PEC
+---
+

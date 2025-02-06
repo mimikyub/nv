@@ -1,0 +1,12 @@
+* SDD-060 Hémorragie aigue
+** Réaliser un dosage capillaire de l'hémoglobine #PRO
+** Réaliser une compression externe pour contrôler les pertes sanguines #PRO
+** Evaluer le retentissement de l'hémorragie #URG
+** Prescrire les traitements symptomatiques adaptés à la situation du patient #URG
+** Identifier les situations nécessitant une transfusion sanguine et le délai de mise en oeuvre #PEC
+** Adapter la prise en charge chez un patient sous antithrombotique #PEC
+** Interpréter la discordance clinico-biologique devant une hémorragie aiguë #URG
+** Organiser le traitement étiologique de l'hémorragie #PEC
+** Orienter le patient dans le secteur adapté #PEC
+---
+

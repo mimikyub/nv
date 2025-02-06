@@ -1,0 +1,8 @@
+* SDD-284 Consultation de suivi et éducation thérapeutique d'un patient avec hypothyroïdie
+** Evaluer à l'interrogatoire et à l'examen clinique la tolérance et l'observance du traitement substitutif #INT
+** Chercher les signes d'hyper ou d'hypothyroïdie #INT
+** Expliquer au patient l'interpétation du bilan hormonal #ANN
+** Justifier l'indication d'une substitution hormonale selon le contexte clinique et le bilan paraclinique #PEC
+** Initier et adapter le traitement en fonction de la situation clinique et des résultats du bilan paraclinique #PEC
+---
+

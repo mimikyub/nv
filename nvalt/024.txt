@@ -1,0 +1,9 @@
+* SDD-024 Bouffées de chaleur
+** Evaluer le retentissement sur la qualité de vie #INT
+** Caractériser les bouffées de chaleur et chercher les autres symptômes du syndrome climatérique #INT
+** Evoquer les diagnostics différentiels du syndrome climatérique et adapter la stratégie diagnostique #DGP
+** Interprêter un bilan hormonal de l'axe gonadotrope #EXA
+** Proposer une prise en charge adaptée au niveau de risque de la patiente et à son âge #PEC
+** Expliquer la balance bénéfice risque du traitement hormonal de la ménopause #ETP
+---
+

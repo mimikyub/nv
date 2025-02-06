@@ -1,0 +1,9 @@
+* SDD-156 Ronflements
+** Chercher les signes fonctionnels nocturnes et diurnes évocateurs d'un syndrome d'apnées-hypopnées obstructives du sommeil (SAHOS) #INT
+** Chercher les anomalies morphologiques favorisant les ronflements et le SAHOS #CLI
+** Identifier les cormobidités et/ou complications potentielles du SAHOS #INT
+** Utiliser des questionnaires adaptés pour dépister un SAHOS et en évaluer le retentissement personnel, familial et social #INT
+** Discuter l'indication d'un enregistrement nocturne #DGP
+** Proposer les mesures hygiéno-diététiques communes au traitement des ronflements et du SAHOS #ETP
+---
+

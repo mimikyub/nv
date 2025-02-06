@@ -1,0 +1,12 @@
+* SDD-167 Toux
+** Identifier les caractéristiques sémiologiques d'une toux #INT
+** Chercher les signes d'alarme dans le cadre d'une toux #INT
+** Différencier une toux aigüe et chronique, et caractériser le mode évolutif #INT
+** Chercher les signes d'interrogatoire et cliniques respiratoires et extrarespiratoires permettant d'orienter l'enquête étiologique #CLI
+** Mettre en place les mesures d'isolement si une infection transmissible est suspectée #ETP
+** Chercher les expositions médicamenteuses et environnementales et les facteurs aggravant d'une pathologie respiratoire #ETP
+** Prescrire et interpréter les explorations fonctionnelles respiratoires #DGP
+** Initier la prise en charge d'une toux aiguë ou chronique #PEC
+** Chercher les complications physiques, sociales et psychologiques, en cas de toux chronique #INT
+---
+

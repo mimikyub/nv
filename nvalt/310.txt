@@ -1,0 +1,12 @@
+* SDD-310 Prévention chez un malade contagieux
+** Identifier précocément une situation infectieuse à risque de contagiosité #DGP
+** Identifier les populations exposées et celles à risque de formes graves #DGP
+** Expliquer au patient et son entourage le risque de contagiosité et les mesures de prévention à mettre en œuvre #ETP
+** Evaluer le statut vaccinal et le contexte socio-environnemental du patient #INT
+** Proposer des mesures barrières, de protection et d'isolement adaptées au mode de transmission #DGP
+** Revêtir et enlever une tenue de protection adaptée au type d'isolement requis #PRO
+** Proposer des mesures thérapeutiques prophylactiques post-exposition anti-infectieuses et/ou vaccinales #ETP
+** Notifier +/- déclarer une maladie infectieuse transmissible #COM
+** Mettre en place une surveillance clinique et paraclinique des personnes contacts #PEC
+---
+

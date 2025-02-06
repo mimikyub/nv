@@ -1,0 +1,11 @@
+* SDD-319 Prévention du surpoids et de l'obésite
+** Identifier les facteurs de risque de surpoids et d'obésité #DGP
+** Dépister le surpoids et l'obésité à partir de l'indice de masse corporelle #CLI
+** Déterminer l'âge de rebond d'adiposité chez l'enfant #INT
+** Identifier un trouble des conduites alimentaires #INT
+** Evaluer les apports alimentaires et leur qualité nutritive #INT
+** Evaluer l'activité physique et promouvoir une activité physique adaptée à l'âge #INT
+** Promouvoir de bonnes habitudes alimentaires #ETP
+** Expliquer les risques de santé liés au surpoids et à l'obésité #ETP
+---
+

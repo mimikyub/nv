@@ -1,0 +1,8 @@
+* SDD-158 Tuméfaction cervico-faciale
+** Réaliser un examen cervico-facial et endobuccal complet #CLI
+** Différencier le caractère aigu, sub-aigu, chronique ou congénital #CLI
+** Différencier un mécanisme inflammatoire, traumatique ou tumoral #CLI
+** Différencier une cause hématogène, dentaire, cutanée, salivaire, thyroïdienne ou osseuse #CLI
+** Chercher une complication respiratoire, neurologique, digestive ou ophtalmologique #URG
+---
+

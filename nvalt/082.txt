@@ -1,0 +1,10 @@
+* SDD-082 Bulles, éruption bulleuse
+** Reconnaître une bulle (ou lésion post-bulleuse); caractériser l'aspect de la bulle (ou lésion post-bulleuse), et de la peau péri-bulleuse #CLI
+** Identifier la topographie et l'étendue des lésions cutanées et muqueuses #CLI
+** Chercher à l'interrogatoire et à l'examen clinique des signes orientant vers une cause médicamenteuse, auto-immune, ou liée à un agent externe #CLI
+** Chercher un signe de Nikolsky #CLI
+** Déterminer selon son aspect si la bulle est sous-épidermique ou intra-épidermique #CLI
+** Interpréter les principaux résultats de l'examen histologique et de l'immunofluorescence directe #EXA
+** Chercher et prévenir une complication métabolique et infectieuse #URG
+---
+

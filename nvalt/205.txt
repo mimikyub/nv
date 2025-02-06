@@ -1,0 +1,11 @@
+* SDD-205 Élévation des enzymes pancréatiques
+** Identifier les situations justifiant le dosage de la lipasémie #DGP
+** Interpréter les résultats d'un dosage de la lipasémie et de l'amylasémie en fonction du contexte clinique #EXA
+** Chercher une douleur pancréatique devant une augmentation de la lipasémie #CLI
+** Identifier l'étiologie de la pancréatite aigüe sur les éléments anamnéstiques, cliniques, biologiques et radiologiques #DGP
+** Coordonner avec les autres spécialités la prise en charge d'un patient, selon l'étiologie de la pancréatite aigüe #COM
+** Chercher des signes de gravité en cas de pancréatite aigue #URG
+** Initier la prise en charge symptomatique et étiologique d'une pancréatite aigue #PEC
+** Diagnostiquer une pancréatite aigue nécrosante sur un scanner abdominal #ICO
+---
+

@@ -1,0 +1,10 @@
+* SDD-326 Accident du travail
+** Déterminer si les critères permettant de définir un accident du travail sont respectés #PEC
+** Identifier le mécanisme de l'accident, les symptômes actuels et réaliser un examen clinique adapté #INT
+** Rédiger le certificat médical initial #PRO
+** Informer le patient de ses droits relatifs à la législation sur les accidents du travail #ANN
+** Expliquer au patient la procédure de reconnaissance en accident du travail #ANN
+** Rédiger un arrêt de travail #PRO
+** Rédiger le certificat médical accident du travail/maladie professionnelle #PRO
+---
+

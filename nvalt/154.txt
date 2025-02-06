@@ -1,0 +1,9 @@
+* SDD-154 Otorrhée
+** Authentifier une otorhée en identifiant sa nature (pus, sang, sérosités, LCR) et en déterminant son origine anatomique (oreille externe ou oreille moyenne) #CLI
+** Chercher les éléments d'interrogatoire et clinique orientant vers une origine infectieuse, inflammatoire et traumatique #CLI
+** Identifier les situations nécéssitant la réalisation d'une imagerie médicale #DGP
+** Adopter une conduite de réassurance pour réaliser un examen otoscopique #CLI
+** Réaliser une otoscopie en distinguant les différents éléments anatomique de l'oreille externe et de l'oreille moyenne #PRO
+** Adapter les mesures thérapeutiques en cas de perforation tympanique #PEC
+---
+

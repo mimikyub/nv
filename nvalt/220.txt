@@ -1,0 +1,9 @@
+* SDD-220 Hyperlymphocytose
+** Intégrer d'autres anomalies de l'hémogramme à l'interprétation de l'hyperlymphocytose #INT
+** Chercher à l'interrogatoire les signes pouvant orienter vers une cause réactionnelle ou infectieuse #INT
+** Réaliser l'examen clinique des aires ganglionnaires superficielles et de la rate #CLI
+** Prescrire les explorations biologiques en fonction des hypothèses diagnostiques #DGP
+** Justifier l'indication d'un immunophénotypage lymphocytaire #DGP
+** Justifier l'indication d'examens d'imagerie pour explorer les organes lymphoides #DGP
+---
+

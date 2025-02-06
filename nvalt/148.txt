@@ -1,0 +1,9 @@
+* SDD-148 Goitre ou nodule thyroidien
+** Diagnostiquer un goitre ou un nodule thyroïdien à la palpation et en préciser caractéristiques cliniques #CLI
+** Chercher à l'interrogatoire et l'examen clinique les signes évocateurs d'une origine cancéreuse #CLI
+** Chercher les signes de dysthyroÏdie #CLI
+** Evaluer le retentissement fonctionnel du goitre #INT
+** Expliquer, les principales modalités de surveillance et de prise en charge d'un goitre et d'un nodule selon le contexte clinique et l'étiologie #ANN
+** Organiser la surveillance biologique après thyroïdectomie totale #PEC
+---
+

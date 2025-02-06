@@ -1,0 +1,12 @@
+* SDD-332 Demande d'interruption volontaire de grossesse
+** Dépister des difficultés psycho-sociales en lien avec la demande d'IVG #INT
+** Dépister les violences faites aux femmes #INT
+** Dater et localiser la grossesse #PEC
+** Expliquer les méthodes d'IVG, leurs avantages et leurs inconvénients an adaptant la méthode d'IVG poposée au terme, au contexte et aux antécédents #ANN
+** Expliquer le cadre légal et les étapes de la prise en charge #ANN
+** Proposer une contraception #INT
+** Prévenir l'allo-immunisation fœto-maternelle si nécessaire #PEC
+** Réaliser un dépistage de l'infection par Chlamydiae trachomatis et Neisseria gonorrheae et proposer un dépistage des autres IST #PEC
+** Informer la patiente mineure des possibilite d'accompagnement ou de maintien du secret médical #ETP
+---
+

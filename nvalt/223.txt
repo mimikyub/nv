@@ -1,0 +1,7 @@
+* SDD-223 Interprétation de l'hémogramme
+** Identifier les situations nécéssitant la prescription d'un hémogramme #DGP
+** Interpréter un hémogramme (numération et formule leucocytaire) d'après les normes internationales en tenant compte du contexte clinique et des antériorités #EXA
+** Conduire l'interrogatoire et l'examen clinique en fonction des anomalies de l'hémogramme #CLI
+** Prescrire le/les examen(s) complémentaire(s) pertinent(s) dans le cadre du bilan diagnostique #DGP
+---
+

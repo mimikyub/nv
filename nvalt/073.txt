@@ -1,0 +1,9 @@
+* SDD-073 Douleur, brûlure, crampes et paresthésies
+** Caractériser la plainte, son mode d'installation et son évolution #INT
+** Chercher une hypoesthésie associée à une paresthésie #CLI
+** Chercher à l'interrogatoire et l'examen clinique des signes orientant vers une étiologie neurologique, vasculaire, ostéo-articulaire ou musculo-tendineuse #INT
+** Chercher des signes évocateurs de symptomatologie projetée d’origine viscérale ou rachidienne #DGP
+** Identifier la systématisation neurologique éventuelle #CLI
+** Evaluer le retentissement psycho-social de la plainte #INT
+---
+

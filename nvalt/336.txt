@@ -1,0 +1,12 @@
+* SDD-336 Exposition accidentelle aux liquides biologiques
+** Appliquer, le plus rapidement possible, la procédure de nettoyage de la plaie/ des muqueuses, en cas d'accident d'exposition au sang #URG
+** Chercher le statut sérologique de la personne source #DGP
+** Evaluer le risque en fonction de la nature de l'exposition et de la personne source #INT
+** Proposer une prise en charge médico-légale en cas de violences sexuelles #PEC
+** Proposer en urgence un traitement post-exposition lorsque la situation le justifie #URG
+** Proposer une contraception d'urgence en cas d'accident d'exposition sexuelle chez une femme en âge de procréer #URG
+** Rédiger le certificat médical initial et initier la déclaration d'accident de travail quand la situation le justifie #PEC
+** Prescrire le bilan biologique initial et de suivi d'une personne exposée aux liquides biologiques #DGP
+** Proposer des mesures de prévention individuelles et collectives visant à éviter une exposition accidentelle aux liquides biologiques #ETP
+---
+

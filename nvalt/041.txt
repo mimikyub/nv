@@ -1,0 +1,9 @@
+* SDD-041 Gynécomastie
+** Chercher les éléments d'interrogatoire et d'examen clinique en facteur d'une cause générale, médicamenteuse ou endocrinienne #CLI
+** Chercher les signes d'hypogonadisme #CLI
+** Réaliser un examen mammaire, des aires ganglionnaires et des organes génitaux externes #CLI
+** Différencier une gynécomastie d'une autre atteinte mammaire #CLI
+** Prescrire et interpréter un bilan hormonal #DGP
+** Prescrire les examens morphologiques: mammographie, échographie testiculaire, IRM hypophysaire #DGP
+---
+

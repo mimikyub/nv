@@ -1,0 +1,12 @@
+* SDD-191 Prescription et interprétation d'un examen microbiologique des selles
+** Identifier les situations où la prescription d'un examen microbiologique des selles est indiquée #DGP
+** Informer le biologiste des éléments pouvant orienter le type d'analyse de selles à réaliser #COM
+** Identifier les situations où la prescription d'un examen microbiologique des selles est inutile #DGP
+** Rédiger la prescription d'un examen microbiologique #PRO
+** Interpréter les résultats en tenant compte des limites des examens microbiologiques des selles #EXA
+** Prescrire de manière raisonnée la répétition d'un examen de selles #DGP
+** Identifier et signaler une maladie ou une situation à déclaration obligatoire #ETP
+** Identifier les particularités des diarrhées à Clostridioides difficile (ou des diarrhées post-antibiotiques) #PEC
+** Mettre en place les mesures de protection adaptées aux germes et aux risques de transmission #ETP
+---
+

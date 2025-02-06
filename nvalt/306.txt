@@ -1,0 +1,12 @@
+* SDD-306 Dépistage et prévention ostéoporose
+** Prescrire selon les recommandations une ostéodensitométrie de dépistage #ETP
+** Chercher à l'interrogatoire et à l'examen clinique les facteurs de risque et causes secondaires d'ostéopathie fragilisante #INT
+** Suspecter à l'examen clinique un événement fracturaire #CLI
+** Evoquer une ostéoporose devant une fracture en fonction de son site et du mécanisme de survenue #DGP
+** Prescrire et interpréter le bilan biologique de première intention d'une ostéopathie fragilisante #DGP
+** Evaluer le risque individuel de fracture par fragilité osseuse #PEC
+** Eduquer le patient et corriger les facteurs de risque modifiables #ETP
+** Identifier les situations justifiant l'introduction d'un traitement pharmacologique anti-ostéoporotique #PEC
+** Expliquer les bénéfices et les risques du traitement pharmacologique et non pharmacologique #ANN
+---
+

@@ -1,0 +1,12 @@
+* SDD-328 Annonce d'une maladie chronique
+** Interroger le patient sur ce qu'il sait déjà de son état de santé avant l'annonce #INT
+** Evaluer le contexte socio-psychologique et culturel du patient et/ou de sa famille et adpater son discours #INT
+** Annoncer la maladie de manière claire et adaptée en reprenant les éléments ayant menés au diagnostic #ANN
+** Etre attentif aux réactions du patient et lui laisser le temps de l'appropriation #INT
+** Chercher les représentations et les connaissances que le patient a de cette maladie #INT
+** Donner au patient les informations qu'il souhaite et répondre à ses questions en y consacrant le temps nécessaire #ANN
+** Proposer au patient un rendez-vous de suivi rapproché pour répondre aux questions qui vont émerger #PEC
+** Expliquer au patient l'indication d'une prise en charge spécialisée #ANN
+** Proposer un soutien psychologique si nécessaire #PEC
+---
+

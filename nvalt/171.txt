@@ -1,0 +1,11 @@
+* SDD-171 Traumatisme abdomino-pelvien
+** Identifier le mécanisme du traumatisme #INT
+** Identifier les situations indiquant le recours à une thérapeutique de sauvetage #URG
+** Identifier un état de choc et déterminer son mécanisme #URG
+** Planifier la prise en charge initale adaptée au degré d'urgence #PEC
+** Prendre en compte l'environnement global et ses dangers potentiels #PEC
+** Chercher des lésions associées #PEC
+** Identifier les structures anatomiques potentiellement impliquées #CLI
+** Informer le patient et/ou à sa famille de façon adaptée à la gravité du traumatisme #ANN
+---
+

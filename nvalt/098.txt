@@ -1,0 +1,10 @@
+* SDD-098 Contraction utérine chez une femme enceinte
+** Identifier les facteurs de risque d'accouchement prématuré et en expliquer les mesures de prévention #INT
+** Diagnostiquer une menace d'accouchement prématurée #CLI
+** Initier la prise en charge immédiate d'une menace d'accouchement prématurée #PEC
+** Reconnaitre un début de travail et le suivre #CLI
+** Identifier et surveiller des contractions utérines cliniquement et à l'aide d'un cardiotocographe #CLI
+** Orienter vers une maternité de niveau adapté à l'âge gestationnel #COM
+** Proposer une prise en charge antalgique adaptée à la situation #PEC
+---
+

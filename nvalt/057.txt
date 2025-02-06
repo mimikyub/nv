@@ -1,0 +1,14 @@
+* SDD-057 Prise de poids
+** Recueillir l'histoire pondérale et les circonstances de la prise de poids #INT
+** Chercher les facteurs environnementaux, psycho-sociaux et médicamenteux favorisant la prise de poids #INT
+** Chercher à l'interrogatoire et à l'examen clinique des signes en faveur d'une pathologie entraînant une prise de poids #CLI
+** Calculer l'index de masse corporelle à partir du poids et la taille, et mesurer le tour de taille #CLI
+** Diagnostiquer un surpoids ou une obésité de l'adulte, et expliquer la différence au patient #CLI
+** Diagnostiquer le surpoids et l'obésité de l'enfant à partir de la courbe de corpulence et déterminer l'âge de rebond d'adiposité #INT
+** Caractériser le comportement alimentaire et dépister les troubles des conduites alimentaires #INT
+** Evaluer l'activité physique et la sédentarité #ETP
+** Chercher et prévenir les co-morbidités #ETP
+** Expliquer les risques de santé liés à la prise de poids #ETP
+** Planifier un projet thérapeutique individualisé tenant compte des facteurs de risques éventuellement associés à la prise de poids #PEC
+---
+

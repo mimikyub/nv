@@ -1,0 +1,10 @@
+* SDD-325 Prévention des accidents domestiques
+** Evaluer le contexte socio-environnemental du patient et de son entourage #INT
+** Expliquer au patient/ à l'etourage les mesures de prévention des accidents domestiques en fonction des différents âges #ETP
+** Identifier les situations à risque pouvant faire craindre la survenue des accidents domestiques #INT
+** Expliquer les conséquences potentielles des accidents domestiques #ETP
+** Expliquer les mesures de prévention de la mort inattendue du nourisson #ETP
+** Evoquer une maltraitance ou négligence #URG
+** Mettre en place les mesures de prévention en collaboration avec les différents acteurs de santé #ETP
+---
+

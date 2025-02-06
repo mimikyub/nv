@@ -1,0 +1,11 @@
+* SDD-184 Prescription et interprétation d'un audiogramme
+** Identifier les situations cliniques nécessitant la realisation d'un audiogramme #DGP
+** Expliquer au patient les modalités de réalisation de l'audiogramme #ANN
+** Identifier les différentes composantes d'un audiogramme : audiométrie tonale, audiométrie vocale, Weber audiométrique #EXA
+** Différencier une surdité de transmission d'une surdité de perception #EXA
+** Interpréter le Weber audiométrique #EXA
+** Interpréter l'audiométrie vocale et déterminer le seuil d'intelligibilité vocale #EXA
+** Interpréter l'audiométrie tonale en classifiant le degré de surdité #EXA
+** Evoquer des hypothèses diagnostiques étiologiques en fonction de l'analyse de l'audiogramme et du contexte clinique #DGP
+---
+

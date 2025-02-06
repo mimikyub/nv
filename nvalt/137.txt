@@ -1,0 +1,11 @@
+* SDD-137 Troubles psychiatriques en post-partum
+** Informer les femmes de la prévalence des troubles psychiatriques périnataux #ETP
+** Dépister les femmes présentant des facteurs de risque de décompensation psychiatrique périnatale #INT
+** Chercher les élements d'orientation psychiatriques et non-psychiatriques #CLI
+** Mener un entretien psychiatrique avec la patiente #INT
+** Caractériser la sémiologie psychiatrique #INT
+** Echanger avec les partenaires du réseau de soins périnatal le plus précocement possible #COM
+** Evaluer l'environnement social et familial #INT
+** Evaluer le risque suicidaire #URG
+---
+

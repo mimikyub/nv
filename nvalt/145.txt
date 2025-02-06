@@ -1,0 +1,12 @@
+* SDD-145 Douleur pharyngée
+** Réaliser un examen clinique du pharynx, de la cavité buccale et des aires ganglionnaires cervicales #CLI
+** Différencier les douleurs pharyngées aiguës et chroniques #INT
+** Chercher les facteurs de risques des cancers des voies aéro-digestives supérieures #INT
+** Chercher et caractériser une atteinte muqueuse #CLI
+** Différencier les types d'angines et leurs étiologies en fonction des données de l'examen clinique #DGP
+** Justifier un prélèvement local et/ou un test de diagnostic rapide Streptocoque A en fonction de l'aspect clinique #DGP
+** Réaliser un prélèvement pharyngé à but diagnostique #PRO
+** Proposer une prise en charge thérapeutique à visée symptomatologique et étiologique #PEC
+** Identifier les situations pour lesquelles la prescription d'AINS peut aggraver la pathologie #DGP
+---
+

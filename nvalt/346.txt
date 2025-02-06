@@ -1,0 +1,9 @@
+* SDD-346 Situation sanitaire exceptionnelle
+** Alerter et réaliser les gestes de premiers secours en pré-hospitalier #URG
+** Identifier le risque sanitaire mis en jeu #DGP
+** Sécuriser l'environnement autour de la situation sanitaire exceptionnelle et se protéger #URG
+** Participer au tri en hiérarchisant l'urgence relative, absolue et dépassée #PEC
+** Mettre en place et appliquer les règles de protection relatives à un risque sanitaire particulier #PEC
+** Participer à un debriefing au décours d'une situation sanitaire exceptionnelle #COM
+---
+

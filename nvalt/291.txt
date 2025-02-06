@@ -1,0 +1,12 @@
+* SDD-291 Suivi du patient immunodéprimé
+** Identifier le type de déficit immunitaire, son caractère primitif/secondaire et sa sévérité #INT
+** Colliger l'histoire des complications infectieuses #INT
+** Effectuer un examen clinique à la recherche d'une maladie infectieuse opportuniste #CLI
+** Expliquer les situations à risque de complications infectieuses #ETP
+** Expliquer la conduite à tenir en cas de survenue de signes d'infection #ETP
+** Identifier les indications prophylactiques vaccinales ou médicamenteuses #PEC
+** Expliquer les bénéfices et les effets indésirables des traitements prophylactiques #ETP
+** Expliquer les bénéfices de la vaccination de l'entourage proche #ETP
+** Planifier le suivi du patient en fonction du type de déficit immunitaire #PEC
+---
+

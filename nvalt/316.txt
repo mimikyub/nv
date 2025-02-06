@@ -1,0 +1,8 @@
+* SDD-316 Identifier les conséquences d'une pathologie - situation sur le maintien d'un emploi
+** Identifier, via l'interrogatoire, les contraintes du poste de travail #INT
+** Identifier à l'interrogatoire et à l'examen clinique les limitations d'activité et difficultés professionnelles prévisibles du patient #CLI
+** Analyser les implications de la situation médicale du patient sur le maintien de l'emploi #PEC
+** Orienter vers le médecin du travail #COM
+** Informer sur les différentes structures d'aide au maintien en emploi #ETP
+---
+

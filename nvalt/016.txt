@@ -1,0 +1,9 @@
+* SDD-016 Adénopathies unique ou multiples
+** Examiner le territoire de drainage de l'adénopathie, si unique #CLI
+** Examiner les différentes aires ganglionnaires et palper la rate #CLI
+** Orienter l'interrogatoire et l'examen clinique selon le nombre et la localisation des adénopathies #DGP
+** Décrire les caractéristiques cliniques de(s) (l')adénopathie(s) #CLI
+** Limiter la prescription d'un traitement pharmacologique en l'absence d'étiologie #DGP
+** Justifier l'indication d’une cytoponction, d'une biopsie ou d'une exerèse ganglionnaire #DGP
+---
+

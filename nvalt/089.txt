@@ -1,0 +1,12 @@
+* SDD-089 Purpura - ecchymose - hématome
+** Diagnostiquer une lésion purpurique, une ecchymose et un hématome, à l'aide d'un test de vitropression, les différencier d'une autre lésion cutanée #CLI
+** Évoquer et chercher des signes orientant vers une origine traumatique des lésions (maltraitance, violence) et consigner les lésions élémentaires #ETP
+** Différencier un purpura vasculaire, thrombopénique et fulminans à l'examen clinique #CLI
+** Chercher les signes d'interrogatoire et les signes cliniques pour orienter l'enquête étiologique #CLI
+** Initier la prise en charge en urgence d'une suspicion de purpura fulminans #URG
+** Justifier l'indication d'une biopsie cutanée d'un purpura #DGP
+** Identifier les situations justifiant la réalisation d'une ponction lombaire #DGP
+** Réaliser une ponction lombaire #PRO
+** Justifier les indications d'hospitalisation, et définir le secteur adapté de prise en charge #PEC
+---
+

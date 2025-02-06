@@ -1,0 +1,12 @@
+* SDD-231 Demande d'un examen d'imagerie
+** Identifier l'examen d'imagerie médicale pertinent pour le diagnostic/suivi d'une pathologie #DGP
+** Chercher une antériorité #INT
+** Réaliser un résumé clinique pertinent, argumenter la demande, et préciser les hypothèses diagnostiques #CLI
+** Rédiger une demande conforme d'imagerie #PRO
+** Identifier les contre-indications à l'administration d'un produit de contraste ou d'un radiotraceur et les contre-indications à l'IRM #INT
+** Identifier une grossesse évolutive et adapter la stratégie diagnostique #INT
+** Identifier les obstacles prévisibles au bon déroulement de l'examen d'imagerie #INT
+** Evaluer la notion de justification, optimisation, limitation de la prescription en terme de radioprotection #PEC
+** Prendre en compte l'impact attendu du résultat sur la prise en charge #PEC
+---
+

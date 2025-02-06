@@ -1,0 +1,12 @@
+* SDD-280 Prescription d'une insulinothérapie, consultation de suivi, éducation d'un patient diabétique de type 1
+** Interroger le patient sur le vécu de son diabète et de son traitement et l'existence de nouveaux symptômes depuis la dernière consultation #INT
+** Expliquer au patient les principales mesures hygiéno-diététiques adaptées à ses problèmes de santé et sa situation #ETP
+** Expliquer les différents types d'insulines et les schémas d'utilisation #ETP
+** Définir des objectifs glycémiques et une HbA1c personnalisée dans le cadre de la décision médicale partagée #PEC
+** Expliquer et analyser les moyens de surveillance du diabète au quotidien et à moyen terme #ETP
+** Eduquer le patient et de l'entourage sur l'identification et conduite à tenir devant une hyper et une hypoglycémie #ETP
+** Planifier le dépistage des complications chroniques et des facteurs de risques cardio-vasculaires et identifier les situations à rique d'apparition ou d'aggravation d'une rétinopathie diabétique #DGP
+** Expliquer l'importance et les principes de programmation de la grossesse chez la femme diabétique de type 1 #ETP
+** Poser l'indication d'une Affection Longue durée et/ou prise en charge à 100% ; #ETP
+---
+

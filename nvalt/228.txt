@@ -1,0 +1,8 @@
+* SDD-228 Découverte d'une anomalie osseuse et articulaire à l'examen d'imagerie médicale
+** Localiser et décrire l'anomalie sur l'imagerie : topographie / structure(s) atteinte(s) #ICO
+** Décrire la sémiologie d'une fracture chez un adulte et un enfant #ICO
+** Identifier des signes d'imagerie d'arthrose, d'arthrite et/ou d'arthropathie microcristalline #ICO
+** Identifier les signes de bénignité ou malignité d'une lésion osseuse #ICO
+** Proposer une biopsie ou une ponction articulaire #DGP
+---
+

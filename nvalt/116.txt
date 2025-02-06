@@ -1,0 +1,12 @@
+* SDD-116 Anxiété
+** Mener un entretien permettant de retracer les antécédents et l'histoire récente #INT
+** Installer le patient dans un lieu calme et supprimer des élements anxiogènes #PEC
+** Identifier les signes et symptômes anxieux permettant de caractériser un éventuel trouble anxieux #CLI
+** Evaluer le retentissement de l'anxiété sur la vie quotidienne #INT
+** Evaluer les complications, en particulier la dépression, le risque suicidaire et les addictions #INT
+** Evaluer la nécessité d'un traitement médicamenteux devant une anxiété aigue #PEC
+** Prévenir le mésusage de benzodiazépines #PEC
+** Discuter de la nécessité d'un traitement de fond et d'un suivi #PEC
+** Chercher les éléments nécessitant le recours à un psychiatre #CLI
+---
+

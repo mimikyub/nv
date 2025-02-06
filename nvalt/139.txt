@@ -1,0 +1,12 @@
+* SDD-139 Anomalies palpébrales
+** Caractériser l'anomalie palpébrale et le mode d'installation #CLI
+** Dépister les situations à risque de complications cornéennes et les prévenir #ETP
+** Expliquer au patient les mesures de prévention d'une complication cornéenne #ETP
+** Réaliser un examen non spécialisé de l'œil, de ses annexes, du champ visuel et de l'oculomotricité #CLI
+** Evoquer une tumeur maligne palpébrale #DGP
+** Identifier les situations nécessitant une prise en charge ophtalmologique en urgence #URG
+** Identifier les situations nécessitant une prise en charge neurologique en urgence #URG
+** Dépister les situations à risque d'amblyopie et les prévenir #URG
+** Prendre en charge un chalazion et un orgelet #PEC
+---
+

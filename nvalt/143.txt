@@ -1,0 +1,10 @@
+* SDD-143 Diplopie
+** Différencier une diplopie binoculaire d'une diplopie monoculaire #INT
+** Chercher les signes d'orientation étiologique à l'interrogatoire #INT
+** Chercher les signes associés #CLI
+** Réaliser un examen oculomoteur #CLI
+** Réaliser un examen non spécialisé de l'œil #CLI
+** Etablir un diagnostic sémiologique de paralysie oculomotrice #DGP
+** Initier la prise en charge urgente devant une paralysie du III #URG
+---
+

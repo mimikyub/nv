@@ -1,0 +1,11 @@
+* SDD-046 Hypotonie - malaise du nourisson
+** Repérer à l'entretien un malaise du nourrisson #INT
+** Identifier les signes de gravité d'un malaise #URG
+** Chercher des éléments qui orientent vers une situation de maltraitance #INT
+** Orienter vers une cause neurologique ou extra-neurologique à partir de l'interrogatoire et examen clinique #DGP
+** Identifier les situations où une hospitalisation est nécessaire #PEC
+** Rassurer les parents si le diagnostic atteste d'une cause bénigne #ANN
+** Mettre en place les mesures de prévention du malaise du nourrisson #ETP
+** Mesurer, monitorer et interpréter les paramètres cardio-respiratoires #URG
+---
+

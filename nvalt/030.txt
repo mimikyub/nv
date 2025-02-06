@@ -1,0 +1,12 @@
+* SDD-030 Dénutrition - malnutrition
+** Diagnostiquer une dénutrition en fonction de l'âge et déterminer les critères phénotypiques et les facteurs étiologiques #INT
+** Retracer l'évolution pondérale du patient, estimer l'appetit et les apports alimentaires #INT
+** Préciser les circonstances de survenue de la dénutrition en lien avec l'histoire de la maladie #INT
+** Identifier les situations à risque de dénutrition chez le patient et la personne agée à l'aide des échelles recommandées #DGP
+** Réaliser un examen clinique orienté vers la recherche de carences nutritionnelles #CLI
+** Interpréter les valeurs de l'albumine, préalbumine en fonction du contexte clinique et biologique #EXA
+** Evaluer la sévérité de la dénutrition #DGP
+** Proposer une prise en charge nutritionelle basée sur les facteurs de risque identifiés et prévenir le syndrome de renutrition #PEC
+** Expliquer au patient et aux aidants les conséquences et les risques d'une dénutrition #ANN
+---
+

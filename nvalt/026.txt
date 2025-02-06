@@ -1,0 +1,11 @@
+* SDD-026 Anomalies de la croissance staturo-pondérale
+** Evaluer la croissance staturo-pondérale selon l'âge et le sexe de l'enfant en fonction des paramètres de croissance des parents #CLI
+** Mesure du poids, taille et périmètre crânien #CLI
+** Identifier un retard ou une avance de croissance staturo-pondérale #CLI
+** Evaluer le stade pubertaire dans un contexte d'anomalie de croissance staturale #CLI
+** Evaluer la chronologie de l'anomalie staturale et pondérale #DGP
+** Chercher à l'interrogratoire et l'examen clinique des signes dpour orienter l'enquête étiologique #DGP
+** Différencier âge chronologique, âge statural et âge osseux #DGP
+** Rassurer les parents et l'enfant en cas de cause bénigne #ANN
+---
+

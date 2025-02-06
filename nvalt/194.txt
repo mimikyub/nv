@@ -1,0 +1,9 @@
+* SDD-194 Analyse du bilan thyroïdien
+** Justifier, analyser et interpréter un résultat de TSH et de T4L #EXA
+** Identifier les éléments cliniques en rapport avec l'anomalie du bilan thyroïdien #INT
+** Chercher les éléments de gravité en rapport avec l'anomalie du bilan thyroïdien #URG
+** Evoquer les principales étiologies des dysthyroïdies #INT
+** Prescrire, justifier et interpréter le dosage d'anticorps anti-TPO ou anti-récepteur de la TSH #PEC
+** Justifier la prescription d'une échographie thyroïdienne et d'une scintigraphie thyroïdienne #PEC
+---
+

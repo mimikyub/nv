@@ -1,0 +1,11 @@
+* SDD-062 Troubles de déglutition ou fausse-route
+** Réaliser les tests simples de détection des troubles de déglutition #CLI
+** Identifier les situations nécessitant une hospitalisation en unité de soins critiques #PEC
+** Réaliser un interrogatoire et un examen clinique adapté devant un trouble de la déglutition d'origine locale ou fonctionelle #CLI
+** Identifier les situations justifiant la réalisation d'un transit oeso-gastro-duodénal, d'une vidéo de la déglutition ou d'une fibroscopie des voies aériennes et digestives supérieures #DGP
+** Evaluer et prendre en charge les conséquences nutritionnelles #PEC
+** Identifier les situations nécessitant un avis spécialisé #DGP
+** Poser une sonde gastrique #PRO
+** Identifier sur une imagerie pulmonaire les arguments en faveur d'une pneumopathie de déglutition #ICO
+---
+

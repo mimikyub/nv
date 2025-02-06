@@ -1,0 +1,12 @@
+* SDD-206 Élévation des transaminases sans cholestase
+** Eliminer une pathologie cardiaque sous jacente : syndrome coronarien ou foie cardiaque #DGP
+** Chercher à l'interrogatoire et l'examen clinique des éléments d'orientation étiologique #CLI
+** Analyser l'élévation des transaminases à l'aide des résultats des autres examens biologiques et éliminer une cause extra-hépatique #EXA
+** Analyser l'élévation des transminases en fonction de la présence d'une hépatopathie sous-jacente #DGP
+** Différencier une cause hépatique chronique ou aiguë #DGP
+** Chercher les signes de gravité d'une élévation des transminases d'origine hépatique #URG
+** Planifier un contrôle devant une élévation modeste des transaminases #DGP
+** Evoquer le diagnostic de cirrhose à partir des arguments cliniques, biologiques et d'imagerie #DGP
+** Mettre en place les mesures de prévention vis-à-vis de l'entourage en cas d'hépatite virale #ETP
+---
+

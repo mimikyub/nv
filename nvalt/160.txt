@@ -1,0 +1,12 @@
+* SDD-160 Détresse respiratoire aiguë
+** Choisir et prescrire la meilleure modalité d'oxygénothérapie initiale #PEC
+** Distinguer le caractère inspiratoire, du caractère expiratoire d'une insuffisance respiratoire aiguë #CLI
+** Adapter l'évaluation d'une détresse respiratoire à l'âge de l'enfant #DGP
+** Evoquer un syndrome de pénétration #URG
+** Réaliser un électrocardiogramme de repos 18 dérivations #PRO
+** Réaliser un prélèvement artériel pour analyse des gaz du sang et du lactate artériel #PRO
+** Réaliser les techniques de désobstruction et de libération des voies aériennes supérieures #URG
+** Hierarchiser les hypothèses étiologiques sur la base des résultats de l'imagerie thoracique, de l'ECG et des gaz du sang #DGP
+** Initier la prise en charge étiologique spécifique et surveiller l'évolution des paramètres vitaux #PEC
+---
+

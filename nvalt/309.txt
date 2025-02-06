@@ -1,0 +1,11 @@
+* SDD-309 Patient à risque suicidaire
+** Evaluer le risque suicidaire : les facteurs de risque et les facteurs protecteurs #URG
+** Evaluer l'urgence : le projet suicidaire #URG
+** Evaluer la dangerosité : les moyens à disposition #URG
+** Chercher les signes et symptômes d'une pathologie psychiatrique et non-psychiatrique #CLI
+** Evaluer la pertinence de la prescription d'anxiolytiques, d'hypnotiques et prévenir la dépendance aux benzodiazépines #PEC
+** Adapter l'évaluation et la prise en charge en fonction du terrain et de l'âge #PEC
+** Repérer les élements devant faire évoquer une maltraitance sous-jacente chez l'enfant, l'adolescent et la personne agée #DGP
+** Expliquer au patient et à son entourage les principes thérapeutiques pharmacologiques et non pharmacologiques #ETP
+---
+

@@ -1,0 +1,12 @@
+* SDD-178 Demande - prescription raisonnée et choix d'un examen diagnostique
+** Identifier l'examen complémentaire adéquat pour le diagnostic et/ ou le suivi d'une pathologie #DGP
+** Adapter le choix d'un examen à visée diagnostique et son délai de réalisation en tenant compte du dégré d'urgence diagnostique #URG
+** Informer le patient des risques, bénéfices attendus et des limites d'un examen complémentaire #ANN
+** Assurer les conditions de réalisation optimales et l'absence de contre-indication à la réalisation d'un examen à visée diagnostique #PEC
+** Expliquer au patient et aux soignants les différentes étapes de l'examen complémentaire et son délai de réalisation #COM
+** Evaluer l'impact potentiel des résultats de l'examen complémentaire sur le patient et sa prise en charge #PEC
+** Prendre en compte la valeur ajoutée d'un examen complémentaire et sa place dans le stratégie diagnostique #DGP
+** Prendre en compte le coût d'un examen complémentaire pour le patient et pour la société #PEC
+** Rédiger une demande d'examen compémentaire #PRO
+---
+

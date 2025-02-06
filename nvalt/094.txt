@@ -1,0 +1,13 @@
+* SDD-094 Troubles du cycle menstruel
+** Caractériser le trouble du cycle #INT
+** Chercher à l'interrogatoire et à l'examen clinique, les éléments pouvant orienter le diagnostic #CLI
+** Eliminer une grossesse #DGP
+** Evaluer les caractères sexuels secondaires #CLI
+** Chercher des signes cliniques évoquant des troubles de la sécretion hormonale #CLI
+** Chercher des troubles du comportement alimentaire et des signes d'hypométabolisme #INT
+** Analyser les principaux résultats biologiques du bilan hormonal #EXA
+** Eliminer une pathologie maligne devant des méno métrorragies #DGP
+** Eliminer les principales causes génétiques des troubles du cycle menstruel #DGP
+** Evoquer une endométriose devant une dysménorrhée #EXA
+---
+

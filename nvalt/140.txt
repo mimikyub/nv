@@ -1,0 +1,11 @@
+* SDD-140 Baisse de l'audition - surdité
+** Distinguer le fonctionnement auditif normal du pathologique en fonction de l'âge du patient, sur les données de l'examen clinique et de l'audiogramme #DGP
+** Chercher les signes cliniques et d'interrogatoire permettant pour orienter l'enquête étiologique #CLI
+** Réaliser une otoscopie #PRO
+** Distinguer à l'otoscopie les différents éléments anatomiques de l'oreille externe et de l'oreille moyenne #ICO
+** Différencier une surdité transmissionnelle d'une surdité perceptionnelle à l'acoumétrie et sur les données de l'audiogramme #DGP
+** Sélectionner les examens d'imagerie pertinents en fonction du caractère transmissionnel ou perceptionnel de la surdité #DGP
+** Orienter la prise en charge d'une surdité brusque #URG
+** Dépister une presbyacousie et orienter le patient #ETP
+---
+

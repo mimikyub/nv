@@ -1,0 +1,11 @@
+* SDD-136 Troubles obsessionnels, comportement compulsif
+** Caractériser la ou les thématique(s) des obsessions et/ou compulsions #INT
+** Caractériser le caractère aigu ou chronique des obsessions et/ou compulsions #INT
+** Chercher les signes et symptômes en lien avec une pathologie non-psychiatrique #CLI
+** Evaluer le degré de consience des troubles (insight) #INT
+** Chercher des comportements d'évitement #INT
+** Evaluer les complications, en particulier le risque suicidaire, la dépression et les addictions #INT
+** Chercher les éléments orientant vers la necessité d'un recours au psychiatre #CLI
+** Evaluer le retentissement du trouble obsessionnel compulsif sur le fonctionnement global #INT
+---
+

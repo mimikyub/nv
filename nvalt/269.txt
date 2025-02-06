@@ -1,0 +1,12 @@
+* SDD-269 Consultation de suivi et traitement de fond d'un patient souffrant d'un trouble psychiatrique chronique (hors dépression)
+** Evaluer le retentissement fonctionnel, la qualité de vie, promouvoir l'autonomie et l'insertion socio-professionnelle #PEC
+** Poser l'indication d'une Affection Longue durée et/ou prise en charge à 100% ; #ETP
+** Evaluer de manière systématique le risque suicidaire (Risque, Urgence, Dangerosité) #URGCLI:SDD_269:
+** Chercher des symptômes de décompensation, leur intensité, leur évolution avec d'éventuels traitements, en fonction de l'âge #CLI
+** Proposer un suivi clinique et paraclinique adapté aux complications des traitements psychotropes #PEC
+** Reévaluer systématiquement la pertinence de la prescription d'anxiolytiques, d'hypnotiques et prévenir la dépendance aux benzodiazépines #PEC
+** Informer le patient sur les bénéfices d'une psychothérapie spécifique #PEC
+** Mettre en place ou modifier un traitement psychotrope de fond #PEC
+** Evaluer les complications et co-morbidités psychiatriques et addictologiques #INT
+---
+

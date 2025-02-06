@@ -1,0 +1,9 @@
+* SDD-233 Identifier - reconnaitre les différents examens d'imagerie (type - fenêtre -  séquences - incidences - injection)
+** Reconnaître le type d'examen réalisé : radiographie, échographie, scanner, IRM, scintigraphie, tomographie par émission de positrons (TEP) #ICO
+** Identifier le plan d'acquisition : axial, coronal, sagittal #ICO
+** Reconnaître si un examen est injecté #ICO
+** Reconnaître les principales séquences en IRM #ICO
+** Reconnaître les fenêtres osseuse, parenchymateuse, pulmonaire et tissulaire en scanner #ICO
+** Reconnaître les captations physiologiques des traceurs en scintigraphie et tomographie par émission de positrons (TEP) #ICO
+---
+

@@ -1,0 +1,10 @@
+* SDD-144 Douleur cervico-faciale
+** Chercher les antécédents traumatiques #CLI
+** Réaliser un examen cervical, neurologique, facial, endonasal et endobuccal complet #CLI
+** Caractériser et quantifier la douleur et ses irradiations avec une échelle adaptée #INT
+** Spécifier la topographie la douleur #INT
+** Chercher les signes fonctionnels et signes cliniques d'accompagnement permettant une orientation diagnostique #CLI
+** Evaluer le retentissement de la douleur sur la vie courante #INT
+** Expliquer les bénéfices et les risques des traitements pharmacologiques et non pharmacologiques #ETP
+---
+

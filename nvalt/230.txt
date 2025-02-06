@@ -1,0 +1,8 @@
+* SDD-230 Découverte d'une anomalie cardio-thoracique à l'imagerie médicale
+** Identifier le type d'imagerie réalisée et ses caractéristiques techniques #ICO
+** Identifier les critères de qualité d'une radiographie de thorax #ICO
+** Déterminer la structure anatomique siège de l'anomalie #ICO
+** Décrire les caractéristiques sémiologiques de l'anomalie #ICO
+** Intégrer l'anomalie d'imagerie au contexte clinique et paraclinique #EXA
+---
+

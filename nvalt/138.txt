@@ -1,0 +1,9 @@
+* SDD-138 Anomalie de la vision
+** Caracteriser le trouble visuel et le mode d'installation #INT
+** Expliquer au patient/ aux parents la méthode de mesure de l'acuité visuelle de loin et de près et les amétropies #INT
+** Réaliser un examen non specialisé de l'œil, de ses annexes, du champ visuel et de l'oculomotricité #CLI
+** Interpréter un examen du champ visuel #ICO
+** Identifier les situations nécessitant une prise en charge ophtalmologique en urgence #URG
+** Identifier les situations nécessitant une prise en charge neurologique ou neurochirurgicale en urgence #URG
+---
+

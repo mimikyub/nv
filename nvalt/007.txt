@@ -1,0 +1,10 @@
+* SDD-007 Incontinence fécale
+** Chercher les signes d'interrogatoire pour orienter l'enquête étiologique #INT
+** Chercher une incontinence secondaire à une constipation terminale #INT
+** Différencier le caractère aigu ou chronique de l'incontinence #INT
+** Inspecter le périnée et la marge anale et réaliser un toucher rectal au repos et en contraction volontaire de l'anus #CLI
+** Chercher une incontinence urinaire associée #INT
+** Chercher un déficit neurologique orientant vers une lésion neurologique #CLI
+** Expliquer à la patiente en post-partum les principes de prévention de l'incontinence fécale #ETP
+---
+

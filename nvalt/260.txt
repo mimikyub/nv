@@ -1,0 +1,12 @@
+* SDD-260 Évaluation et prise en charge de la douleur chronique
+** Evaluer la douleur avec des outils adaptés au patient (communiquant/dyscommuniquant) et les interpréter #INT
+** Identifier les impacts biopsychosociaux #INT
+** Evaluer et analyser les mécanismes de la douleur #DGP
+** Expliquer au patient la nature de sa douleur et le principe de la prise en charge #ANN
+** Définir avec le patient ses attentes en terme de prise en charge #PEC
+** Chercher les facteurs d'entretien de la chronicité #DGP
+** Proposer une prise en charge pharmacologique et non pharmacologique #PEC
+** Adresser le patient dans un centre d'évaluation et de traitement de la douleur ou vers une équipe mobile #COM
+** Rédiger une prescription sur une ordonnance sécurisée #PRO
+---
+

@@ -1,0 +1,9 @@
+* SDD-276 Prise en charge d’un patient en décubitus prolongé
+** Identifier les situations à risque de complications précoces de décubitus #PEC
+** Identifier les facteurs de risque de complications précoces du décubitus prolongé #PEC
+** Prévenir les complications précoces du décubitus prolongé #PEC
+** Identifier les facteurs de risques de complications tardives de décubitus prolongé #PEC
+** Prévenir les complications tardives du décubitus prolongé #PEC
+** Évaluer et prendre en charge la douleur liée au décubitus #PEC
+---
+

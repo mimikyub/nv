@@ -1,0 +1,10 @@
+* SDD-093 Vésicules, éruption vésiculeuse (cutaneo-muqueuse)
+** Reconnaître une vésicule et ses différentes formes cliniques et décrire la distribution #CLI
+** Chercher à l'interrogatoire des signes pour orienter l'enquête étiologique #INT
+** Identifier la topographie (localisée versus diffuse) et l'étendue des lésions cutanées et muqueuses #CLI
+** Chercher à l'examen clinique des signes non dermatologiques #CLI
+** Chercher les complications cutanées et extracutanées et identifier les indications d'hospitalisation #URG
+** Mettre en place et expliquer les bases du traitement étiologique #PEC
+** Mettre en place les mesures préventives de transmission adaptées à l'agent pathogène #ETP
+---
+

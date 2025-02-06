@@ -1,0 +1,8 @@
+* SDD-180 Interprétation d'un compte rendu d'anatomopathologie
+** Identifier dans un compte-rendu anatomopathologique les différentes étapes analytiques : macroscopiques, microscopiques et techniques complémentaires #EXA
+** Identifier dans un compte-rendu les éléments sémiologiques ayant trait aux pathologies inflammatoires, tumorales, malformatives ou de surcharge #EXA
+** Identifier dans un compte-rendu les critères de bénignité/malignité d'une tumeur #EXA
+** Expliquer les principes, avantages et limites des techniques d'analyse cytologique et histologique, morphologique, immunohistochimique et moléculaire #COM
+** Identifier et expliquer les éléments diagnostiques, pronostiques et prédictifs de réponse aux traitements (biomarqueurs) du compte-rendu d'anatomopathologie #EXA
+---
+

@@ -1,0 +1,12 @@
+* SDD-239 Explication pré-opératoire et recueil de consentement d'un geste invasif diagnostique ou thérapeutique
+** Expliquer au patient le geste/procédure envisagé(e) #ANN
+** Justifier et argumenter l'indication et le bénéfice/risque attendu du geste invasif #PEC
+** Informer sur les risques liés au geste invasif en fonction du terrain et à l'âge du patient #ANN
+** Informer sur les alternatives et les conséquences potentielles en cas de refus de l'acte invasif #ANN
+** Expliquer et planifier la prise en charge l'anxiété #PEC
+** Expliquer, justifier et planifier la prise en charge dans les suite du geste (ie. Douleur, arrêt de travail, soins, …) #PEC
+** S'assurer de la bonnne compréhension de l'information délivrée et répondre de manière proportionnée et avec un vocabulaire adapté aux questions posées #INT
+** Recueillir le consentement du patient et/ou des parents ou tuteur(s) légal/légaux #PRO
+** Identifier la personne de confiance #INT
+---
+

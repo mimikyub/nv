@@ -1,0 +1,12 @@
+* SDD-077 Myalgies
+** Localiser la douleur, évaluer son intensité et les irradiations #INT
+** Chercher un déficit neurologique moteur ou un trouble sensitif, côter le déficit moteur et systématiser l'atteinte #CLI
+** Evaluer le retentissement psycho-social #INT
+** Orienter l'interrogatoire et l'examen clinique selon le terrain, la localisation des douleurs, et les signes neurologiques associés #CLI
+** Identifier une rhabdomyolyse et la prendre en charge de façon adéquate #URG
+** Référer le patient à un Centre de référence maladies rares en fonction des résultats des examens de première intention #COM
+** Evoquer le diagnostic de trouble à symptomatologie somatique et prendre en charge le patient de façon appropriée sans multiplier les examens #ANN
+** Prescrire une rééducation adaptée #PEC
+** Prescrire un traitement antalgique adapté, et un traitement étiologique en fonction de la cause #PEC
+---
+

@@ -1,0 +1,11 @@
+* SDD-056 Raideur articulaire
+** Caractériser le mode d'installation, le mode évolutif et les facteurs déclanchants #INT
+** Chercher les signes d'interrogatoire pour orienter l'enquête étiologique #INT
+** Diagnostiquer une raideur articulaire par l'examen clinique #CLI
+** Réaliser l'examen clinique des segments enraidis #CLI
+** Chercher les signes loco-régionaux associés, neurologiques ou rhumatologiques permettant d'attribuer la raideur à une cause neurologique, articulaire ou extra-articulaire #DGP
+** Chercher les signes cliniques systémiques, généraux et rhumatologiques, pour orienter l'enquête étiologique #DGP
+** Évaluer le retentissement fonctionnel, les déficiences, limitations d'activité et restrictions de participation #INT
+** Proposer une prise en charge pharmacologique initiale de la raideur articulaire en fonction de l'enquête étiologique #PEC
+---
+

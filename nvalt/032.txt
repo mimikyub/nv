@@ -1,0 +1,12 @@
+* SDD-032 Deshydratation de l'enfant
+** Identifier les situations à risque de déshydratation rapide #DGP
+** Evaluer un état de déshydratation chez le nourrisson et l'enfant, calculer le pourcentage de perte de poids #CLI
+** Chercher les éléments d'interrogatoire pour orienter l'enquête étiologique #INT
+** Chercher un état de choc hypovolémique chez l'enfant #URG
+** Evaluer le contexte socio-environnemental du patient #ETP
+** Initier le traitement de la déshydratation en fonction de la sévérité et orienter la prise en charge à domicile, en hosptitalisation conventionnelle ou en soins critiques #PEC
+** Planifier le suivi d'un enfant déshydraté #PEC
+** Expliquer aux parents les principes de la réhydratation orale et les signes devant amener à reconsulter #ETP
+** Expliquer aux parents les situations à risque de déshydratation rapide #ETP
+---
+

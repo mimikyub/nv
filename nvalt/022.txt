@@ -1,0 +1,11 @@
+* SDD-022 Diminution de la diurèse
+** Retracer l'historique des entrées et sorties #INT
+** Mesurer la diurèse et identifier une rétention aiguë d'urine #CLI
+** Déterminer si la diminution de la diurèse est de cause pré-rénale, rénale ou post-rénale #DGP
+** Prendre en charge de manière adéquate une diminution de la diurèse de cause pré ou post-rénale #PEC
+** Chercher les traitements ayant pu participer à l'oligurie ou à risque de toxicité dans le contexte #ETP
+** Notifier, si elle est présente, l'insuffisance rénale aux collaborateurs et sur la nécessité potentielle d'adaptation thérapeutique #COM
+** Identifier les critères de l'urgence de l'initiation d'une épuration extrarénale #URG
+** Réaliser un sondage urinaire #PRO
+---
+

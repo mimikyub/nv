@@ -1,0 +1,8 @@
+* SDD-214 Anomalie des indices érythrocytaires (taux hémoglobine, hématocrite..)
+** Intégrer l'ensemble des anomalies erythrocytaires dans une démarche diagnostique #EXA
+** Chercher des signes cliniques d'hyperviscosité devant un hémogramme évocateur #URG
+** Orienter l'interrogatoire et l'examen clinique devant une suspicion de polyglobulie #INT
+** Orienter l'interrogatoire et l'examen clinique devant une microcytose ou une macrocytose isolée #CLI
+** Prescrire le bilan de première intention devant une microcytose ou une macrocytose isolée #DGP
+---
+

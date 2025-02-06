@@ -1,0 +1,12 @@
+* SDD-168 Brulure
+** Organiser et sécuriser les premiers secours en pré-hospitalier #URG
+** Identifier le mécanisme de la brulûre, évaluer la profondeur des brûlures, la surface cutanée brûlée, et topographier les lésions #CLI
+** Identifier les localisations à risque et hiérarchiser en fonction du type de complications : vitales ou fonctionnelles #URG
+** Proposer une prise en charge antalgique multimodale #PEC
+** Initier précocément une stratégie d'expansion volémique #PEC
+** Prévenir le risque infectieux et vérifier le statut anti-tétanique #PEC
+** Proposer des soins locaux spécifiques selon la localisation, la surface et la profondeur de la brûlure #PEC
+** Choisir le mode de prise en charge : ambulatoire, hospitalier convetionnel ou soins critiques #PEC
+** Chercher les intoxications associées et proposer, le cas échéant, une prise en charge d'un syndrome d'inhalation de fumées d'incendie #PEC
+---
+

@@ -1,0 +1,10 @@
+* SDD-347 Situation sociale précaire et isolement
+** Identifier les facteurs de risque de précarité d'un patient #INT
+** Prévenir les co-morbidités et les facteurs aggravants de la précarité #ETP
+** Repérer une situation de précarité et décrire son type #INT
+** Dépister les morbidités les plus fréquemment rencontrées #CLI
+** Informer le patient des dispositifs médico-sociaux accessibles et l'orienter dans sa prise en charge #PEC
+** Collaborer avec les acteurs médico-sociaux afin de réaliser une prise en charge multidisiplinaire #COM
+** Expliquer au patient les objectifs de la prise en charge #ETP
+---
+

@@ -1,0 +1,10 @@
+* SDD-080 Alopécie et chute des cheveux
+** Caractériser la perte de cheveux: diffuse ou localisée, plaques alopéciques, le mode d'installation et l'évolution #INT
+** Caractériser l'alopécie, l'aspect du cuir chevelu, l'aspect des cheveux #CLI
+** Chercher des éléments carentiels, endocriniens, iatrogènes ou psychologiques #CLI
+** Chercher les signes d'interrogatoire et les signes cliniques pour orienter l'enquête étiologique #CLI
+** Justifier l'indication d'un prélèvement mycologique #DGP
+** Justifier l'indication d'une biopsie cutanée #DGP
+** Evaluer le retentissement psychologique #INT
+---
+

@@ -1,0 +1,12 @@
+* SDD-241 Gestion du sevrage alcoolique contraint
+** Evaluer la consommation d'alcool chez tout patient en situation à risque de sevrage contraint (hospitalisation, immobilisation) #INT
+** Diagnostiquer un usage nocif ou une dépendance à l'alcool #INT
+** Evaluer le risque de suvenue d'un accident de sevrage (Delirium Tremens, crise convulsive de sevrage) #DGP
+** Identifier les signes de sevrage ou une complication du sevrage et diagnostiquer un delirium tremens ou une crise convulsive #CLI
+** Chercher les complications médicales et métaboliques liées à la consommation chronique d'alcool #DGP
+** Chercher les dépendances associées et co-morbidités psychiatriques #INT
+** Mettre en place les mesures préventives des accidents de sevrage #ETP
+** Initier le traitement de l'accident de sevrage en alcool #PEC
+** Orienter le patient vers l'équipe de liaison en addictologie et favoriser une prise en charge de l'addiction au décours de la prise en charge actuelle #COM
+---
+

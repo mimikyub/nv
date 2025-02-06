@@ -1,0 +1,11 @@
+* SDD-084 Lésion cutanée  -  "grain de beauté"
+** Décrire et identifier la lésion élémentaire et chercher à l'examen dermatologique d'autres lésions pigmentées #CLI
+** Identifier les facteurs de risque individuels de mélanome #INT
+** Chercher les critères cliniques orientant vers un naevus ou un mélanome #CLI
+** Interpréter le résultat de l'examen histologique #EXA
+** Communiquer au patient la conclusion de l'examen histologique #ANN
+** Transmettre les informations pertinentes au patient concernant la prévention solaire #ETP
+** Expliquer au patient le principe et les modalités de surveillance #ETP
+** Réaliser la palpation des aires ganglionnaires de drainage en cas de suspicion de mélanome #CLI
+---
+

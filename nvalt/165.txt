@@ -1,0 +1,9 @@
+* SDD-165 Palpitations
+** Réaliser un électrocardiogramme de repos 18 dérivations #PRO
+** Chercher les signes d'interrogatoire pour orienter l'enquête étiologique #INT
+** Chercher les signes cliniques cardiaques et extra-cardiaques associés #CLI
+** Chercher une cause extra-cardiaque en l'absence d'étiologie cardiaque identifiée #DGP
+** Corréler les éléments de l'interrogatoire, signes cliniques et les éléments de l'ECG per et post-critiques #EXA
+** Identifier les situations nécessitant un monitoring continu de l'ECG #URG
+---
+

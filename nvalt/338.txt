@@ -1,0 +1,10 @@
+* SDD-338 Prescription médicale chez un patient en situation de précarité
+** Proposer une mise à jour des vaccinations #ETP
+** Adapter la galénique des traitements prescrits à la situation/au patient #PEC
+** Adapter les traitements prescrits aux conditions de vie (patient à la rue, au 115...), à l'état nutritionnel et aux comorbidités #PEC
+** Informer et décrire les bénéfices et les principaux effets secondaires attendus, expliquer au patient les signes d'alerte #ETP
+** Collaborer et impliquer les services sociaux dans l'organisation de la prise en charge #PEC
+** Prescrire des soins infirmiers et s'aider de l'offre de soins ambulatoire et des centres de santé pour favoriser l'observance #PEC
+** Orienter le patient afin de permettre une prise en charge financière des soins (PASS, AME, CMU-C) #PEC
+---
+

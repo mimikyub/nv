@@ -1,0 +1,13 @@
+* SDD-320 Prévention des maladies cardiovasculaires
+** Explorer les connaissances du patient et lui expliquer les facteurs de risque cardio-vasculaire, leurs conséquences cliniques et le bénéfice de leurs contrôles #ETP
+** Chercher à l'interrogatoire les facteurs de risque cardiovasculaire #INT
+** Chercher à l'examen physique la présence de marqueurs du risque cardiovasculaire #CLI
+** Evaluer le risque cardiovasculaire global du patient et définir les objectifs à atteindre selon la situation clinique #PEC
+** Identifier la présence d'un syndrome métabolique #DGP
+** Expliquer au patient l'importance du sevrage tabagique et des autres addictions #ETP
+** Expliquer les signes d'alerte des principales maladies cardio-vasculaires et la conduite à tenir #ETP
+** Proposer des modifications thérapeutiques du mode de vie adaptées aux facteurs de risque cardiovasculaires identifiés et proposer une éducation thérapeutique #PEC
+** Prescrire les traitements médicamenteux adaptés aux facteurs de risque cardiovasculaires identifiés #PEC
+** Adapter la prise en charge aux situations de prévention primaire et secondaire #PEC
+---
+

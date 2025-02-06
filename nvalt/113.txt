@@ -1,0 +1,9 @@
+* SDD-113 Puberté précoce ou retardée
+** Analyser le développement pubertaire à l'aide d'éléments anamnestiques et d'éléments cliniques #CLI
+** Définir le retard ou la précocité de la puberté selon le sexe de l'enfant #DGP
+** Evaluer la croissance staturo-pondérale selon l'âge et le sexe de l'enfant (courbes de croissance poids, taille, périmètre crânien) #CLI
+** Orienter son interrogatoire et son examen clinique à la recherche des causes organiques #DGP
+** Distinguer les causes de puberté retardée d'un retard pubertaire simple #DGP
+** Distinguer une pseudo-puberté précoce d'une réelle puberté précoce #DGP
+---
+

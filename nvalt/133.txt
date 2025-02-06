@@ -1,0 +1,12 @@
+* SDD-133 Troubles du comportement chez enfant et adolescent
+** Retracer l'histoire développementale et évaluer le niveau actuel de développement, notamment intellectuel, moteur et langagier #INT
+** Caractériser les signes et symptômes comportementaux et les signes associés #DGP
+** Chercher les arguments en faveur d'un trouble du comportement caractérisé #INT
+** Chercher des élèments en faveur de violences subies #INT
+** Chercher les éléments orientant vers un diagnostic étiologique, psychiatrique ou non psychiatrique #INT
+** Chercher les pathologies psychiatriques comorbides, notamment les troubles dépressifs et addictifs #INT
+** Evaluer le retentissement social, scolaire et famillial #INT
+** Evaluer le risque suicidaire #URG
+** Evaluer le besoin d'explorations complémentaires #DGP
+---
+

@@ -1,0 +1,9 @@
+* SDD-004 Douleur abdominale
+** Caractériser la douleur, l'évolution, son mode d'installation et les signes associés #INT
+** Identifier un syndrome péritonéal, un syndrome occlusif, un syndrome aortique aigu et un tableau d'ischémie digestive #URG
+** Chercher les signes d’alerte devant faire évoquer une cause organique devant des douleurs abdominales récurrentes #DGP
+** Identifier, chez l'enfant, les signes radiologiques évoquant une occlusion intestinale sur un cliché d'ASP #ICO
+** Prescrire un traitement symptomatique médicamenteux et/ou non médicamenteux en l'absence d'étiologie organique #PEC
+** Poser l'indication d'une prise en charge chirurgicale #PEC
+---
+

@@ -1,0 +1,11 @@
+* SDD-099 Douleur pelvienne
+** Distinguer à l'interrogatoire une douleur pelvienne aiguë ou chronique #INT
+** Chercher des troubles digestifs, urologiques ou gynécologiques associés #INT
+** Eliminer une grossesse chez le femme en âge de procréer #INT
+** Eliminer un globe vésical #CLI
+** Réaliser un examen pelvien et génital avec une attitude adaptée #CLI
+** Chercher les éléments de gravité en lien avec le diagnostic évoqué #INT
+** Réaliser un bladder-scan #PRO
+** Identifier les acteurs de soins impliqués dans la prise en charge d'une douleur pelvienne aiguë ou chronique #COM
+---
+

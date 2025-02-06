@@ -1,0 +1,10 @@
+* SDD-174 Traumatisme facial
+** Eliminer une urgence vitale: neurologique, respiratoire ou hémoragique #URG
+** Chercher les urgences fonctionnelles: neurologiques, maxillofaciales, ophtlamologiques et dentaires et hiérarchiser le degré d'urgence de prise en charge #URG
+** Eliminer un traumatisme extrafacial associé #URG
+** Réaliser un examen endobuccal et facial complet #CLI
+** Identifier les structures anatomiques potentiellement impliquées #CLI
+** Orienter le patient vers la structure adaptée en fonction de la gravité du traumatisme et des atteintes anatomiques #PEC
+** Assurer le transport d'une dent luxée #PEC
+---
+

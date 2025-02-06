@@ -1,0 +1,12 @@
+* SDD-254 Prescrire des soins associés à l'initiation d'une chimiothérapie
+** S'assurer de l'absence de grossesse sous-jacente et proposer une contraception adaptée #ETP
+** Orienter le patient vers une consultation de préservation de la fertilité #ETP
+** Dépister une fragilité oncogériatrique #INT
+** Identifier les situations nécessitant la mise en place d'une voie veineuse centrale #PEC
+** Prescrire le bilan initial évaluant les fonctions vitales et pré-chimiothérapeutiques en cas de toxicité spécifique #DGP
+** Expliquer les principales toxicités attendues et les effets secondaires (communes et spécifiques) des chimiothérapies #ETP
+** Dépister les signes d'anxiodépression et/ou de dénutrition #CLI
+** Identifier les situations nécessitant la surveillance ou la mise en place d'aide à domicile #INT
+** Informer le patient et à l'entourage de la conduite à tenir en cas d'effet secondaire attendu ou inattendu et le circuit de prise en charge urgente si besoin #ETP
+---
+

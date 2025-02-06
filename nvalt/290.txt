@@ -1,0 +1,13 @@
+* SDD-290 Suivi d'un patient en insuffisance rénale chronique
+** Interroger le patient sur le vécu de son insuffisance rénale et de son traitement #INT
+** Planifier la surveillance clinique et biologique en fonction du stade et de l'étiologie de la maladie rénale chronique #PEC
+** Identifier et prendre en charge les facteurs de progression de la maladie rénale chronique et les pathologies cardiovasculaires associées #PEC
+** Identifier et prendre en charge les complications cliniques et biologiques de l'IRC #PEC
+** Adapter les traitements médicamenteux et les conseils nutritionnels à l'évolution du DFG #PEC
+** Identifier les causes de dégradation aiguë d'une insuffisance rénale chronique #DGP
+** Informer le patient des situations à risque, devant mener à une adaptation thérapeutique #ETP
+** Expliquer au patient l'évolution prévisible, les conséquences de l'IRC et la prise en charge de l'IRC avant le stade 5 #ANN
+** Expliquer au patient les modalités des traitements de suppléance de l'IRC stade 5 #ANN
+** Evaluer la compréhension et les connaissances du patient sur les conseils diététiques, le risque évolutif, les modalités des traitements de suppléance #ETP
+---
+

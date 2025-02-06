@@ -1,0 +1,11 @@
+* SDD-130 Troubles de l'équilibre
+** Evaluer et prévenir le risque de chute #ETP
+** Eliminer un vertige #CLI
+** Eliminer une hypotension orthostatique #CLI
+** Caractériser le mode d'installation, le mode évolutif et les facteurs déclanchants #INT
+** Chercher les signes d'interrogatoire et les signes cliniques pour orienter l'enquête étiologique #CLI
+** Evaluer cliniquement la posture, l'équilibre et la marche #CLI
+** Catégoriser les étiologies des troubles de l'équilibre en fonction de leurs caractéristiques cliniques lors de l'examen du patient #DGP
+** Différencier un syndrome post chute d'une astasie abasie #CLI
+---
+

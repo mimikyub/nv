@@ -1,0 +1,11 @@
+* SDD-299 Consultation post événement allergique
+** Recueillir les données anamnéstiques et sémiologiques des différents organes qui évoquent une pathologie allergique #CLI
+** Déterminer la sévérité de la pathologie allergique #INT
+** Mener une enquête allergologique #INT
+** Identifier les diagnostics différentiels (mécanismes non-allergiques) #DGP
+** Expliquer au patient/proche les explorations allergologiques adaptées #ANN
+** Expliquer par écrit et oralement, les mesures préventives aux différents intervenants #COM
+** Intégrer les différents mécanismes d'allergie ou d'hypersensibilité pour évaluer le risque évolutif #DGP
+** Expliquer au patient la nécessité de l'éviction de l'allergène identifié ou suspecté #ETP
+---
+

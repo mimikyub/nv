@@ -1,0 +1,11 @@
+* SDD-035 Douleur chronique
+** Réaliser un interrogatoire du patient selon les recommandations de la HAS pour la douleur chronique #INT
+** Caractériser la douleur, son mode évolutif et les symptômes associés #INT
+** Identifier le type de douleur et son/ses mécanismes #INT
+** Effectuer un examen clinique orienté #INT
+** Chercher des éléments de gravité ou d'urgence somatiques et psychiques #INT
+** S'assurer de l'exhaustivité du bilan étiologique #EXA
+** Évaluer le retentissement psycho-socio-professionnel de la douleur chronique #INT
+** Identifier les situations nécessitant d'orienter le patient vers un Centre d'Evaluation et Traitement de la Douleur #PEC
+---
+

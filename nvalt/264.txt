@@ -1,0 +1,12 @@
+* SDD-264 Adaptation des traitements sur un terrain particulier (IR, IH, grossesse, personne agée...)
+** Adapter (en absence de thérapeutique non médicamenteuse) la posologie et la galénique du médicament choisi à la clinique, aux capacités, au terrain et à l'âge du patient #PEC
+** Identifier les fragilités du patient augmentant la probabilité de survenue d'un évènement iatrogène #PEC
+** Hiérarchiser les problèmes médicaux et les indications de traitement #PEC
+** Evaluer la sévérité des comorbidités, leur décompensation actuelle et le retentissement sur la pharmacodynamie/cinétique des médicaments #PEC
+** Adapter les prescriptions chez la femme en âge de procréer, choisir un traitement adapté chez la femme enceinte ou en cas d'allaitement #PEC
+** Expliquer au patient les raisons de l'adaptation thérapeutique et l'attitude à adopter dans les situations de risque accru #ETP
+** Réévaluer la prescription avec les éléments de tolérance clinique et les dosages pharmacologiques si nécessaire #PEC
+** Anticiper et prévenir les risques liés à l'automédication #ETP
+** Prendre en compte le contexte psychologique, social et la trajectoire de vie #INT
+---
+

@@ -1,0 +1,10 @@
+* SDD-335 Évaluation de l'aptitude au sport et rédaction d'un certificat de non contre-indication
+** Identifier les situations justifiant un questionnaire de santé ou un certificat médical #INT
+** Explorer la pratique sportive du patient #INT
+** Réaliser un entretien et un examen clinique orienté selon la pratique et l'âge du patient #CLI
+** Proposer un électrocardiogramme, une épreuve d'effort ou une échocardiographie selon l'entretien et l'examen clinique #PEC
+** Chercher les signes de surentrainement ou d'addiction au sport #INT
+** Prévenir les risques de conduites dopantes #ETP
+** Rédiger un certificat de non-contre indication #PRO
+---
+

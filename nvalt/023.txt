@@ -1,0 +1,11 @@
+* SDD-023 Anomalie de la miction
+** Chercher les élements permettant d'orienter vers une cause urologique ou extra-urologique #INT
+** Différencier les symptômes de la phase de stockage, de vidange, et post-mictionnelle #INT
+** Chercher un globe vésical ou un contact lombaire #CLI
+** Chercher une anomalie des organes génitaux externes #CLI
+** Justifier, decrire et réaliser les touchers pelviens #CLI
+** Prescrire et interpréter les résultats d'une débitmétrie, d'une échographie rénale et vésicale, d'une échographie prostatique, d'un calendrier mictionnel #DGP
+** Réaliser un sondage vésical #PRO
+** Chercher les complications aigues et chroniques d'un trouble de la vidange #DGP
+---
+

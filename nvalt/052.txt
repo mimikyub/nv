@@ -1,0 +1,9 @@
+* SDD-052 Odynophagie  -  dysphagie
+** Chercher à l'interrogatoire et à l'examen clinique les éléments d'orientation étiologique #CLI
+** Réaliser un examen cervico-facial et endobuccal complet #CLI
+** Identifier les situations nécessitant la réalisation d'une fibroscopie des voies aériennes et digestives supérieures #DGP
+** Poser l'indication d'une endoscopie oesogastroduodénale #DGP
+** Evaluer et prendre en charge les conséquences nutritionnelles #PEC
+** Réaliser un test diagnostic rapide streptoccoques A #PRO
+---
+

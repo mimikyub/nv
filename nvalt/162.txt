@@ -1,0 +1,12 @@
+* SDD-162 Dyspnée
+** Différencier le caractère aigu, subaigu, chronique, terminal de la dyspnée #INT
+** Chercher les antécédents, habitus, et comorbidités #INT
+** Décrire les caractéristiques cliniques et les circonstances de survenue et grader la dyspnée #INT
+** Expliquer au patient les principes et bénéfices des thérapeutiques médicamenteuses et non-médicamenteuses et de la réhabilitation à l'effort #ETP
+** Contextualiser, rationnaliser et interpréter les biomarqueurs à visée diagnostique #EXA
+** Interpréter les résultats de l'imagerie thoracique #EXA
+** Interpréter les résultats d'une exploration fonctionnelle respiratoire #EXA
+** Expliquer au patient les signes d'alerte de décompensation respiratoire d'une pathologie chronique #ETP
+** Réaliser un prélèvement artériel pour analyse des gaz du sang et du lactate artériel #PRO
+---
+

@@ -1,0 +1,12 @@
+* SDD-050 Malaise - perte de connaissance
+** Caractériser un malaise ou une perte de conaissance à partir de l'interrogatoire, de l'examen clinique du patient et des données des témoins #INT
+** Réaliser un interrogatoire à la recherche d'une cause iatrogène ou toxique #INT
+** Réaliser un examen cardio-vasculaire et neurologique complet #CLI
+** Faire un test d'hypothension orthostatique #CLI
+** Réaliser une glycémie capillaire #PRO
+** Réaliser un électrocardiogramme de repos 18 dérivations #PRO
+** Différencier une syncope d'origine cardiaque d'une syncope réflexe #CLI
+** Prescrire les examens complémentaires cardiologiques permettant le diagnostic d'une urgence cardiologique, devant une syncope cardiaque #DGP
+** Identifier les situations d'urgence nécessitant une hospitalisation en secteur conventionnel ou en soins critiques #URG
+---
+

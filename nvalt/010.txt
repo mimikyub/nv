@@ -1,0 +1,12 @@
+* SDD-010 Méléna - rectorragie
+** Evaluer la tolérance hémodynamique #URG
+** Différencier les hémorragies digestives hautes et basses #CLI
+** Chercher les signes d'interrogatoire et les signes cliniques pour orienter l'enquête étiologique #CLI
+** Demander les examens complémentaires endoscopiques/radiologiques pertinents de 1ère intention #PEC
+** Identifier les principales situations nécessitant un recours à un avis spécialisé urgent #URG
+** Prescrire les éléments de surveillance adaptés au contexte #PEC
+** Chercher la prise de médicaments aggravants l'hémorragie #INT
+** Réaliser un toucher rectal dans un contexte d'hémorragie digestive #CLI
+** Initier la prise en charge en urgence d'une hémorragie digestive mal tolérée #URG
+---
+

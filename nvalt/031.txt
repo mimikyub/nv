@@ -1,0 +1,12 @@
+* SDD-031 Perte d'autonomie progressive
+** Evaluer le niveau d'autonomie et de dépendance avec les échelles adaptées #INT
+** Identifier l'étiologie de la perte d'autonomie et dépister les facteurs de risque #DGP
+** Evaluer les aides humaines, matérielles et financières déjà en place #INT
+** Diagnostiquer un syndrome de fragilité chez la personné âgée à risque de perte d'autonomie #DGP
+** Adapter la prise en charge à la situation clinique du patient en situation palliative et aux différents stades de la maladie incurable #PEC
+** Etablir un plan d'aide ou plan personnalisée de santé (PPS): proposer les aides humaines, techniques et financières adaptées #PEC
+** Prévenir l'épuisement des aidants #ETP
+** Proposer une prise en charge étiologique et symptomatique #PEC
+** Proposer le recours et interagir avec, les référents médico-sociaux, les professionnels des réseaux, structures ou sytèmes de soins destinés aux patients en perte d'autonomie #COM
+---
+

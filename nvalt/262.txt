@@ -1,0 +1,11 @@
+* SDD-262 Prise en charge d'un accès palustre
+** Identifier les situations justifiant un traitement urgent #URG
+** Expliquer au patient les objectifs, les bénéfices et les effets indésirables attendus de la prise en charge #ETP
+** Transmettre les informations pertinentes aux différents acteurs de santé #COM
+** Evaluer l'observance thérapeutique :Entretien/interrogatoire,Education/prévention:SDD_262:
+** Planifier le suivi systématique #PEC
+** Chercher à l'interrogatoire les antécedents d'intolérance médicamenteuse, d'allergie, les contre-indications avant de prescrire #INTPEC:SDD_262:
+** Prescrire de manière raisonnée les explorations complémentaires #DGP
+** Informer et expliquer la situation aux responsables légaux et à l'enfant avec un discours adapté #ANNINT#ETP
+---
+

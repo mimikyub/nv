@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>SDD Explorer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .tag {
+            font-weight: bold;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+        #fileContent {
+            margin-top: 20px;
+            white-space: pre-line;
+            font-size: 18px;
+        }
+        #fileSelector {
+            font-size: 18px;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <label for="fileSelector">Sélectionnez un SDD :</label>
+    <select id="fileSelector" onchange="loadFileContent(this.value)">
+        <option value="">-- Choisissez un SDD --</option>
+    </select>
+
+    <div id="fileContent"></div>
+
+    <script>
+        // Remplace les anciens tags par les nouveaux #TAG
+        function replaceTags(content) {
+            let tagMappings = {
+                "PHY": "#PHY", "EPD": "#EPD", "DEF": "#DEF",
+                "ECP": "#ECP", "ETI": "#ETI", "PEC": "#PEC",
+                "URG": "#URG", "SVP": "#SVP", "DGP": "#DGP",
+                "MMD": "#MMD", "M1": "#M1"
+            };
+
+            for (let oldTag in tagMappings) {
+                let regex = new RegExp("\\b" + oldTag + "\\b", "g");
+                content = content.replace(regex, `<span class="tag">${tagMappings[oldTag]}</span>`);
+            }
+            return content;
+        }
+
+        // Charge le contenu d'un fichier SDD
+        function loadFileContent(fileName) {
+            if (!fileName) return;
+            fetch(`./nvalt/${fileName}.txt`)
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('fileContent').innerHTML = `<h2>SDD-${fileName}</h2><p>${replaceTags(data)}</p>`;
+                })
+                .catch(error => alert("Erreur lors du chargement du fichier : " + error));
+        }
+
+        // Remplit la liste déroulante automatiquement pour les 356 SDD
+        window.onload = function() {
+            let select = document.getElementById("fileSelector");
+            for (let i = 1; i <= 356; i++) {
+                let option = document.createElement("option");
+                option.value = i.toString().padStart(3, '0');
+                option.textContent = `SDD-${option.value}`;
+                select.appendChild(option);
+            }
+        };
+    </script>
+
+</body>
+</html>

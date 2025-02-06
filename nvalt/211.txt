@@ -1,0 +1,9 @@
+* SDD-211 Hypoprotidémie
+** Chercher à l'interroragtoire et l'examen clinique des éléments orientant vers une pathologie rénale, hépatique, digestive ou cardiaque #CLI
+** Evaluer la protéinurie par une bandelette urinaire et confirmer par un dosage de protéinurie #DGP
+** Chercher des signes biologiques en faveur d'une hépatopathie #EXA
+** Evaluer l'état nutritionnel du patient #CLI
+** Identifier la/les fraction(s) déficitaire(s) à l'éléctrophorèse des protéines sériques #EXA
+** Chercher des signes en faveur d'une hémopathie ou d'un déficit immunitaire en cas d'hypogammaglobulinémie #CLI
+---
+

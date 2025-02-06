@@ -1,0 +1,11 @@
+* SDD-200 Dyscalcémie
+** Identifier les situations où le dosage de la calcémie est nécéssaire #DGP
+** Expliquer l'intérêt du dosage de l'albuminémie ou de la calcémie ionisée en cas d'hypocalcémie ou d'hypercalcémie totale #EXA
+** Réaliser un électrocardiogramme de repos 18 dérivations #PRO
+** Chercher à l'interrogatoire et à l'examen clinique les signes d'une dyscalcémie (hyper ou hypocalcémie) #INT
+** Identifier dans l'histoire du patient les médicaments ayant pu participer ou aggraver l'hypo- ou l'hypercalcémie #DGP
+** Chercher des éléments de gravité cliniques et paracliniques d'une dyscalcémie nécessitant une prise en charge urgente #URG
+** Prescrire et interpréter le bilan étiologique de première intention d'une dyscalcémie #EXA
+** Expliquer et mettre en place la prise en charge thérapeutique d'une hypercalcémie selon sa sévérité #PEC
+---
+

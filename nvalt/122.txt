@@ -1,0 +1,12 @@
+* SDD-122 Hallucinations
+** Chercher les élements cliniques et paracliniques d'orientation psychiatriques et non-psychiatriques #CLI
+** Mener un entretien psychiatrique avec un patient présentant des hallucinations #INT
+** Préciser la ou les modalité(s) hallucinatoire(s) #INT
+** Préciser le caractère aigu ou chronique des hallucinations #INT
+** Evaluer le risque suicidaire, d'auto ou d'hétéro-agressivité #INT
+** Chercher des signes et symptômes psychiatriques associés #CLI
+** Chercher les éléments justifiant une hospitalisation #PEC
+** Chercher les élements nécessitant un recours à un psychiatre ou à un neurologue #CLI
+** Initier la prise en charge pharmocologique et non pharmacologique #PEC
+---
+

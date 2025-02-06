@@ -1,0 +1,11 @@
+* SDD-301 Consultation suite à un contage tuberculeux
+** Evaluer le risque de transmission #INT
+** Identifier les risques épidémiologiques et cliniques pour le patient et son entourage #INT
+** Chercher des arguments cliniques pour une primo-infection tuberculeuse patente ou une tuberculose-maladie #CLI
+** Prescrire un test immunologique de dépistage de la tuberculose infectieuse latente et une radiographie de référence #DGP
+** Déclarer une infection tuberculeuse latente chez l'enfant et toute tuberculose maladie #COM
+** Identifier les indications de traitement d'une infection tuberculeuse latente #PEC
+** Expliquer les objectifs, les bénéfices, effets secondaires et modalités du traitement d'une infection tuberculeuse latente #ETP
+** Chercher d'éventuels autres cas contact #INT
+---
+

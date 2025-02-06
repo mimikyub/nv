@@ -1,0 +1,12 @@
+* SDD-331 Découverte d'un aléa thérapeutique ou d'une erreur médicale
+** Identifier l'aléa therapeutique, l'erreur médicale et les situations nécessitant une déclaration de pharmaco/matériovigilance #DGP
+** Evaluer le contexte physiologique et pathologique du patient #DGP
+** Différencier le rôle de la personne de confiance et de la personne à prévenir #INT
+** Expliquer au patient l'aléa thérapeutique et la responsabilité sans faute #ANN
+** Expliquer au patient l'erreur médicale de manière transparente et présenter des excuses, dans le respect des relations avec les autres professionels de santé #ANN
+** Exposer les dispositifs d'indemnisation en fonction de la notion de responsabilité #ANN
+** Exposer les conséquences juridiques liées à l'erreur médicale et au mode d'exercice, le principe de l'indemnisation des accidents médicaux et le rôle de l'ONIAM #ANN
+** Expliquer au patient les modalités d'accès à son dossier médical #ANN
+** Expliquer au patient qu'il peut se faire assister de la personne de son choix lors de la consultation d'annonce et proposer une seconde entrevue pour répondre aux nouvelles questions #ANN
+---
+

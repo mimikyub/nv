@@ -1,0 +1,11 @@
+* SDD-183 Analyse du liquide cérébro-spinal (lcs)
+** Identifier les situations justifiant une analyse du LCS #DGP
+** Identifier les contre-indications d'une ponction lombaire et ne pas retarder la prise en charge thérapeutique si nécéssaire #URG
+** Réaliser une ponction lombaire #PRO
+** Interpréter les résultats de biochimie, de cellularité du LCS, et de coloration de Gram #EXA
+** Interpréter les résultats complémentaires réalisés sur le LCS #EXA
+** Initier la prise en charge en urgence adaptée à la situation clinique #URG
+** Signaler les maladies à déclaration obligatoire #ETP
+** Mettre en place les mesures de prophylaxie et d'isolement si nécessaire #PEC
+---
+

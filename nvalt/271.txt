@@ -1,0 +1,12 @@
+* SDD-271 Prescription et surveillance d'une voie d'abord vasculaire
+** Identifier les différents abords vasculaire #CLI
+** Poser l'indication d'une voie d'abord vasculaire et réévaluer la pertinence de son maintien #PEC
+** Identifier les situations necessitant une voie veineuse centrale #PEC
+** Prescrire une voie d'abord vasculaire #PEC
+** Expliquer au patient les principes et risques de la pose et du maintien d'une voie d'abord veineux #ANN
+** Prescrire et/ou réaliser la surveillance d'une voie d'abord veineux #PRO
+** Identifier les complications immédiates liées à la pose d'une voie d'abord veineux et évaluer le degré d'urgence #URG
+** Identifier les complications d'une voie d'abord veineux lors du suivi #DGP
+** Réaliser la pose de voie veineuse périphérique #PRO
+---
+

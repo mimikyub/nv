@@ -1,0 +1,12 @@
+* SDD-303 Prévention - dépistage des cancers de l'adulte
+** Repérer, hiérarchiser et expliquer les facteurs de risque et facteurs protecteurs des principaux cancers de l'adulte #ETP
+** Explorer les connaissances du patient sur le cancer et les moyens de prévention #INT
+** Expliquer les principes de prévention adaptés à la situation clinique #ETP
+** Présenter les bénéfices et les risques des dépistages individuels et organisés des principaux cancers de l'adulte #ETP
+** Proposer un ou des dépistage(s) organisé(s) selon le profil du patient #INT
+** Expliquer le parcours du patient au cours des différentes stratégies de dépistage organisé ou individuel des cancers de l'adulte #ETP
+** Réaliser un examen clinique orienté sur les dépistages des cancers selon le profil du patient #CLI
+** Mener un entretien pour explorer la consommation de tabac et d'alcool et proposer une prise en charge #INT
+** Interpréter un dosage du PSA et expliquer sa pertinence pour le diagnostic individuel précoce #EXA
+---
+

@@ -1,0 +1,10 @@
+* SDD-025 Hypersudation
+** Identifier le caractère localisé ou diffus, préciser le rythme nycthémèral et le mode évolutif #INT
+** Chercher à l'interrrogatoire les éléments d'orientation étiologique: médicamenteuse, endocrinienne, neurologique, tumorale ou infectieuse #INT
+** Chercher les signes à l'examen clinique pour orienter l'enquête étiologique #CLI
+** Eliminer une étiologie infectieuse, métabolique ou respiratoire devant une hypersudation aigüe #URG
+** Chercher une mycose compliquant cette hypersudation #CLI
+** Proposer une prise en charge selon la cause identifiée #PEC
+** Evaluer le retentissement sur la qualité de vie #INT
+---
+

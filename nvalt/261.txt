@@ -1,0 +1,11 @@
+* SDD-261 Évaluation et prise en charge de la douleur de l'enfant et du nourrisson
+** Repérer les manifestations douloureuses en fonction de l'âge et du développement #PEC
+** Identifier les types de douleur dans leur temporalité et leur mécanisme #PEC
+** Evaluer la douleur à l'aide d'outils d'évaluation adaptés #DGP
+** Limiter/justifier la prescription de soins ou examens douloureux #PEC
+** Prescrire les médicaments antalgiques et antalgiques adjuvants, en fonction de l'âge, du type de douleur et de la situation clinique #PEC
+** Proposer les moyens non médicamenteux adaptés à l'âge et au type de douleur et à la situation clinique, en collaboration avec les parents #PEC
+** Evaluer l'efficacité et la tolérance d'un traitement antalgique, et adapter le traitement en fonction de l'évaluation #PEC
+** Mener l'enquête diagnostique étiologique d'une douleur de l'enfant et indiquer les principes du traitement de sa cause #PEC
+---
+

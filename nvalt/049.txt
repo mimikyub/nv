@@ -1,0 +1,12 @@
+* SDD-049 Ivresse aiguë
+** Demander un dosage de l'alcoolémie si approprié #DGP
+** Chercher une co-intoxication à l'interrogatoire du patient et des proches, et à l'examen clinique #CLI
+** Évaluer la vigilance à l'aide du score de Glasgow et en identifier ses limites #CLI
+** Chercher une hypoglycémie associée #DGP
+** Chercher les lésions traumatiques, une complication médicale de l'intoxication, réaliser un ECG #CLI
+** Mettre le patient en position latérale de sécurité #URG
+** Préciser les modalités de surveillance #PEC
+** Proposer des mesures d'éducation et de prévention adaptées et dépister au décours une addiction à l'alcool #ETP
+** Réaliser une glycémie capillaire #PRO
+---
+

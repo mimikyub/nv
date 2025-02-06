@@ -1,0 +1,12 @@
+* SDD-246 Prescription d'un soin ambulatoire
+** Déterminer les objectifs du soin ambulatoire et s'assurer que le soin en ambulatoire est adapté #INT
+** Coordonner la réalisation du soin en ambulatoire et les différents intervenants #PEC
+** Adapter la galénique au patient #INT
+** Prévoir une prise en charge symptomatique avant le soin, si besoin #PEC
+** Décrire le soin, en détailler les étapes, indiquer d'éventuelles limites #PEC
+** Déterminer les situations devant amener à une nouvelle consultation en urgence #PEC
+** Informer et décrire les principaux effets secondaires attendus #ETP
+** Rédiger une ordonnance de rééducation #PROPEC:SDD_246:
+** Rédiger une prescription de soins infirmiers #PRO
+---
+

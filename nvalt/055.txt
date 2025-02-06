@@ -1,0 +1,9 @@
+* SDD-055 Paleur de l'enfant
+** Chercher les signes cliniques associés à la pâleur #CLI
+** Identifier les situations d'urgence justifiant une hospitalisation et d'une surveillance continue ou nécessitant un avis spécialisé #URG
+** Interpréter les résultats d'un hémogramme chez l'enfant #EXA
+** Interpréter les résultats d'un bilan martial chez l'enfant #EXA
+** Chercher les élements d'orientation étiologiques à l'interrogatoire et à l'examen clinique #CLI
+** Identifier à l'examen clinique un syndrome tumoral orientant vers une hémopathie #CLI
+---
+

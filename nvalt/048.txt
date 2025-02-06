@@ -1,0 +1,9 @@
+* SDD-048 Ictere chez le nouveau-né
+** Diagnostiquer un ictère du nouveau-né #CLI
+** Chercher et hiérarchiser les signes anamnestiques et cliniques orientant vers un ictère pathologique #PEC
+** Différencier un ictère à bilirubine libre d'un ictère à bilirubine conjuguée et prescrire les explorations adaptées pour l'enquête étiologique #DGP
+** Rassurer les parents en cas d'ictère simple ou d'ictère au lait de mère #ANN
+** Expliquer aux parents les principes de la prise en charge de l'ictère du nouveau-né #INT
+** Expliquer aux parents l'échelle colorimétrique des selles en utilisant le carnet de santé #ETP
+---
+

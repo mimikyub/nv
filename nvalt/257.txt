@@ -1,0 +1,11 @@
+* SDD-257 Prescrire une contraception et contraception d'urgence
+** Prescrire une contraception d'urgence et évaluer le contexte de la demande, en particulier de violences et d'exposition aux IST #URG
+** Chercher des antécédents personnels et familiaux de maladie veineuse thromboembolique #INT
+** Evaluer le risque cardiovasculaire avant prescription #DGP
+** Prescrire une contraception adaptée en fonction des antécedents, des besoins et des attentes des patients #PEC
+** Eduquer à la prévention des IST #ETP
+** Expliquer le mode d'action, les modalités de prise et de suivi des méthodes de contraception #ETP
+** Prescrire les examens complémentaires nécessaires à l'initiation et au suivi d'une contraception de manière adaptée et raisonnée #PEC
+** Expliquer la conduite à tenir en cas d'oubli ou de mésusage de la contraception hormonale #ETP
+---
+

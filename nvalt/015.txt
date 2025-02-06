@@ -1,0 +1,12 @@
+* SDD-015 Anomalies de couleur des extrémités
+** Chercher les facteurs favorisants, notamment médicamenteux, de l'acrosyndrome #INT
+** Identifier et caractériser un acrosyndrome #CLI
+** Distinguer un phénomène de Raynaud primaire et secondaire #DGP
+** Identifier une acrocyanose et des engelures #CLI
+** Evoquer une insuffisance respiratoire ou une défaillance hémodynamique devant une cyanose #DGP
+** Réaliser et interpréter une manœuvre d'Allen #CLI
+** Chercher un syndrome myéloprolifératif devant une érythermalgie et/ou une érythrose des extrémités #DGP
+** Poser l'indication d'une capillaroscopie et de la recherche d'anticorps antinucléaires #DGP
+** Expliquer le mode évolutif de chaque acrosyndrome au patient, leur prévention et les signes d’alerte devant l'amener à consulter en urgence #ETP
+---
+

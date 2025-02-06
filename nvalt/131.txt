@@ -1,0 +1,12 @@
+* SDD-131 Troubles de mémoire - déclin cognitif
+** Diriger et orienter l'interrrogatoire du patient et de l'entourage basé sur les critères diagnostiques de troubles neurocognitifs #INT
+** Chercher les signes neurologiques et psychiatriques permettant d'orienter le diagnostic étiologique #CLI
+** Réaliser et interpréter des tests psychométriques de première ligne afin d'évaluer le profil d'un trouble de la mémoire #CLI
+** Evaluer la sévérité du trouble neurocognitif #CLI
+** Evaluer le retentissement du trouble sur l'autonomie #INT
+** Prescrire des mesures médicamenteuses et non médicamenteuses visant à ralentir le déclin cognitif #PEC
+** Etablir un plan d'aide ou plan personnalisé de santé visant à favoriser l'autonomie : proposer les aides humaines, techniques et financières adaptées #PEC
+** Prévenir l'épuisement des aidants #ETP
+** Evoquer une dépression sous-jacente #DGP
+---
+

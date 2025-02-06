@@ -1,0 +1,11 @@
+* SDD-215 Anomalie des plaquettes
+** Diagnostiquer une thrombopénie ou une thrombocytose #EXA
+** Recueillir les arguments cliniques d'orientation étiologique d'une trombopénie ou d'une thrombocytose #INT
+** Prescrire les examens biologiques de 1ère intention permettant l'orientation étiologique d'une thombopénie ou d'une thrombocytose #DGP
+** Chercher les signes cliniques de gravité ou de complication devant une thrombopénie ou une thrombocytose #URG
+** Justifier la demande d'un frottis sanguin et l'interpréter #DGP
+** Justifier l'indication d'un myélogramme #DGP
+** Expliquer au patient les précautions à prendre en cas de thrombopénie #ETP
+** Justifier l'indication d'une transfusion de plaquettes #PEC
+---
+

@@ -1,0 +1,12 @@
+* SDD-313 Prévention des risques liés à l'alcool
+** Transmettre les repères de consommation d'alcool à moindre risque au patient et/ou à sa famille #ETP
+** Interroger le patient sur ses consommations d'alcool et d'autres produits quand le patient consulte pour des complications et/ou des signes d'appel #INT
+** Dépister de façon systématique un mésusage d'alcool ou une dépendance à l'alcool et les co-addictions #INT
+** Expliquer au patients les risques liés à une intoxication alcoolique aiguë #ETP
+** Expliquer au patient le retentissement prévisible sur la santé d'une intoxication alcoolique chronique #ETP
+** Eduquer sur le risque d'un sevrage non encadré de l'alcool #ETP
+** Repérer les complications somatiques et psychiatriques d'une intoxication alcoolique aiguë ou chronique #CLI
+** Evaluer les répercussions familiales, professionnelles et sociales et repérer l'alcool comme facteur de risque de précarité #INT
+** Initier une prise en charge adaptée à la situation du sujet et à ses objectifs (approche centrée sur le patient) #PEC
+---
+

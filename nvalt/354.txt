@@ -1,0 +1,12 @@
+* SDD-354 Evaluation de l'observance thérapeutique
+** Interroger le patient sur son observance thérapeutique et analyser les outils en rapport à la prise des traitements (ie.pilulier, carnet, agendas) #INT
+** Chercher à l'interrogatoire et à l'examen clinique des signes de non-observance #CLI
+** Recourir aux différents acteurs de santé (notamment aux pharmaciens) et aux aidants pour évaluer l'observance #COM
+** Evaluer les connaissances du patient à l'égard de sa pathologie, des bénéfices et des risques du traitement #INT
+** S'assurer de la compréhension de la prescription par le patient #ETP
+** Optimiser la prescription et proposer des modalités de prise en charge adaptée à l'observance thérapeutique #PEC
+** Identifier les facteurs pouvant conduire à une mauvaise observance et trouver les leviers pour améliorer l'observance #ETP
+** Utliliser le modèle de décision partagée pour optimiser l'observance du traitement et appliquer une attitude de non jugement #PEC
+** Proposer une séance d'éducation thérapeutique #PEC
+---
+

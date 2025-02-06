@@ -1,0 +1,8 @@
+* SDD-218 Diminution du taux de prothrombine (tp)
+** Chercher les causes de baisse du TP à l'interrogatoire #INT
+** Chercher des antécédents personnels et familiaux de syndrome hémorragique #INT
+** Chercher des signes cliniques d'insuffisance hépato-cellulaire #CLI
+** Interpréter un bilan de coagulation standard devant une baisse du TP #EXA
+** Distinguer biologiquement une carence en vitamine K d'une insuffisance hépato-cellulaire et d'une coagulation intra-vasculaire disséminée #EXA
+---
+

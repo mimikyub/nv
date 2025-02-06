@@ -1,0 +1,12 @@
+* SDD-323 Prévention de l'exposition aux écrans
+** Evaluer l'usage des écrans #INT
+** Conseiller les parents sur les besoins fondamentaux de l'enfant et de l'adolescent #ETP
+** Sensibiliser l'enfant, l'adolescent et leurs parents aux éléments de prévention adaptés à l'âge #ETP
+** Evaluer l'activité physique et promouvoir une activité physique adaptée à l'âge #INT
+** Evaluer les comportements alimentaires en lien avec le temps passé devant les écrans #INT
+** Evaluer les comportements et habitudes liés à la veille et au sommeil et appliquer les conseils de bon comportement #INT
+** Prévenir le patient et/ou son entourage de l'impact des écrans sur le développement, le comportement, le sommeil et l'obésité #ETP
+** Identifier les freins et les difficultés éducatives #ETP
+** Prévenir et/ou identifier une conduite addictive en lien avec l'utilisation des écrans #ETP
+---
+

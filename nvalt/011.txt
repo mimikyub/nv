@@ -1,0 +1,10 @@
+* SDD-011 Régurgitation du nourrisson
+** Caractériser les régurgitations et les différencier des vomissements #INT
+** Identifier les éléments favorisant les régurgitations #INT
+** Identifier les signes et symptômes en faveur d'un RGO pathologique #CLI
+** Orienter son interrogatoire et son examen à la recherche de complications du RGO #CLI
+** Rassurer les parents sur la nature physiologique des régurgitations #ETP
+** Mettre en place et expliquer des mesures adaptées et raisonnables en évitant la surenchère thérapeutique #PEC
+** Evaluer le retentissement fonctionnel du symptôme sur l'entourage #INT
+---
+

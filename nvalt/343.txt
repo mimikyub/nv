@@ -1,0 +1,13 @@
+* SDD-343 Refus de traitement et de prise en charge recommandés
+** Evaluer la situation clinique du patient #PEC
+** Expliquer de manière adaptée et intelligible le cadre légal relatif au refus de traitement #ANN
+** Eliminer des facteurs pouvant altérer le jugement et/ou rendant le consentement impossible #CLI
+** Donner au patient les informations nécessaires à une prise de décision éclairée et l'informer des conséquences de son choix #ETP
+** Proposer au patient et ses proches la possibilité de réaborder dans un second temps les questions soulevées #PEC
+** Envisager le recours à une unité mobile de soins palliatifs lorsque le refus de traitement engage le pronostic vital ou est susceptible de provoquer une souffrance physique ou psychique #PEC
+** Identifier une situation de mineur en danger lié au refus de ses parents #URG
+** Evaluer l'état de souffrance physique, psychique et spirituel du patient #INT
+** Repérer les enjeux éthiques soulevés par le refus de traitement #PEC
+** Recueillir les motivations du patient, écouter et respecter le ressenti du patient qui refuse un traitement #INT
+---
+

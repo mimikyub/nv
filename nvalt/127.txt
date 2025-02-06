@@ -1,0 +1,8 @@
+* SDD-127 Paralysie faciale
+** Différencier une paralysie faciale centrale et périphérique #CLI
+** Eliminer une urgence neurologique et ORL #URG
+** Chercher à l'examen clinique et à l'interrogatoire les signes d'orientation étiologiques #CLI
+** Determiner la région anatomique atteinte en fonction des données de l'examen clinique explorant le nerf facial, de l'otoscopie et de l'examen neurologique #DGP
+** Prendre en charge d'une paralysie faciale à frigore et prévenir les complications ophtalmologiques #DGP
+---
+

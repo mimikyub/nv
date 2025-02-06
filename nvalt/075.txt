@@ -1,0 +1,9 @@
+* SDD-075 Instabilité du genou
+** Déterminer le mode d'installation et les facteurs déclenchants #INT
+** Déterminer le caractère aigu ou chronique de l'instabilité #INT
+** Réaliser un examen complet clinique du genou #CLI
+** Déterminer en fonction des données cliniques, l'atteinte anatomique #DGP
+** Evaluer le retentissement fonctionnel de l'instabilité #INT
+** Interpréter des radiographies standards du genou et chercher une fracture associée #ICO
+---
+

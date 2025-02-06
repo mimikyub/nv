@@ -1,0 +1,9 @@
+* SDD-014 Emission de sang par la bouche
+** Identifier par l'interrogatoire et à l'examen clinique l'origine du saignement et le quantifier #INT
+** Evaluer le retentissement hémodynamique et respiratoire #URG
+** Orienter la prise en charge en ambulatoire, hospitalisation conventionnelle ou soins critiques #PEC
+** Organiser les examens endoscopiques et fibroscopiques ou un scanner en fonction de la situation clinique #PEC
+** Prescrire les éléments de surveillance adaptés au contexte étiologique #PEC
+** Proposer une prise en charge thérapeutique adaptée à l'étiologie du saignement et à sa gravité #PEC
+---
+

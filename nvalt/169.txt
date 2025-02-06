@@ -1,0 +1,11 @@
+* SDD-169 Morsures et piqures
+** Décrire les plaies et chercher une atteinte des structures anatomiques en fonction de la localisation de la morsure #CLI
+** Réaliser les premiers soins locaux, et initier une antibiothérapie si justifiée #PEC
+** Prévenir le risque de contamination par le Clostridium tetani et le virus de la rage, selon les recommandations #ETP
+** Expliquer au patient (ou à son entourage) les déclarations obligatoires en cas de morsure #ETP
+** Orienter le patient vers la structure adaptée, en fonction du type de morsure/piqûre et de sa localisation #URG
+** Evaluer le risque d'anaphylaxie ou de détresse respiratoire en cas de piqûre par hyménoptères #URG
+** Expliquer au patient les principes de prise en charge devant une piqûre de tique #ETP
+** Diagnostiquer et prendre en charge une maladie de Lyme en phase primaire #PEC
+---
+

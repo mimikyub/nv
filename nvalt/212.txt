@@ -1,0 +1,10 @@
+* SDD-212 Protéinurie
+** Identifier les situations où une bandelette urinaire et/ou le dosage de la protéinurie est pertinent #DGP
+** Quantifier la protéinurie #EXA
+** Analyser qualitativement la protéinurie #EXA
+** Identifier les signes cliniques et biologiques orientant vers une cause fonctionnelle, glomérulaire, tubulaire ou vasculaire de maladie rénale #DGP
+** Diagnostiquer un syndrome néphrotique #DGP
+** Evaluer la fonction rénale et analyser le sédiment urinaire pour orienter le diagnostic étiologique #EXA
+** Chercher une pathologie systémique, autoimmune, un diabète ou une hémopathie #DGP
+---
+

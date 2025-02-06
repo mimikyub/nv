@@ -1,0 +1,12 @@
+* SDD-295 Consultation de suivi gériatrique
+** Hiérarchiser les problématiques à prendre en charge selon un objectif de qualité de vie et de maintien de l'autonomie #PEC
+** Réviser l'ordonnance : indications maintenues, contre-indications, interactions médicamenteuses, posologie optimale, galénique, observance #PEC
+** Chercher les signes et symptômes cliniques permettant d'identifier un risque de dépendance et proposer une intervention ciblée #ETP
+** Justifier et argumenter la prescription des examens complémentaires lors du suivi #DGP
+** Expliquer au patient et aux proches les facteurs à risque de décompensation en gériatrie #ETP
+** Evaluer le besoin d'aide matérielle et humaine à domicile #INT
+** Réaliser une évaluation gérontologique standardisée (EGS) #CLI
+** Dépister et prendre en charge les déficiences sensorielles #ETP
+** Prévenir l'épuisement de l'aidant #ETP
+---
+

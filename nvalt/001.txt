@@ -1,0 +1,12 @@
+* SDD-001 Constipation
+** Diagnostiquer et caractériser une constipation : mode d'évolution et mécanisme #INT
+** Eliminer les diagnostics différentiels #DGP
+** Chercher les éléments d'interrogatoire et cliniques orientant vers une constipation organique #INT
+** Chercher les éléments d'interrogatoire et cliniques faisant évoquer un syndrome occlusif ou une souffrance digestive #URG
+** Chercher des complications chroniques de la constipation #CLI
+** Identifier un syndrome de l'intestin irritable ou une colopathie fonctionelle #INT
+** Ne pas prescrire d'exploration en l'absence d'arguments évocateurs d'une cause organique #DGP
+** Expliquer au patient les mesures hygièno-diététiques, de prévention et d'auto-médication #ETP
+** Argumenter l'indication de la coloscopie #DGP
+---
+

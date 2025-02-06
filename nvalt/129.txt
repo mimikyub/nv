@@ -1,0 +1,11 @@
+* SDD-129 Troubles de l'attention
+** Caractériser les signes et symptômes évocateurs de troubles attentionnels et les signes associés, en particulier anxieux et thymique #DGP
+** Chercher les arguments en faveur d'un trouble déficit de l'attention avec hyperactivité #INT
+** Chercher les éléments orientant vers un diagnostic étiologique, psychiatrique ou non psychiatrique #INT
+** Evaluer le retentissement social, scolaire, professionnel et famillial #INT
+** Retracer l'histoire développementale et évaluer le niveau actuel du développement psychomoteur #INT
+** Evaluer les fonctions mnésiques, langagières, exécutives et instrumentales #CLI
+** Evaluer le besoin d'explorations complémentaires, en particulier neuro-psychologiques et non psychiatriques #DGP
+** Coordonner la prise en charge plurisciplinaire #COM
+---
+

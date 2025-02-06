@@ -1,0 +1,9 @@
+* SDD-079 Hirsutisme
+** Identifier à l'interrogatoire et à l'examen clinique les signes d'orientation étiologique #CLI
+** Expliquer à la patiente le déroulement et l'intérêt de l'examen dermatologique et des organes génitaux externes #ANN
+** Reconnaître un hirsutisme, évaluer son importance, sa vitesse d'évolution et le différencier des autres hyperpilosités #CLI
+** Chercher les autres signes d'hyperandrogénie et de virilisation #CLI
+** Chercher des troubles du cycle associés et évaluer leur ancienneté #INT
+** Evaluer le retentissement psychologique de l'hirsutisme #INT
+---
+

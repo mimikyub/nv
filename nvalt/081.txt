@@ -1,0 +1,10 @@
+* SDD-081 Anomalie des ongles
+** Décrire et identifier la pathologie ungéale #CLI
+** Chercher les signes d'interrogatoire et les signes cliniques pour orienter l'enquête étiologique #CLI
+** Identifier d'autres lésions cutanées, des phanères, des muqueuses et des plis #CLI
+** Poser l'indication d'un prélèvement mycologique #DGP
+** Evoquer une carence devant une fragilité unguéale #DGP
+** Analyser et interpréter le résultat du prélèvement mycologique #EXA
+** Expliquer au patient les modalités du traitement d'une onychomycose #ETP
+---
+

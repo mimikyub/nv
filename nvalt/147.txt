@@ -1,0 +1,10 @@
+* SDD-147 Épistaxis
+** Diagnostiquer une épistaxis et la quantifier #CLI
+** Chercher les facteurs généraux ou médicamenteux favorisant ou aggravant l'épistaxis #DGP
+** Chercher les signes d'interrogatoire et d'examen clinique en facteur d'une cause infectieuse, tumorale, inflammatoire, traumatique ou essentielle #CLI
+** Evaluer le retentissement de l'épistaxis #URG
+** Mettre en place un traitement d'urgence #URG
+** Pratiquer un tamponnement antérieur #PRO
+** Evaluer l'efficacité d'un tamponnement antérieur et/ou antéropostérieur #CLI
+---
+

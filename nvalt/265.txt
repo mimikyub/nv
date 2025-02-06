@@ -1,0 +1,14 @@
+* SDD-265 Consultation de suivi d'un nourrisson en bonne santé
+** Recueillir et intégrer les données de l'entretien avec les parents en prenant en compte leurs inquiétudes #INT
+** Recueillir et intégrer les données du carnet de santé #INT
+** Repérer les situations à risque de difficultés parentales #INT
+** Evaluer et conseiller les parents sur les besoins fondamentaux de l'enfant #ETP
+** Examiner un nourrisson en le mettant en confiance pour l'examen et en créant un climat de confiance avec les parents #CLI
+** Dépister les troubles neurosensoriels et les anomalies orthopédiques #CLI
+** Evaluer le développement psychomoteur selon l'âge du nourrisson #CLI
+** Evaluer le développement staturo-pondéral selon l'âge du nourrisson #CLI
+** Prévenir la mort inattendue du nourrisson et les accidents domestiques #ETP
+** Expliquer les principes de la vaccination et le calendrier vaccinal #ETP
+** Remplir le carnet de santé #PRO
+---
+

@@ -1,0 +1,9 @@
+* SDD-006 Hépatomégalie
+** Reconnaitre et caractériser une hépatomégalie à l'examen clinique #CLI
+** Chercher les signes d'interrogatoire et les signes cliniques pour orienter l'enquête étiologique #CLI
+** Différencier le caractère aigu ou chronique de l'hépatomégalie #INT
+** Interpréter les résultats des marqueurs biologiques de la cytolyse, de la cholestase et de la fonction hépatique #EXA
+** Prescrire une échographie hépatique en première intention #DGP
+** Définir une orientation diagnostique selon les résultats de l'échographie hépatique #DGP
+---
+

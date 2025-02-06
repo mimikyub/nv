@@ -1,0 +1,12 @@
+* SDD-314 Prévention des risques liés au tabac
+** Evaluer la consommation tabagique et le degré de dépendance #INT
+** Expliquer au patient les différents risques liés au tabagisme actif, passif et durant la grossesse #INT
+** Evaluer les risques d'une intoxication tabagique d'un patient en considérant les autres facteurs de risque #INT
+** Mettre en place les traitements pharmacologiques et non pharmacologiques du sevrage en tenant compte du degré de dépendance #PEC
+** Expliquer au patient les moyens pharmacologiques ou non pharmacologiques d'aide au sevrage #ETP
+** Chercher les comorbidités psychiatriques et co-addictions #INT
+** Planifier les explorations de dépistage des complications somatiques du tabagisme #DGP
+** Identifier les situations nécessitant l'orientation vers une consultation d'aide au sevrage tabagique #PEC
+** Réaliser de la prévention primaire adaptée contre le tabagisme lors d'une consultation #ETP
+---
+

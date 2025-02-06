@@ -1,0 +1,11 @@
+* SDD-135 Troubles du sommeil, insomnie ou hypersomnie
+** Catactériser le trouble du sommeil #INT
+** Evaluer le retentissement et les signes associés #CLI
+** Chercher les anomalies cliniques orientant vers une étiologie neurologique, psychiatrique ou respiratoire #CLI
+** Evaluer les comportements et habitudes liés à la veille et au sommeil (hygiène de sommeil) #INT
+** Eduquer le patient sur les bons comportements et habitudes liés au sommeil #ETP
+** Identifier les situations nécessitant la prescription d'une polysomnographie et reconnaitre un SAHOS (syndrome d'apnée hypopnée obstructive du sommeil) #DGP
+** Expliquer les principes du traitement du SAHOS (syndrome d'apnée hypopnée obstructive du sommeil) y compris les mesures hygiéno-diététiques au patient #ANN
+** Prendre en charge les répercussions scolaires, professionnelles, physiques, sociales et psychologiques #PEC
+---
+

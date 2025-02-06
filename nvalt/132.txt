@@ -1,0 +1,12 @@
+* SDD-132 Troubles des conduites alimentaires (anorexie ou boulimie)
+** Caractériser le comportement alimentaire et les distorsions cognitives associées #INT
+** Évaluler l'état nutritionnel #DGP
+** Orienter l'examen clinique et les examens paracliniques à la recherche d'un diagnostic différentiel de trouble des conduites alimentaires #DGP
+** Chercher les complications de la dénutrition et/ou des conduites purgatives #CLI
+** Evaluer les comorbidités psychiatriques et évaluer le risque suicidaire ou d'auto-agressivité #INT
+** Identifier les situations nécessitant une hospitalisation en psychiatrie, en nutrition ou en réanimation #URG
+** Discuter la nécessité d'un traitement psychotrope adapté, en prenant en compte l'état nutritionnel du patient #PEC
+** Chercher et prendre en charge une carence oestrogénique prolongée #PEC
+** Débuter, en cas de dénutrition, la renutrition en prévenant les complications évenutelles, notamment le syndrôme de renutrition inapropriée #PEC
+---
+

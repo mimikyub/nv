@@ -1,0 +1,11 @@
+* SDD-175 Traumatisme rachidien
+** Identifier le mécanisme du traumatisme #INT
+** Organiser, sécuriser les premiers secours en pré-hospitalier et mettre en place les dispositifs d'immobilisation devant toute suspicion de fracture instable du rachis #PEC
+** Effectuer un examen clinique neurologique complet, incluant le périnée, permettant une évaluation standardisée (score adapté) et de définir le niveau lésionnel #CLI
+** Chercher les lésions associées #CLI
+** Evaluer les conséquences hémodynamiques et ventilatoires en fonction du niveau lésionnel #CLI
+** Proposer une prise en charge antalgique multimodale adaptée #PEC
+** Proposer une prise en charge chirurgicale urgente devant un traumatisme médullaire déficitaire #PEC
+** Orienter la prise en charge thérapeutique en prévention des Agressions Médullaires Secondaires d’Origines Systémiques (AMSOS) #PEC
+---
+

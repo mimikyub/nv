@@ -1,0 +1,10 @@
+* SDD-040 Écoulement mamelonnaire
+** Chercher à l'interrogatoire et à l'examen clinique les élements d'orientation étiologique #CLI
+** Réaliser un examen mammaire complet ainsi qu'un examen des aires ganglionnaires axillaires et sus claviculaires #CLI
+** Caractériser l'écoulement pour orienter l'enquête étiologique #CLI
+** Identifier les situations nécessitant la réalisation d' une mammographie, une échographie mammaire ou une IRM mammaire #PEC
+** Identifier les situations nécessitant la réalisation d'un dosage de prolactine et interpréter le résultat #DGP
+** Reconnaitre les éléments de l'interrogatoire et de l'examen physique en faveur d'un adénome hypophysaire #CLI
+** Reconnaitre les éléments de l'interrogatoire en faveur d'une galactorrhée médicamenteuse #INT
+---
+

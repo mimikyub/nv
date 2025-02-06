@@ -1,0 +1,12 @@
+* SDD-348 Suspicion d'un effet indésidable des médicaments ou d'un soin
+** Suspecter un effet indésirable lié à un médicament ou à un soin #CLI
+** Evaluer les critères de gravité d'un évènement indésirable #PEC
+** Réaliser une démarche d'imputabilité #DGP
+** Effectuer une recherche bibliographique orientée pour estimer l'imputabilité extrinsèque #PEC
+** Expliquer au patient et à son entourage l'effet indésirable et les conséquences potentielles #ANN
+** Déclarer l'effet indésirable suspecté ou confirmé aux autorités compétentes (Cellule qualité, direction hospitalière, ARS...) #PEC
+** Guider le patient et/ou son entourage pour accéder aux procédures de réparation #ETP
+** Faire appel aux systèmes de vigilance (pharmaco, matério, hémo...) #PEC
+** Anticiper et prévenir les évènements indésirables liés aux soins et aux médicaments #ETP
+---
+

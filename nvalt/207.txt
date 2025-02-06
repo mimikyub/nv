@@ -1,0 +1,10 @@
+* SDD-207 Ferritine  -  baisse ou augmentation
+** Identifier les situations cliniques nécessitant la réalisation d'un bilan martial #DGP
+** Interpréter un bilan martial en fonction du tableau clinico-biologique #EXA
+** Intégrer les résultats de l'hémogramme en fonction du bilan martial #EXA
+** Chercher à l'interrogatoire et l'examen clinique des éléments d'orientation étiologique d'une hyperferritinémie ou d'une carence martiale #CLI
+** Prescrire les examens paracliniques de première intention devant une hyperferritinémie ou une carence martiale #DGP
+** Expliquer les principes du traitement d'une carence martiale #ANN
+** Prescrire de façon raisonnée et appropriée un examen génétique devant une suspicion d'hémochromatose génétique #DGP
+---
+

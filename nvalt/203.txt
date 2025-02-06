@@ -1,0 +1,10 @@
+* SDD-203 Prescription et interprétation de tests allergologiques (patch tests, prick tests, idr) (cedef)
+** Poser l'indication et choisir en fonction du contexte clinique le test allergologique cutané approprié #DGP
+** Identifier les contre-indications à la réalisation des tests allergologiques #PEC
+** Exliquer au patient ou à son entourage les modalités de réalisation des tests allergologiques #INT
+** Expliquer au patient et à l'entourage la prise en charge découlant des résultats des tests allergologiques #INT
+** Argumenter l'éviction des principaux allergènes reponsables des eczémas de contact #ETP
+** Argumenter l'éviction des principaux allergènes reponsables des asthmes et rhinites professionnels et non profesionnels #ETP
+** Argumenter l'éviction des principaux allergènes reponsables des allergies alimentaires #ETP
+---
+

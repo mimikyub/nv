@@ -1,0 +1,12 @@
+* SDD-101 Écoulement urétral
+** Identifier les facteurs de risque d'infection sexuellement transmissible #INT
+** Décrire l'écoulement urétral #CLI
+** Réaliser un examen clinique des organes génitaux en adoptant une attitude appropriée #CLI
+** Differencier une infection urinaire d'une urtérite #CLI
+** Dépister d'autres infections sexuellement transmissibles associées #DGP
+** Initier la prise en charge thérapeutique #PEC
+** Expliquer au patient l'intérêt du dépistage du/des partenaire(s) sexuel(s) #ETP
+** Expliquer les conseils de prévention des infections sexuellement transmissibles #ETP
+** Expliquer les principes du prélevement urétral #ANN
+---
+

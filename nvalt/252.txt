@@ -1,0 +1,8 @@
+* SDD-252 Prescrition d'un hypolipémiant
+** Evaluer le profil de risque cardio-vasculaire #DGP
+** Déterminer l'objectif de LDL-cholestérol en fonction du profil de risque cardio-vasculaire #PEC
+** Déterminer l'objectif de triglycérides en fonction du profil de risque cardio-vasculaire #PEC
+** Choisir l'hypolipémiant adapté à l'objectif lipidique #PEC
+** Planifier la surveillance de l'efficacité et de la tolérance de l'hypolipémiant #PEC
+---
+

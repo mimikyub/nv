@@ -1,0 +1,8 @@
+* SDD-157 Strabisme de l'enfant
+** Interroger les parents pour dater et caractériser le strabisme #INT
+** Chercher les signes d'orientation étiologique à l'interrogatoire #INT
+** Caractériser le strabisme et chercher les signes cliniques associés #CLI
+** Réaliser un examen non specialisé de l'œil, de ses annexes et de l'oculomotricité #CLI
+** Dépister les situations à risque d'amblyopie et les prévenir #URG
+---
+

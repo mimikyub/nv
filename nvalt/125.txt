@@ -1,0 +1,12 @@
+* SDD-125 Humeur exaltée ou augmentation de l'énergie et des activités
+** Chercher les signes et symptômes orientant vers une étiologie psychiatrique et non psychiatrique #CLI
+** Chercher les signes et symptômes du syndrome maniaque #INT
+** Chercher les caractéristiques cliniques d'un épisode maniaque #INT
+** Chercher les signes et symptômes en lien avec un épisode dépressif/maniaque antérieur #INT
+** Evaluer le risque suicidaire et d'auto/hétéro agressivité #URG
+** Mettre en place ou modifier un traitement psychotrope de fond #PEC
+** Evaluer la pertinence de la prescription de sédatifs et évaluer le risque de dépendance #PEC
+** Associer les proches à la démarche diagnostique et à la prise en charge en fonction de la situation #INT
+** Organiser la prise en charge ambulatoire ou hospitalière en fonction de la situation clinique #PEC
+---
+

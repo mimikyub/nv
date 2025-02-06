@@ -1,0 +1,9 @@
+* SDD-318 Prévention de la mort inexpliquée du nourrisson
+** Mettre en place les mesures de prévention de la mort inattendues du nourrisson #ETP
+** Communiquer aux parents les facteurs de protection de la mort inexpliquée du nourrisson #ETP
+** Expliquer aux parents les facteurs favorisant la mort inexpliquée du nourrisson (modèle du triple risque) #ETP
+** Chercher à l'entretien et à l'examen clinique les principaux facteurs de risque de mort inexpliquée du nourrisson #INT
+** Expliquer aux parents les mesures de prévention à l'aide du carnet de santé et montrer aux parents la méthode de couchage #ETP
+** Ecouter les inquiétudes de parents avec un antécédent de mort inexpliquée du nourrisson dans la fratrie #INT
+---
+

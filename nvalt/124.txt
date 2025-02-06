@@ -1,0 +1,11 @@
+* SDD-124 Idées délirantes
+** Chercher les élements cliniques et paracliniques d'orientation psychiatriques et non-psychiatriques #CLI
+** Mener un entretien psychiatrique avec un patient présentant des idées délirantes #INT
+** Caractériser le(s) thème(s), l'organisation et le(s) mécanismes des idées délirantes #INT
+** Préciser le caractère aigu ou chronique des idées délirantes #INT
+** Evaluer le risque suicidaire, d'auto ou d'hétéro-agressivité #INT
+** Chercher des signes et symptômes psychiatriques associés #CLI
+** Chercher les éléments justifiant une hospitalisation #PEC
+** Initier la prise en charge pharmocologique et non pharmacologique #PEC
+---
+

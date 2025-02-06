@@ -1,0 +1,11 @@
+* SDD-047 Ictère
+** Identifier le mode d'apparition et chercher les signes associés #INT
+** Identifier cliniquement un ictère #CLI
+** Chercher les signes cliniques et d'interrogatoire orientant vers un ictère à bilirubine libre (pré-hépatique) ou conjuguée (hépatique ou biliaire) #CLI
+** Prescrire et interpréter le bilan biologique et déterminer la nature de l'ictère #EXA
+** Interpréter les résultats des marqueurs biologiques de la cytolyse, de la cholestase et de la fonction hépatique #EXA
+** Prescrire et interpréter le résultat d'une échograpie abdominale #EXA
+** Orienter la prise en charge du patient en milieu spécialisé #PEC
+** Chercher une cause hépatique toxique, infectieuse ou tumorale #DGP
+---
+

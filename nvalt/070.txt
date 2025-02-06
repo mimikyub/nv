@@ -1,0 +1,9 @@
+* SDD-070 Déformation articulaire
+** Caractériser la déformation et s'assurer du caractère articulaire de cette dernière #CLI
+** Identifier à l'interrogatoire le mode d'apparition et les éventuels facteurs déclenchants #INT
+** Chercher des signes de gravité fonctionnels, neurologiques et vasculaires #URG
+** Suspecter une fracture dans les situations aigues #URG
+** Evaluer la douleur à l'aide d'échelles adaptées #INT
+** Prescrire les mesures thérapeutiques antalgiques adaptées #PEC
+---
+

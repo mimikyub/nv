@@ -1,0 +1,12 @@
+* SDD-071 Douleur d'un membre (supérieur ou inférieur)
+** Évaluer le mode évolutif (aigü/chronique), les facteurs déclanchants, l'intensité, les caractéristiques et le retentissement fonctionnel de la douleur #INT
+** Évaluer le retentissement socio-professionnel #INT
+** Chercher les signes d'interrogatoire pour orienter l'enquête étiologique #INT
+** Réaliser l'examen clinique neurologique, rhumatologique, vasculaire et cutané #CLI
+** Identifier les signes d'alerte (drapeaux rouges) orientant vers une pathologie sous-jacente nécessitant une prise en charge urgente #URG
+** Identifier les éléments permettant de différencier une douleur d'un membre d'origine neurologique, vasculaire, cutanée, ostéo-articulaire ou musculo-tendineuse #CLI
+** Confronter les résultats de examens complémentaires prescrits à la plainte fonctionelle et aux données de l'examen clinique #EXA
+** Proposer une stratégie thérapeutique adaptée à l'étiologie retenue de la douleur de membre #PEC
+** Identifier les situations pouvant justifier un avis spécialisé #CLI
+---
+

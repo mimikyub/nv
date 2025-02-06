@@ -1,0 +1,11 @@
+* SDD-159 Bradycardie
+** Identifier les signes et situations de mauvaise tolérance d'une bradycardie #CLI
+** Réaliser un électrocardiogramme de repos 18 dérivations #PRO
+** Analyser l'électrocardiogramme d'un patient bradycarde #ICO
+** Initier en urgence la prise en charge d'une bradycardie mal tolérée #URG
+** Identifier une bradycardie physiologique #INT
+** Chercher les signes d'interrogatoire et les signes cliniques pour orienter l'enquête étiologique #CLI
+** Prescrire les examens complémentaires de 1ère intention #DGP
+** Identifier les situations d'urgences justifiant une hospitalisation conventionelle ou en unité de soins critiques #URG
+---
+

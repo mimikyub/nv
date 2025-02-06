@@ -1,0 +1,12 @@
+* SDD-285 Consultation de suivi et éducation thérapeutique d'un patient avec un antécédent cardiovasculaire
+** Interroger le patient sur le vécu de sa maladie, la tolérance des traitements et l'existence de nouveaux symptômes depuis la dernière consultation #INT
+** Prendre connaissance des résultats des examens complémentaires et les expliquer au patient #EXA
+** Examiner le patient à la recherche de complications de sa maladie cardio-vasculaire #CLI
+** Définir les objectifs à atteindre : pression artérielle, glycémie, taux de LDL-cholestérol, IMC, sevrage tabagique et autres addictions #PEC
+** Expliquer au patient et à son entourage les signes d'alerte d'un AVC, IDM et de récidive de l'évènement cardio-vasculaire et la conduite à tenir #ETP
+** Réévaluer le traitement médicamenteux en fonction de l'état de santé du patient, des objectifs, du risque iatrogéne et de l'observance #PEC
+** Expliquer les modifications thérapeutiques du mode de vie, centrées sur le patient #PEC
+** Proposer au patient des séances d'éducation thérapeutique #ETP
+** Proposer au patient une rééducation et réadaptation si nécessaire #ETP
+---
+

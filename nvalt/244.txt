@@ -1,0 +1,10 @@
+* SDD-244 Mise en place et suivi d’une contention mécanique
+** Identifier les situations pour lesquellles une mise en contention mécanique est indiquée #URG
+** Proposer un traitement pharmacologique avant toute mise en contention, en privilégiant la voie orale à la voie intramusculaire #PEC
+** Réévaluer la pertinence de la mesure de contention toutes les 6 heures #PEC
+** Prescrire la surveillance stricte, psychiatrique et non psychiatrique durant toute la durée de la contention #PEC
+** Tracer dans le dossier médical le motif de la mesure, la durée, et la surveillance #COM
+** Prescrire une contention #PEC
+** Prévenir et évaluer les complications d'une contention #DGP
+---
+

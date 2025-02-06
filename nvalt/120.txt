@@ -1,0 +1,12 @@
+* SDD-120 Convulsions
+** Identifier une crise convulsive/épileptique partielle et généralisée, dont l'état de mal, chez l'adulte et l'enfant #CLI
+** Chercher des facteurs favorisants ou déclenchants #INT
+** Chercher à l'interrogatoire et à l'examen clinique les éléments d'orientation étiologique #CLI
+** Sécuriser le patient et son environnement #URG
+** Organiser la prise en charge d'urgence et l'orientation du patient #URG
+** Initier la prise en charge thérapeutique en urgence, et proposer un traitement antiépileptique de première intention #URG
+** Eduquer le patient et son entrourage pour prévenir les récidives #ETP
+** Discuter la place de l'électroencéphalogramme et de l'imagerie cérébrale #DGP
+** Expliquer le caractère bénin d'une convulsion fébrile simple et la prise en charge à domicile en cas de récidive de convulsions fébriles chez l'enfant #ETP
+---
+
