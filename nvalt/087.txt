@@ -1,3 +1,9 @@
 * SDD-087 Grosse jambe rouge aiguë
 ---
-
+** Orienter l'enquête étiologique en fonction du terrain, des signes loco-régionnaux et généraux #CLI
+** Chercher une porte d'entrée cutanée #CLI
+** Demander un echo-doppler en urgence devant une suspiscion d'une trombose veineuse profonde #DGP
+** Chercher des signes dermatologiques et généraux de gravité #CLI
+** Initier la prise en charge urgente d'une fasciite nécrosante #URG
+** Identifier les situations justifiant une hospitalisation #PEC
+** Initier la prise en charge thérapeutique en hospitalisation ou en ambulatoire #PEC

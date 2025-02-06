@@ -4,7 +4,7 @@
 ** Transmettre les informations pertinentes aux différents acteurs de santé #COM
 ** Evaluer l'observance thérapeutique :Entretien/interrogatoire,Education/prévention:SDD_262:
 ** Planifier le suivi systématique #PEC
-** Chercher à l'interrogatoire les antécedents d'intolérance médicamenteuse, d'allergie, les contre-indications avant de prescrire #INTPEC:SDD_262:
+** Chercher à l'interrogatoire les antécedents d'intolérance médicamenteuse, d'allergie, les contre-indications avant de prescrire #INT #PEC
 ** Prescrire de manière raisonnée les explorations complémentaires #DGP
 ** Informer et expliquer la situation aux responsables légaux et à l'enfant avec un discours adapté #ANNINT#ETP
 ---

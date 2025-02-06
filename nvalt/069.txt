@@ -1,3 +1,10 @@
 * SDD-069 Claudication intermittente d'un membre
 ---
+** Différencier à l'interrogatoire les éléments orientant vers une atteinte vasculaire ou médullaire #INT
+** Différencier à l'examen clinique les éléments orientant vers une atteinte vasculaire ou médullaire #CLI
+** Evaluer le périmètre de marche #INT
+** Identifer les situations d'urgences vasculaires et neurologiques #URG
+** Chercher les éléments d'orientation étiologique, devant une atteinte vasculaire #DGP
+** Chercher les autres localisations, devant une atteinte vasculaire #CLI
+** Prévenir les facteurs de risque cardiovasculaires #ETP
 

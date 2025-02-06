@@ -2,7 +2,7 @@
 ** Interroger le patient sur ses déficiences, limitations d'activité et restrictions de participation #INT
 ** Examiner et évaluer les déficiences accessibles à une prise en charge rééducative #CLI
 ** Déterminer les objectifs de la prise en charge rééducative #PEC
-** Rédiger une ordonnance de rééducation :Procédure,PEC:SDD_247:
+** Rédiger une ordonnance de rééducation #PEC #PRO 
 ** Communiquer les objectifs de la prise en charge réducative aux professionnels de la rééducation et du soin #COM
 ---
 

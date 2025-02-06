@@ -3,7 +3,7 @@
 ** Identifier les signes et symptômes d'un état de stress #CLI
 ** Chercher les pathologies psychiatriques comorbides, notamment les troubles dépressifs et addictifs #INT
 ** Evaluer le retentissement social, scolaire et famillial #INT
-** Evaluer le risque suicidaire :Urgence,Entretien/interrogatoire:SDD_344:
+** Evaluer le risque suicidaire  #INT #URG
 ** Nommer de manière adaptée et intelligible que le sujet vit une situation de harcèlement #ANN
 ** Identifier les situations de harcèlement sur personne vulnérable: mineur, personne handicapée, personne âgée #INT
 ---

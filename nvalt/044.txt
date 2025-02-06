@@ -1,3 +1,13 @@
 * SDD-044 Hyperthermie - fièvre
 ---
+* Reconnaitre les signes de gravité associés à la fièvre et les terrains à risque de complications #CLI
+** Chercher les élèments d'orientation étiologique à l'interrogatoire et à l'examen clinique de façon adaptée au contexte du patient #INT
+** Identifier les situations nécessitant un traitement spécifique de la fièvre #PEC
+** Identifier les situations nécessitant une prescription immédiate d'une antibiothérapie sans attendre une documentation microbiologique #PEC
+** Identifier les situations cliniques nécessitant un prélèvement à but diagnostique ou de documentation microbiologique #DGP
+** Expliquer au patient et/ou à son entourage les situations devant conduire à une nouvelle consultation #ANN
+** Initier la prise en charge et la surveillance #PEC
+** Identifier une fièvre et l'interpréter en fonction de la méthode de mesure #ETP
+** Expliquer la prise en charge symptomatique médicamenteuse et non médicamenteuse de la fièvre #ETP
+---
 

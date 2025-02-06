@@ -1,3 +1,10 @@
 * SDD-045 Hypothermie
 ---
 
+** Réaliser un électrocardiogramme de repos 18 dérivations #PRO
+** Distinguer les causes environnementales des causes organiques #DGP
+** Caractériser et corriger les troubles hydro-électrolytiques #PEC
+** Evaluer précocément et corriger l'hypovolémie en cas d'hypothermie profonde #URG
+** Adapter de manière contextuelle les explorations microbiologiques #DGP
+** Adapter la prise en charge d'un arrêt cardio-respiratoire à une situation d'hypothermie #PEC
+---

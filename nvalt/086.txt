@@ -1,3 +1,10 @@
 * SDD-086 Escarre
 ---
+** Différencier une escarre d'un ulcère cutané #CLI
+** Déterminer le stade clinique de l'escarre #CLI
+** Identifier les facteurs favorisants extrinsèques et intrinsèques #DGP
+** Evoquer une infection osseuse ou articulaire #CLI
+** Mettre en place les mesures préventives des escarres #ETP
+** Évaluer le retentissement psycho-socio-professionnel #INT
+** Chercher et prévenir les autres complications du décubitus #ETP
 

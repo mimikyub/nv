@@ -7,7 +7,7 @@
 ** Prescrire les prophylaxies adaptées à la situation de violence sexuelle #PEC
 ** Proposer un soutien psychologique #PEC
 ** Diagnostiquer une grossesse et proposer une prise en charge adaptée #PEC
-** Informer la victime sur ses droits et l'orienter en fonction de la situation :Education/prévention,PEC:SDD_350:
+** Informer la victime sur ses droits et l'orienter en fonction de la situation #ETP #PEC
 ** Identifier les situations relevant d'un signalement judiciaire pour la patiente et/ou les enfants du foyer #PEC
 ---
 

@@ -1,3 +1,12 @@
 * SDD-019 Découverte d'un souffle vasculaire
 ---
 
+** Chercher des élements permettant d'orienter le mécanisme physiopathologique #INT
+** Distinguer un souffle sytolique d'un souffle systolo-diastolique #CLI
+** Déterminer le caractère unique ou multiple du souffle #CLI
+** Chercher un trouble de l'érection chez l'homme #CLI
+** Différencier un souffle vasculaire supra-aortique d'un souffle valvulaire #CLI
+** Prescrire les examens complementaires permettant une description anatomique de l'obstacle ou d'évaluer le retentissement fonctionnel #DGP
+** Chercher le retentissement fonctionnel d'aval #CLI
+** Prévenir les facteurs de risques cardio-vasculaires #INT
+** Mesurer et interpréter un index de pression systolique à la cheville en cas de souffle aortique ou des membres inférieurs #CLI
