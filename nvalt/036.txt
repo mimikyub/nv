@@ -1,6 +1,4 @@
 * SDD-036 Douleur de la région lombaire
-** Examen physique:SDD_036:
-** Clinique:SDD_036:
 ** Chercher les signes d'interrogatoire et les signes cliniques pour orienter l'enquête étiologique #CLI #DGP
 ** Évaluer le mode évolutif (aigü/chronique), l'intensité, les caractéristiques et le retentissement fonctionnel de la douleur #INT
 ** Identifier les signes d'alerte orientant vers une pathologie sous-jacente nécessitant une prise en charge spécifique et/ou urgente #URG
