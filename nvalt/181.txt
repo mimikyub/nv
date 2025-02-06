@@ -7,6 +7,6 @@
 ** Expliquer les éléments sémiologiques anatomopathologiques et leur signification physiopathologique #COM
 ** Intégrer les données anatomopathologique au dossier clinique d'un patient #EXA
 ** Prescrire de manière raisonnée un prélèvement biologique/cellulaire/tissulaire adapté #PEC
-** Interpréter le résultat d'analyse d'un prélèvement biologique/cellulaire/tissulaire et le confronter aux données cliniques du patient #DGPEXA:SDD_181:
+** Interpréter le résultat d'analyse d'un prélèvement biologique/cellulaire/tissulaire et le confronter aux données cliniques du patient #DGP #EXA
 ---
 

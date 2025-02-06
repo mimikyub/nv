@@ -7,6 +7,6 @@
 ** Évaluer les limitations d'activité et les restrictions de participation en lien avec le déconditionnement #DGP
 ** Chercher, expliquer et corriger les facteurs de risque modifiables du déconditionnement #ETP
 ** Chercher et identifier une situation de sédentarité et/ou d'inactivité physique #DGP
-** Prescrire une activité physique adaptée #PECETP:SDD_353:
+** Prescrire une activité physique adaptée #PEC #ETP
 ---
 

@@ -1,8 +1,8 @@
 * SDD-072 Douleur du rachis (cervical, dorsal ou lombaire)
 ** Identifier les signes d'alerte orientant vers une cause secondaire nécessitant une prise en charge spécifique et/ou urgente #URG
-** Évaluer le mode évolutif (aigü/chronique), l'intensité, les caractéristiques et le retentissement fonctionnel de la douleur rachidienne #INTCLI:SDD_072:
+** Évaluer le mode évolutif (aigü/chronique), l'intensité, les caractéristiques et le retentissement fonctionnel de la douleur rachidienne #INT #CLI
 ** Réaliser l'examen clinique du rachis et l'examen neurologique #CLI
-** Chercher les causes extrarachidiennes des douleurs rachidiennes #INTCLI:SDD_072:
+** Chercher les causes extrarachidiennes des douleurs rachidiennes #INT #CLI
 ** Argumenter et justifier l'indication et le délai de réalisation des explorations d'imagerie adaptées #DGP
 ** Initier une prise en charge thérapeutique #PEC
 ** Expliquer les bénéfices et les risques des traitements pharmacologiques et non pharmacologiques #ETP

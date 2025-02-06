@@ -4,7 +4,7 @@
 ** Identifier les signes et symptômes d'un état de stress aigu ou d'un trouble du stress post-traumatique #CLI
 ** Reformuler de manière adaptée et intelligible l'évènement potentiellement traumatique chez le patient #ANN
 ** Différencier un état pathologique d'une réaction adaptée à l'évènement traumatique #INT
-** Identifier, intégrer et respecter les mécanismes de défense psychique du patient et de sa famille #PECINT:SDD_341:
+** Identifier, intégrer et respecter les mécanismes de défense psychique du patient et de sa famille #PEC #INT
 ** Organiser le projet de soins avec le patient et l'ensemble des soignants #PEC
 ** Expliquer les bases de la prise en charge pharmacologique au patient et/ou à son entourage #PEC
 ** Proposer une prise en charge non médicamenteuse adaptée à la situation #PEC

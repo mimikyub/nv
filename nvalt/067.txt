@@ -1,7 +1,7 @@
 * SDD-067 Douleurs articulaires
 ** Chercher les signes d'interrogatoire et les signes cliniques rhumatologiques, extra-rhumatologique et généraux pour orienter l'enquête étiologique #INT
 ** Déterminer le caractère aigu, subaigu ou chronique; le type de douleur : mécanique ou inflammatoire; l'atteinte mono-oligo ou polyarticulaire #INT
-** Chercher des éléments de gravité généraux et/ou fonctionnels #URGINT:SDD_067:
+** Chercher des éléments de gravité généraux et/ou fonctionnels #URG #INT
 ** Réaliser l'examen rhumatologique d'une articulation douloureuse et identifier un épanchement articulaire #CLI
 ** Expliquer au patient les principes et les risques d'une ponction articulaire #ANN
 ** Interpréter les résultats d'analyse du liquide articulaire #EXA

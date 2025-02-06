@@ -2,7 +2,7 @@
 ** Annoncer le diagnostic au patient et à son entourage, et l'informer sur le risque de contagiosité et les mesures de prévention et de dépistage à mettre en œuvre #ANN
 ** Préscrire le bilan pré-thérapeutique avant traitement d'une tuberculose maladie #PEC
 ** Prescrire et appliquer des précautions complémentaires Air #PEC
-** Chercher des éléments cliniques et biologiques en faveur d'une immunodépression #INTDGP:SDD_274:
+** Chercher des éléments cliniques et biologiques en faveur d'une immunodépression #INT #DGP
 ** Prescire un traitement anti-tuberculeux adapté et mettre en place la surveillance de son efficacité et de sa tolérance #PEC
 ** Déclarer la tuberculose maladie auprès des autorités compétentes #COM
 ** Identifier les manifestations radiologiques de tuberculose #ICO

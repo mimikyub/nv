@@ -4,6 +4,6 @@
 ** Déterminer la structure anatomique siège de l'anomalie #ICO
 ** Décrire les caractéristiques sémiologiques de l'anomalie #ICO
 ** Identifier les situations d'urgence et les complications #URG
-** Intégrer l'anomalie d'imagerie au contexte clinique et paraclinique #PECEXA:SDD_224:
+** Intégrer l'anomalie d'imagerie au contexte clinique et paraclinique #PEC #EXA
 ---
 

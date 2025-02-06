@@ -5,6 +5,6 @@
 ** Expliquer les éléments sémiologiques anatomopathologiques et leur signification physiopathologique #COM
 ** Justifier l'indication d'un examen sur coupes en congélation (ex: immunofluorescence) #PEC
 ** Prescrire de manière raisonnée un prélèvement biologique/cellulaire/tissulaire adapté #PEC
-** Interpréter le résultat d'analyse d'un prélèvement biologique/cellulaire/tissulaire et le confronter aux données cliniques du patient #DGPEXA:SDD_179:
+** Interpréter le résultat d'analyse d'un prélèvement biologique/cellulaire/tissulaire et le confronter aux données cliniques du patient #DGP #EXA
 ---
 

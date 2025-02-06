@@ -7,6 +7,6 @@
 ** Evaluer le retentissement d'une pathologique systémique responsable de l'oedème #CLI
 ** Expliquer les règles hygiéno-diététiques #ETP
 ** Expliquer l'intérêt du port d'une compression #ETP
-** Initier la prise en charge thérapeutique urgente en cas de nécessité #URGPEC:SDD_054:
+** Initier la prise en charge thérapeutique urgente en cas de nécessité #URG #PEC
 ---
 

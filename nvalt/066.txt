@@ -7,6 +7,6 @@
 ** Évaluer les conséquences: limitations d'activité, restrictions de participation et risque de chute #DGP
 ** Prescrire et vérifier l'adaptation des aides techniques de première intention #PEC
 ** Identifier les situations justifiant un avis chirurgical spécialisé #DGP
-** Rédiger une ordonnance de rééducation #PROPEC:SDD_066:
+** Rédiger une ordonnance de rééducation #PRO #PEC
 ---
 

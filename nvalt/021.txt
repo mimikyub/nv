@@ -3,7 +3,7 @@
 ** Chercher une altération de l'état général associée #INT
 ** Caractériser l'asthénie : physique et/ou psychique, ancienneté, mode évolutif, facteurs aggravant ou d'amélioration #INT
 ** Evaluer son retentissement et chercher des signes de gravité #INT
-** Chercher les signes d'interrogatoire et les signes cliniques pour orienter l'enquête étiologique #CLIDGP:SDD_021:
+** Chercher les signes d'interrogatoire et les signes cliniques pour orienter l'enquête étiologique #CLI #DGP
 ** Planifier un suivi en fonction des hypothèses diagnostiques #PEC
 ** Orienter le patient si besoin vers un interniste, un spécialiste d'organe ou un psychiatre selon les hypothèses diagnostiques #COM
 ---

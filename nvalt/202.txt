@@ -5,7 +5,7 @@
 ** Chercher un syndrome oedémateux, une hypertension artérielle ou une surcharge hydrosodée #CLI
 ** Orienter l'enquête étiologique à l'aide de l'interrogatoire, de l'examen clinique et des résultats biologiques sanguins et urinaires #DGP
 ** Prescrire des examens d'imagerie adaptés en cas de SIADH (syndrome de sécrétion inappropriée d'hormone antidiurétique) #DGP
-** Initier la prise en charge thérapeutique urgente en cas de nécessité #URGPEC:SDD_202:
+** Initier la prise en charge thérapeutique urgente en cas de nécessité #URG #PEC
 ** Appliquer les règles de vitesse de correction d'une dysnatrémie #PEC
 ---
 

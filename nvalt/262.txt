@@ -6,6 +6,6 @@
 ** Planifier le suivi systématique #PEC
 ** Chercher à l'interrogatoire les antécedents d'intolérance médicamenteuse, d'allergie, les contre-indications avant de prescrire #INT #PEC
 ** Prescrire de manière raisonnée les explorations complémentaires #DGP
-** Informer et expliquer la situation aux responsables légaux et à l'enfant avec un discours adapté #ANNINT#ETP
+** Informer et expliquer la situation aux responsables légaux et à l'enfant avec un discours adapté #ANN #INT #ETP
 ---
 

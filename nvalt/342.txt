@@ -1,5 +1,5 @@
 * SDD-342 Rédaction d'une ordonnance - d'un courrier médical
-** Chercher à l'interrogatoire les antécedents d'intolérance médicamenteuse, d'allergie, les contre-indications avant de prescrire #INTPEC:SDD_342:
+** Chercher à l'interrogatoire les antécedents d'intolérance médicamenteuse, d'allergie, les contre-indications avant de prescrire #INT #PEC
 ** Prescrire selon le contexte de soins: ALD, Maladie professionnelle, Accident de travail #PEC
 ** Rédiger une ordonnance conforme prenant en compte le statut du médicament #PRO
 ** Réaliser une ordonnance de surveillance pour les classes de médicaments les plus courantes #PEC

@@ -1,6 +1,6 @@
 * SDD-324 Modification thérapeutique du mode de vie (sommeil, activité physique, alimentation...)
 ** Evaluer les apports alimentaires et la qualité nutritive #INT
-** Evaluer l'activité physique et la sédentarité #ETPINT:SDD_324:
+** Evaluer l'activité physique et la sédentarité #ETP #INT
 ** Evaluer le sommeil #INT
 ** Mettre en évidence les facteurs favorisants des troubles du comportement alimentaires, des troubles du sommeil #ETP
 ** Promouvoir une activité physique adaptée à l'âge #ETP

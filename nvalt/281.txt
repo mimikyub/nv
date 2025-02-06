@@ -1,5 +1,5 @@
 * SDD-281 Prescription médicamenteuse, consultation de suivi et éducation d'un patient diabétique de type 2 ou ayant un diabète secondaire
-** Chercher à l'interrogatoire les antécedents d'intolérance médicamenteuse, d'allergie, les contre-indications avant de prescrire #INTPEC:SDD_281:
+** Chercher à l'interrogatoire les antécedents d'intolérance médicamenteuse, d'allergie, les contre-indications avant de prescrire #INT #PEC
 ** Interroger le patient sur le vécu de son diabète et de son traitement et l'existence de nouveaux symptomes depuis la dernière consultation #INT
 ** Prendre connaissance des résultats des examens complémentaires et les expliquer au patient #EXA
 ** Examiner le patient à la recherche de complications du diabète ou d'autres facteurs de risque cardio-vasculaire #CLI

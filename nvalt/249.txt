@@ -7,6 +7,6 @@
 ** Réévaluer la prescription en fonction des données de suivi #PEC
 ** Anticiper et prévenir les risques liés à l'automédication #ETP
 ** Informer le patient des effets indésirables potentiels de l'usage des AINS #ETP
-** Identifier les situations pour lesquelles la prescription d'AINS peut aggraver la pathologie #PECDGP:SDD_249:
+** Identifier les situations pour lesquelles la prescription d'AINS peut aggraver la pathologie #PEC #DGP
 ---
 

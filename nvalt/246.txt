@@ -6,7 +6,7 @@
 ** Décrire le soin, en détailler les étapes, indiquer d'éventuelles limites #PEC
 ** Déterminer les situations devant amener à une nouvelle consultation en urgence #PEC
 ** Informer et décrire les principaux effets secondaires attendus #ETP
-** Rédiger une ordonnance de rééducation #PROPEC:SDD_246:
+** Rédiger une ordonnance de rééducation #PRO #PEC
 ** Rédiger une prescription de soins infirmiers #PRO
 ---
 
