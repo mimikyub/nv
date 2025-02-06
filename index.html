@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -22,6 +21,13 @@
             font-size: 18px;
             padding: 5px;
         }
+        /* Styles des tags appliqués aux lignes */
+        .INT { background-color: deeppink; color: white; }
+        .URG { background-color: purple; color: white; }
+        .DGP { background-color: orange; color: black; }
+        .CLI { background-color: green; color: white; }
+        .ETP { background-color: blue; color: white; }
+        .PEC { background-color: red; color: white; }
     </style>
 </head>
 <body>
@@ -34,20 +40,24 @@
     <div id="fileContent"></div>
 
     <script>
-        // Remplace les anciens tags par les nouveaux #TAG
-        function replaceTags(content) {
+        // Remplace les tags par des classes de couleur
+        function applyTagStyles(content) {
             let tagMappings = {
-                "PHY": "#PHY", "EPD": "#EPD", "DEF": "#DEF",
-                "ECP": "#ECP", "ETI": "#ETI", "PEC": "#PEC",
-                "URG": "#URG", "SVP": "#SVP", "DGP": "#DGP",
-                "MMD": "#MMD", "M1": "#M1"
+                "#INT": "INT", "#URG": "URG", "#DGP": "DGP",
+                "#CLI": "CLI", "#ETP": "ETP", "#PEC": "PEC"
             };
 
-            for (let oldTag in tagMappings) {
-                let regex = new RegExp("\\b" + oldTag + "\\b", "g");
-                content = content.replace(regex, `<span class="tag">${tagMappings[oldTag]}</span>`);
-            }
-            return content;
+            let lines = content.split("\n");
+            let formattedContent = lines.map(line => {
+                for (let tag in tagMappings) {
+                    if (line.includes(tag)) {
+                        return `<div class="${tagMappings[tag]}">${line}</div>`;
+                    }
+                }
+                return `<div>${line}</div>`;
+            }).join("");
+
+            return formattedContent;
         }
 
         // Charge le contenu d'un fichier SDD
@@ -56,7 +66,7 @@
             fetch(`./nvalt/${fileName}.txt`)
                 .then(response => response.text())
                 .then(data => {
-                    document.getElementById('fileContent').innerHTML = `<h2>SDD-${fileName}</h2><p>${replaceTags(data)}</p>`;
+                    document.getElementById('fileContent').innerHTML = `<h2>SDD-${fileName}</h2>${applyTagStyles(data)}`;
                 })
                 .catch(error => alert("Erreur lors du chargement du fichier : " + error));
         }
@@ -75,3 +85,4 @@
 
 </body>
 </html>
+
