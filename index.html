@@ -11,8 +11,6 @@
             font-weight: bold;
             padding: 2px 5px;
             border-radius: 3px;
-
-
         }
         #fileContent {
             margin-top: 20px;
@@ -28,73 +26,56 @@
             font-size: 18px;
             cursor: pointer;
         }
+        .line-separator {
+            border-bottom: 1px dashed black;
+            padding-bottom: 5px;
+            margin-bottom: 5px;
+        }
 
 .INT {
     background-color:#AABAFA;
     color: yellow;
-  text-decoration: underline;
-
 } 
 .EXA {
     background-color:#3FAF05;
     color: yellow;
-  text-decoration: underline;
-
 } 
 .DGP {
     background-color:#F49D37;
     color: yellow;
-  text-decoration: underline;
-
 } 
 .ETP {
     background-color:#656565;
     color: yellow;
-  text-decoration: underline;
-
 } 
 .PEC {
     background-color:#FFA896;
     color: yellow;
-  text-decoration: underline;
-
 } 
 .URG {
     background-color:#D72638;
     color: yellow;
-  text-decoration: underline;
-
 } 
 
 .ANN {
     background-color:#8D880E;
     color: yellow;
-  text-decoration: underline;
-
 } 
 .COM {
     background-color:#FFBA08;
     color: yellow;
-  text-decoration: underline;
-
 } 
 .CLI {
     background-color:#5A189A;
     color: yellow;
-  text-decoration: underline;
-
 } 
 .ICO {
     background-color:#43AA8B;
     color: yellow;
-  text-decoration: underline;
-
 } 
 .PRO {
     background-color:#140F2D;
     color: yellow;
-  text-decoration: underline;
-
 } 
     </style>
 </head>
@@ -120,10 +101,10 @@
             let formattedContent = lines.map(line => {
                 for (let tag in tagMappings) {
                     if (line.includes(tag)) {
-                        return `<div class="${tagMappings[tag]}">${line}</div>`;
+                        return `<div class="${tagMappings[tag]} line-separator">${line}</div>`;
                     }
                 }
-                return `<div>${line}</div>`;
+                return `<div class="line-separator">${line}</div>`;
             }).join("");
 
             return formattedContent;
@@ -163,3 +144,4 @@
 
 </body>
 </html>
+
