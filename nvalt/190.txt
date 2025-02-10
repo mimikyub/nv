@@ -1,10 +1,10 @@
 * SDD-190 Hémoculture positive
-** Identifier les situations cliniques où la réalisation d'un ECBU est pertinente #CLI
-** Réaliser le recueil des urines selon les bonnes pratiques de prélèvement #PRO
-** Interpréter les résultats de l'ECBU, en prenant en compte les éventuels matériels endo-urinaires #DGP
-** Orienter l'examen clinique selon l'étiologie suspectée, en cas de seuil pathologique mis en évidence, #CLI
-** Interpréter la pathogénicité d'un microorganisme mis en évidence sur un ECBU #EXA
-** Expliquer au patient la prise en charge ou l'abstention thérapeutique #ANN
-** Initier la prise en charge thérapeutique en cas de nécessité #PEC
+** Identifier les situations justifiant la réalisation d'hémocultures et leur répétition selon l'évolution, le contexte clinique et/ou l'agent infectieux #DGP
+** Distinguer une contamination d'une bactériémie #EXA
+** Chercher, à partir de l'anamnèse et des données cliniques, les éléments d'orientation pour déterminer la porte d'entrée et/ou le foyer infectieux #CLI
+** Chercher les éléments de gravité, liés au terrain et au germe, ou au sepsis/choc #URG
+** Instaurer une thérapeutique anti-infectieuse probabiliste des bactériémies/fongémies en fonction de la porte d'entrée suspectée et des signes de gravité du patient, de l'examen direct de l'hémoculture, en attendant l'antibiogramme/antifongigramme #PEC
+** Chercher les éléments en faveur d'une endocardite, si adapté #DGP
+** Chercher les éléments en faveur d'une infection de cathéter, si adapté #DGP
+** Réaliser une déclaration obligatoire selon les agents pathogènes identifiés et selon les critères de notification #ETP
 ---
-

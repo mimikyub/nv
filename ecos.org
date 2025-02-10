@@ -1,15 +1,12 @@
  EDN 2024
-    #+TITLE: ECOS2024
-    #+AUTHOR: ME
+    :+TITLE: ECOS2024
+    :+AUTHOR: ME
  :PROPERTIES:
     :Export_OPTIONS: tasks:nil
     #+OPTIONS:     H:2 num:t
     #+INFOJS_OPT: view:t toc:t ltoc:t mouse:underline buttons:0 path:http://thomasf.github.io/solarized-css/org-info.min.js
-   # #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://thomasf.github.io/solarized-css/solarized-light.min.css" /> <meta name="robots" content="noindex, nofollow, noarchive" />
+
    #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
-
-
-
 
     :END:
 ---
@@ -177,6 +174,16 @@
 ** Réaliser un électrocardiogramme de repos 18 dérivations :PRO:SDD_018:
 ---
 * SDD-019 Découverte d'un souffle vasculaire
+
+** Chercher des élements permettant d'orienter le mécanisme physiopathologique :INT:SDD_019:
+** Distinguer un souffle sytolique d'un souffle systolo-diastolique :CLI:SDD_019:
+** Déterminer le caractère unique ou multiple du souffle :CLI:SDD_019:
+** Chercher un trouble de l'érection chez l'homme :CLI:SDD_019:
+** Différencier un souffle vasculaire supra-aortique d'un souffle valvulaire :CLI:SDD_019:
+** Prescrire les examens complementaires permettant une description anatomique de l'obstacle ou d'évaluer le retentissement fonctionnel :DGP:SDD_019:
+** Chercher le retentissement fonctionnel d'aval :CLI:SDD_019:
+** Prévenir les facteurs de risques cardio-vasculaires :INT:SDD_019:
+** Mesurer et interpréter un index de pression systolique à la cheville en cas de souffle aortique ou des membres inférieurs :CLI:SDD_019:
 ---
 * SDD-020 Découverte d'anomalies à l'auscultation pulmonaire
 ** Argumenter et justifier les explorations fonctionelles adaptées :PEC:SDD_020:
@@ -184,7 +191,7 @@
 ** Décrire la sémiologie de l'anomalie auscultatoire: nature, localisation, symétrie :CLI:SDD_020:
 ** Déterminer la structure anatomique concernée en fonction de l'anomalie auscultatoire et des données de l'examen clinique :CLI:SDD_020:
 ** Déterminer le caractère aigu ou chronique des symptômes respiratoires associés :INT:SDD_020:
-** Identifier les situations d'urgence devant une anomalie auscultatoire :Urgence_vitale:SDD_020:
+** Identifier les situations d'urgence devant une anomalie auscultatoire :URG:SDD_020:
 ** Interpréter une radiographie de thorax en rapport avec une anomalie auscultatoire :ICO:SDD_020:
 ---
 * SDD-021 Asthénie
@@ -296,8 +303,7 @@
 ** Proposer une prise en charge étiologique et symptomatique :PEC:SDD_031:
 ** Proposer le recours et interagir avec, les référents médico-sociaux, les professionnels des réseaux, structures ou sytèmes de soins destinés aux patients en perte d'autonomie :COM:SDD_031:
 ---
-* SDD-032 .!13001!Deshydratation de l'enfant
----
+
 * SDD-032 Deshydratation de l'enfant
 ** Identifier les situations à risque de déshydratation rapide :DGP:SDD_032:
 ** Evaluer un état de déshydratation chez le nourrisson et l'enfant, calculer le pourcentage de perte de poids :CLI:SDD_032:
@@ -418,8 +424,23 @@
 ** Identifier la/les cause(s) à l'origine de l'hypotension orthostatique :DGP:SDD_043:
 ---
 * SDD-044 Hyperthermie - fièvre
+** Reconnaitre les signes de gravité associés à la fièvre et les terrains à risque de complications :CLI:SDD_044:
+** Chercher les élèments d'orientation étiologique à l'interrogatoire et à l'examen clinique de façon adaptée au contexte du patient :INT:SDD_044:
+** Identifier les situations nécessitant un traitement spécifique de la fièvre :PEC:SDD_044:
+** Identifier les situations nécessitant une prescription immédiate d'une antibiothérapie sans attendre une documentation microbiologique :PEC:SDD_044:
+** Identifier les situations cliniques nécessitant un prélèvement à but diagnostique ou de documentation microbiologique :DGP:SDD_044:
+** Expliquer au patient et/ou à son entourage les situations devant conduire à une nouvelle consultation :ANN:SDD_044:
+** Initier la prise en charge et la surveillance :PEC:SDD_044:
+** Identifier une fièvre et l'interpréter en fonction de la méthode de mesure :ETP:SDD_044:
+** Expliquer la prise en charge symptomatique médicamenteuse et non médicamenteuse de la fièvre :ETP:SDD_044:
 ---
 * SDD-045 Hypothermie
+** Réaliser un électrocardiogramme de repos 18 dérivations :PRO:SDD_045:
+** Distinguer les causes environnementales des causes organiques :DGP:SDD_045:
+** Caractériser et corriger les troubles hydro-électrolytiques :PEC:SDD_045:
+** Evaluer précocément et corriger l'hypovolémie en cas d'hypothermie profonde :URG:SDD_045:
+** Adapter de manière contextuelle les explorations microbiologiques :DGP:SDD_045:
+** Adapter la prise en charge d'un arrêt cardio-respiratoire à une situation d'hypothermie :PEC:SDD_045:
 ---
 * SDD-046 Hypotonie - malaise du nourisson
 ** Repérer à l'entretien un malaise du nourrisson :INT:SDD_046:
@@ -637,7 +658,14 @@
 ** Expliquer au patient les modalités d'une ponction acticulaire :ETP:SDD_068:
 ** Identifier les indications et chercher les contre-indications à la ponction articulaire, et analyser les résultats :DGP:SDD_068:
 ---
-* SDD-069 Claudication intermittente d'un membre
+* SDD-069 Claudication intermittente d'un membre:SDD_069
+** Différencier à l'interrogatoire les éléments orientant vers une atteinte vasculaire ou médullaire :INT:SDD_069:
+** Différencier à l'examen clinique les éléments orientant vers une atteinte vasculaire ou médullaire :CLI:SDD_069:
+** Evaluer le périmètre de marche :INT:SDD_069:
+** Identifer les situations d'urgences vasculaires et neurologiques :URG:SDD_069:
+** Chercher les éléments d'orientation étiologique, devant une atteinte vasculaire :DGP:SDD_069:
+** Chercher les autres localisations, devant une atteinte vasculaire :CLI:SDD_069:
+** Prévenir les facteurs de risque cardiovasculaires :ETP:SDD_069:
 ---
 * SDD-070 Déformation articulaire
 ** Caractériser la déformation et s'assurer du caractère articulaire de cette dernière :CLI:SDD_070:
@@ -788,8 +816,22 @@
 ** Mettre en place et expliquer les bases du traitement étiologique :PEC:SDD_085:
 ---
 * SDD-086 Escarre
+** Différencier une escarre d'un ulcère cutané :CLI:SDD_086:
+** Déterminer le stade clinique de l'escarre :CLI:SDD_086:
+** Identifier les facteurs favorisants extrinsèques et intrinsèques :DGP:SDD_086:
+** Evoquer une infection osseuse ou articulaire :CLI:SDD_086:
+** Mettre en place les mesures préventives des escarres :ETP:SDD_086:
+** Évaluer le retentissement psycho-socio-professionnel :INT:SDD_086:
+** Chercher et prévenir les autres complications du décubitus :ETP:SDD_086:
 ---
 * SDD-087 Grosse jambe rouge aiguë
+** Orienter l'enquête étiologique en fonction du terrain, des signes loco-régionnaux et généraux :CLI:SDD_087:
+** Chercher une porte d'entrée cutanée :CLI:SDD_087:
+** Demander un echo-doppler en urgence devant une suspiscion d'une trombose veineuse profonde :DGP:SDD_087:
+** Chercher des signes dermatologiques et généraux de gravité :CLI:SDD_087:
+** Initier la prise en charge urgente d'une fasciite nécrosante :URG:SDD_087:
+** Identifier les situations justifiant une hospitalisation :PEC:SDD_087:
+** Initier la prise en charge thérapeutique en hospitalisation ou en ambulatoire :PEC:SDD_87:
 ---
 * SDD-088 Prurit
 ** Caractériser le prurit, sa topographie et son mode évolutif :INT:SDD_088:
@@ -1760,7 +1802,7 @@
 * SDD-188 Découverte de bacilles acido-alcoolo-résistants (baar) sur un crachat
 ** Identifier les situations clinique où la recherche de BAAR est indiquée :DGP:SDD_188:
 ** Demander ou réaliser les analyses permettant l'identification rapide du BAAR et la recherche de résistance aux antibiotiques :EXA:SDD_188:
-** Chercher des éléments cliniques et biologiques en faveur d'une immunodépression :Entretien/interrogatoire,SDG:SDD_188:
+** Chercher des éléments cliniques et biologiques en faveur d'une immunodépression :DGP:INT:SDD_188:
 ** Reconnaitre les situations où la mise en place de précautions complémentaires air est nécessaire :PEC:SDD_188:
 ** Déclarer, si pertinent, la tuberculose maladie auprès des autorités compétentes :ETP:SDD_188:
 ** Identifier les populations à risque de tuberculose :PEC:SDD_188:
@@ -1775,13 +1817,14 @@
 ** Initier la prise en charge thérapeutique en cas de nécessité :PEC:SDD_189:
 ---
 * SDD-190 Hémoculture positive
-** Identifier les situations cliniques où la réalisation d'un ECBU est pertinente :CLI:SDD_190:
-** Réaliser le recueil des urines selon les bonnes pratiques de prélèvement :PRO:SDD_190:
-** Interpréter les résultats de l'ECBU, en prenant en compte les éventuels matériels endo-urinaires :DGP:SDD_190:
-** Orienter l'examen clinique selon l'étiologie suspectée, en cas de seuil pathologique mis en évidence, :CLI:SDD_190:
-** Interpréter la pathogénicité d'un microorganisme mis en évidence sur un ECBU :EXA:SDD_190:
-** Expliquer au patient la prise en charge ou l'abstention thérapeutique :ANN:SDD_190:
-** Initier la prise en charge thérapeutique en cas de nécessité :PEC:SDD_190:
+** Identifier les situations justifiant la réalisation d'hémocultures et leur répétition selon l'évolution, le contexte clinique et/ou l'agent infectieux :DGP:SDD_190
+** Distinguer une contamination d'une bactériémie :EXA:SDD_190
+** Chercher, à partir de l'anamnèse et des données cliniques, les éléments d'orientation pour déterminer la porte d'entrée et/ou le foyer infectieux :CLI:SDD_190
+** Chercher les éléments de gravité, liés au terrain et au germe, ou au sepsis/choc :URG:SDD_190
+** Instaurer une thérapeutique anti-infectieuse probabiliste des bactériémies/fongémies en fonction de la porte d'entrée suspectée et des signes de gravité du patient, de l'examen direct de l'hémoculture, en attendant l'antibiogramme/antifongigramme :PEC:SDD_190
+** Chercher les éléments en faveur d'une endocardite, si adapté :DGP:SDD_190
+** Chercher les éléments en faveur d'une infection de cathéter, si adapté :DGP:SDD_190
+** Réaliser une déclaration obligatoire selon les agents pathogènes identifiés et selon les critères de notification :ETP:SDD_190
 ---
 * SDD-191 Prescription et interprétation d'un examen microbiologique des selles
 ** Identifier les situations où la prescription d'un examen microbiologique des selles est indiquée :DGP:SDD_191:
@@ -2274,7 +2317,7 @@
 ** Interroger le patient sur ses déficiences, limitations d'activité et restrictions de participation :INT:SDD_247:
 ** Examiner et évaluer les déficiences accessibles à une prise en charge rééducative :CLI:SDD_247:
 ** Déterminer les objectifs de la prise en charge rééducative :PEC:SDD_247:
-** Rédiger une ordonnance de rééducation :Procédure,PEC:SDD_247:
+** Rédiger une ordonnance de rééducation :PRO:PEC:SDD_247:
 ** Communiquer les objectifs de la prise en charge réducative aux professionnels de la rééducation et du soin :COM:SDD_247:
 ---
 * SDD-248 Prescription et suivi d'un traitement par anticoagulant et - ou anti-agrégant
@@ -2420,7 +2463,7 @@
 ** Identifier les situations justifiant un traitement urgent :URG:SDD_262:
 ** Expliquer au patient les objectifs, les bénéfices et les effets indésirables attendus de la prise en charge :ETP:SDD_262:
 ** Transmettre les informations pertinentes aux différents acteurs de santé :COM:SDD_262:
-** Evaluer l'observance thérapeutique :Entretien/interrogatoire,Education/prévention:SDD_262:
+** Evaluer l'observance thérapeutique :ETP:INT:SDD_262:
 ** Planifier le suivi systématique :PEC:SDD_262:
 ** Chercher à l'interrogatoire les antécedents d'intolérance médicamenteuse, d'allergie, les contre-indications avant de prescrire :INT:PEC:SDD_262:
 ** Prescrire de manière raisonnée les explorations complémentaires :DGP:SDD_262:
@@ -2490,7 +2533,7 @@
 * SDD-269 Consultation de suivi et traitement de fond d'un patient souffrant d'un trouble psychiatrique chronique (hors dépression)
 ** Evaluer le retentissement fonctionnel, la qualité de vie, promouvoir l'autonomie et l'insertion socio-professionnelle :PEC:SDD_269:
 ** Poser l'indication d'une Affection Longue durée et/ou prise en charge à 100% ; :ETP:SDD_269:
-** Evaluer de manière systématique le risque suicidaire (Risque, Urgence, Dangerosité) :URG:CLI:SDD_269:
+** Evaluer de manière systématique le risque suicidaire (Risque, URG, Dangerosité) :URG:CLI:SDD_269:
 ** Chercher des symptômes de décompensation, leur intensité, leur évolution avec d'éventuels traitements, en fonction de l'âge :CLI:SDD_269:
 ** Proposer un suivi clinique et paraclinique adapté aux complications des traitements psychotropes :PEC:SDD_269:
 ** Reévaluer systématiquement la pertinence de la prescription d'anxiolytiques, d'hypnotiques et prévenir la dépendance aux benzodiazépines :PEC:SDD_269:
@@ -2687,7 +2730,7 @@
 * SDD-288 Consultation de suivi et traitement de fond d'un patient dépressif
 ** Mener un entretien psychiatrique avec un patient présentant des symptômes dépressifs :INT:SDD_288:
 ** Evaluer le retentissement socio-professionnel, familial et sur la qualité de vie :PEC:SDD_288:
-** Evaluer de manière systématique le risque suicidaire (Risque, Urgence, Dangerosité) :Urgence,Examen_clinique:SDD_288:
+** Evaluer de manière systématique le risque suicidaire (Risque, URG, Dangerosité) :URG:CLI:SDD_288:
 ** Chercher des signes et symptômes dépressifs, leur intensité, leur évolution avec d'éventuels traitements, en fonction de l'âge :DGP:SDD_288:
 ** Indiquer et informer le patient sur les bénéfices et les risques attendus d'un antidépresseur :PEC:SDD_288:
 ** Réévaluer systématiquement la pertience de la prescription d'anxiolytiques, d'hypnotiques et prévenir la dépendance aux benzodiazépines :PEC:SDD_288:
@@ -3253,7 +3296,7 @@
 ** Identifier les signes et symptômes d'un état de stress :CLI:SDD_344:
 ** Chercher les pathologies psychiatriques comorbides, notamment les troubles dépressifs et addictifs :INT:SDD_344:
 ** Evaluer le retentissement social, scolaire et famillial :INT:SDD_344:
-** Evaluer le risque suicidaire :Urgence,Entretien/interrogatoire:SDD_344:
+** Evaluer le risque suicidaire :URG:INT:SDD_344:
 ** Nommer de manière adaptée et intelligible que le sujet vit une situation de harcèlement :ANN:SDD_344:
 ** Identifier les situations de harcèlement sur personne vulnérable: mineur, personne handicapée, personne âgée :INT:SDD_344:
 ---
@@ -3316,7 +3359,7 @@
 ** Prescrire les prophylaxies adaptées à la situation de violence sexuelle :PEC:SDD_350:
 ** Proposer un soutien psychologique :PEC:SDD_350:
 ** Diagnostiquer une grossesse et proposer une prise en charge adaptée :PEC:SDD_350:
-** Informer la victime sur ses droits et l'orienter en fonction de la situation :Education/prévention,PEC:SDD_350:
+** Informer la victime sur ses droits et l'orienter en fonction de la situation :INT:PEC:SDD_350:
 ** Identifier les situations relevant d'un signalement judiciaire pour la patiente et/ou les enfants du foyer :PEC:SDD_350:
 ---
 * SDD-351 Violences psychologiques et - ou physiques

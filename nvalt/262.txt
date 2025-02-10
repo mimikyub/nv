@@ -2,7 +2,7 @@
 ** Identifier les situations justifiant un traitement urgent #URG
 ** Expliquer au patient les objectifs, les bénéfices et les effets indésirables attendus de la prise en charge #ETP
 ** Transmettre les informations pertinentes aux différents acteurs de santé #COM
-** Evaluer l'observance thérapeutique :Entretien/interrogatoire,Education/prévention:SDD_262:
+** Evaluer l'observance thérapeutique #ETP #INT
 ** Planifier le suivi systématique #PEC
 ** Chercher à l'interrogatoire les antécedents d'intolérance médicamenteuse, d'allergie, les contre-indications avant de prescrire #INT #PEC
 ** Prescrire de manière raisonnée les explorations complémentaires #DGP
