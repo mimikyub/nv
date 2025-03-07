@@ -1,94 +1,166 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <meta charset="UTF-8">
-    <title>SDD Explorer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        #fileContent {
-            margin-top: 20px;
-            white-space: pre-line;
-            font-size: 18px;
-        }
-        #fileSelector {
-            font-size: 18px;
-            padding: 5px;
-        }
-        .nav-buttons {
-            margin-left: 10px;
-            font-size: 18px;
-            cursor: pointer;
-        }
-        .line-separator {
-            padding-bottom: 3px;
-            margin-bottom: 3px;
-        }
-    </style>
+<meta charset="UTF-8">
+<title>SDD Explorer</title>
+<style>
+body {
+	font-family: Arial, sans-serif;
+}
+.tag {
+	font-weight: bold;
+padding: 2px 5px;
+	 border-radius: 3px;
+}
+#fileContent {
+	margin-top: 20px;
+	white-space: pre-line;
+	font-size: 18px;
+}
+#fileSelector {
+	font-size: 18px;
+padding: 5px;
+}
+.nav-buttons {
+	margin-left: 10px;
+	font-size: 18px;
+cursor: pointer;
+}
+.line-separator {
+	/*<!--            border-bottom: 1px dashed black;-->*/
+	padding-bottom: 3px;
+	margin-bottom: 3px;
+}
+
+.INT {
+	background-color:#13A7C5;
+color: yellow;
+} 
+.EXA {
+	background-color:#3FAF05;
+color: yellow;
+} 
+.DGP {
+	background-color:#F49D37;
+color: yellow;
+} 
+.ETP {
+	background-color:#656565;
+color: yellow;
+} 
+.PEC {
+	background-color:#C02047;
+color: yellow;
+} 
+.URG {
+	background-color:#E4DF2D;
+color: red;
+} 
+
+.ANN {
+	background-color:#8D880E;
+color: yellow;
+} 
+.COM {
+	background-color:#6B8E23;
+color: yellow;
+} 
+.CLI {
+	background-color:#5A189A;
+color: yellow;
+} 
+.ICO {
+	background-color:#43AA8B;
+color: yellow;
+} 
+.PRO {
+	background-color:#140F2D;
+color: yellow;
+} 
+
+</style>
 </head>
 <body>
 
-    <label for="fileSelector">Sélectionnez un SDD :</label>
-    <select id="fileSelector" onchange="loadFileContent(this.value)">
-        <option value="">-- Choisissez un SDD --</option>
-        <option value="001">SDD-001</option>
-        <option value="002">SDD-002</option>
-        <option value="003">SDD-003</option>
-        <option value="004">SDD-004</option>
-        <option value="005">SDD-005</option>
-        <!-- Ajoute ici toutes les options jusqu'à 356 -->
-    </select>
-    <span class="nav-buttons" onclick="navigateSDD(-1)">←</span>
-    <span class="nav-buttons" onclick="navigateSDD(1)">→</span>
+<label for="fileSelector">Sélectionnez un SDD :</label>
+<select id="fileSelector" onchange="loadFileContent(this.value)">
+<option value="">-- Choisissez un SDD --</option>
+<option value="001">SDD-001</option>
+<option value="002">SDD-002</option>
+<option value="003">SDD-003</option>
+<option value="004">SDD-004</option>
+<option value="005">SDD-005</option>
+<!-- Ajoute ici toutes les options jusqu'à 356 -->
+</select>
+<span class="nav-buttons" onclick="navigateSDD(-1)">←</span>
+<span class="nav-buttons" onclick="navigateSDD(1)">→</span>
 
-    <div id="fileContent"></div>
+<div id="fileContent"></div>
 
-    <script>
-        function fetchFirstLine(fileName) {
-            return fetch(`./nvalt/${fileName}.txt`)
-                .then(response => response.text())
-                .then(text => {
-                    let firstLine = text.split("\n")[0].replace("* SDD-", "").trim();
-                    return firstLine || `SDD-${fileName}`;
-                })
-                .catch(() => `SDD-${fileName}`);
-        }
+<script>
+function applyTagStyles(content) {
+	let tagMappings = {
+		"#INT": "INT", "#URG": "URG", "#DGP": "DGP", "#COM": "COM", "#ANN": "ANN",
+		"#CLI": "CLI", "#ETP": "ETP", "#PEC": "PEC", "#EXA": "EXA", "#PRO": "PRO", "#ICO": "ICO"
+	};
 
-        function updateSelectorLabels() {
-            let select = document.getElementById("fileSelector");
-            let options = select.options;
+	let lines = content.split("\n");
+	let formattedContent = lines.map(line => {
+			for (let tag in tagMappings) {
+			if (line.includes(tag)) {
+			return <div class="${tagMappings[tag]} line-separator">${line}</div>;
+			}
+			}
+			return <div class="line-separator">${line}</div>;
+			}).join("");
 
-            for (let i = 1; i < options.length; i++) {  
-                let fileName = options[i].value;
-                fetchFirstLine(fileName).then(title => {
-                    options[i].textContent = title;  
-                });
-            }
-        }
+	return formattedContent;
+}
 
-        function loadFileContent(fileName) {
-            if (!fileName) return;
-            fetch(`./nvalt/${fileName}.txt`)
-                .then(response => response.text())
-                .then(data => {
-                    document.getElementById('fileContent').innerHTML = `<h2>SDD-${fileName}</h2>${data}`;
-                })
-                .catch(() => alert("Erreur lors du chargement du fichier."));
-        }
+function fetchFirstLine(fileName) {
+	return fetch(`./nvalt/${fileName}.txt`)
+		.then(response => response.text())
+		.then(text => {
+				let firstLine = text.split("\n")[0].replace("* SDD-", "").trim();
+				return firstLine || `SDD-${fileName}`;
+				})
+	.catch(() => `SDD-${fileName}`);
+}
 
-        function navigateSDD(direction) {
-            let select = document.getElementById("fileSelector");
-            let currentIndex = select.selectedIndex;
-            let newIndex = currentIndex + direction;
-            if (newIndex >= 1 && newIndex < select.options.length) {
-                select.selectedIndex = newIndex;
-                loadFileContent(select.value);
-            }
-        }
+function updateSelectorLabels() {
+	let select = document.getElementById("fileSelector");
+	let options = select.options;
 
-        window.onload = updateSelectorLabels; 
-    </script>
+	for (let i = 1; i < options.length; i++) {  
+		let fileName = options[i].value;
+		fetchFirstLine(fileName).then(title => {
+				options[i].textContent = title;  
+				});
+	}
+}
+
+function loadFileContent(fileName) {
+	if (!fileName) return;
+	fetch(`./nvalt/${fileName}.txt`)
+		.then(response => response.text())
+		.then(data => {
+				document.getElementById('fileContent').innerHTML = <h2>SDD-${fileName}</h2>${applyTagStyles(data)};
+				})
+	.catch(() => alert("Erreur lors du chargement du fichier."));
+}
+
+function navigateSDD(direction) {
+	let select = document.getElementById("fileSelector");
+	let currentIndex = select.selectedIndex;
+	let newIndex = currentIndex + direction;
+	if (newIndex >= 1 && newIndex < select.options.length) {
+		select.selectedIndex = newIndex;
+		loadFileContent(select.value);
+	}
+}
+
+window.onload = updateSelectorLabels; 
+</script>
 
 </body>
 </html>
