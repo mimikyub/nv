@@ -5,30 +5,83 @@
 <title>SDD Explorer</title>
 <style>
 body {
-    font-family: Arial, sans-serif;
+	font-family: Arial, sans-serif;
+}
+.tag {
+	font-weight: bold;
+padding: 2px 5px;
+	 border-radius: 3px;
 }
 #fileContent {
-    margin-top: 20px;
-    white-space: pre-line;
-    font-size: 18px;
+	margin-top: 20px;
+	white-space: pre-line;
+	font-size: 18px;
 }
 #fileSelector {
-    font-size: 18px;
-    padding: 5px;
+	font-size: 18px;
+padding: 5px;
 }
 .nav-buttons {
-    margin-left: 10px;
-    font-size: 18px;
-    cursor: pointer;
+	margin-left: 10px;
+	font-size: 18px;
+cursor: pointer;
 }
 .line-separator {
-    padding-bottom: 3px;
-    margin-bottom: 3px;
+	/*<!--            border-bottom: 1px dashed black;-->*/
+	padding-bottom: 3px;
+	margin-bottom: 3px;
 }
+
+.INT {
+	background-color:#13A7C5;
+color: yellow;
+} 
+.EXA {
+	background-color:#3FAF05;
+color: yellow;
+} 
+.DGP {
+	background-color:#F49D37;
+color: yellow;
+} 
+.ETP {
+	background-color:#656565;
+color: yellow;
+} 
+.PEC {
+	background-color:#C02047;
+color: yellow;
+} 
+.URG {
+	background-color:#E4DF2D;
+color: red;
+} 
+
+.ANN {
+	background-color:#8D880E;
+color: yellow;
+} 
+.COM {
+	background-color:#6B8E23;
+color: yellow;
+} 
+.CLI {
+	background-color:#5A189A;
+color: yellow;
+} 
+.ICO {
+	background-color:#43AA8B;
+color: yellow;
+} 
+.PRO {
+	background-color:#140F2D;
+color: yellow;
+} 
 </style>
+
 </head>
 <body>
-2025-03-07 15:21:25 version
+2025-03-07 15:21:25
 <label for="fileSelector">Sélectionnez un SDD :</label>
 <select id="fileSelector" onchange="loadFileContent(this.value)">
     <option value="">-- Choisissez un SDD --</option>
