@@ -27,63 +27,16 @@
             cursor: pointer;
         }
         .line-separator {
-/*<!--            border-bottom: 1px dashed black;-->*/
             padding-bottom: 3px;
             margin-bottom: 3px;
         }
-
-.INT {
-    background-color:#13A7C5;
-    color: yellow;
-} 
-.EXA {
-    background-color:#3FAF05;
-    color: yellow;
-} 
-.DGP {
-    background-color:#F49D37;
-    color: yellow;
-} 
-.ETP {
-    background-color:#656565;
-    color: yellow;
-} 
-.PEC {
-    background-color:#C02047;
-    color: yellow;
-} 
-.URG {
-    background-color:#E4DF2D;
-    color: red;
-} 
-
-.ANN {
-    background-color:#8D880E;
-    color: yellow;
-} 
-.COM {
-    background-color:#6B8E23;
-    color: yellow;
-} 
-.CLI {
-    background-color:#5A189A;
-    color: yellow;
-} 
-.ICO {
-    background-color:#43AA8B;
-    color: yellow;
-} 
-.PRO {
-    background-color:#140F2D;
-    color: yellow;
-} 
     </style>
 </head>
 <body>
 
     <label for="fileSelector">Sélectionnez un SDD :</label>
     <select id="fileSelector" onchange="loadFileContent(this.value)">
-        <option value="">-- Choisissez un SDD --</option>
+        <option value="">-- Chargement... --</option>
     </select>
     <span class="nav-buttons" onclick="navigateSDD(-1)">←</span>
     <span class="nav-buttons" onclick="navigateSDD(1)">→</span>
@@ -91,23 +44,37 @@
     <div id="fileContent"></div>
 
     <script>
-        function applyTagStyles(content) {
-            let tagMappings = {
-                "#INT": "INT", "#URG": "URG", "#DGP": "DGP", "#COM": "COM", "#ANN": "ANN",
-                "#CLI": "CLI", "#ETP": "ETP", "#PEC": "PEC", "#EXA": "EXA", "#PRO": "PRO", "#ICO": "ICO"
-            };
+        async function fetchFirstLine(fileName) {
+            try {
+                let response = await fetch(`./nvalt/${fileName}.txt`);
+                if (!response.ok) throw new Error("Fichier introuvable");
+                let text = await response.text();
+                let firstLine = text.split("\n")[0].replace("* SDD-", "").trim(); 
+                return firstLine || `SDD-${fileName}`; 
+            } catch (error) {
+                return `SDD-${fileName}`;
+            }
+        }
 
-            let lines = content.split("\n");
-            let formattedContent = lines.map(line => {
-                for (let tag in tagMappings) {
-                    if (line.includes(tag)) {
-                        return `<div class="${tagMappings[tag]} line-separator">${line}</div>`;
-                    }
-                }
-                return `<div class="line-separator">${line}</div>`;
-            }).join("");
+        async function populateSelector() {
+            let select = document.getElementById("fileSelector");
+            select.innerHTML = "";  
 
-            return formattedContent;
+            for (let i = 1; i <= 356; i++) {
+                let fileName = i.toString().padStart(3, '0');
+                let label = await fetchFirstLine(fileName);
+
+                let option = document.createElement("option");
+                option.value = fileName;
+                option.textContent = label;
+                select.appendChild(option);
+            }
+
+            // Charger le premier fichier par défaut
+            if (select.options.length > 0) {
+                select.selectedIndex = 0;
+                loadFileContent(select.value);
+            }
         }
 
         function loadFileContent(fileName) {
@@ -125,21 +92,13 @@
             if (!select.value) return;
             let currentIndex = select.selectedIndex;
             let newIndex = currentIndex + direction;
-            if (newIndex >= 1 && newIndex < select.options.length) {
+            if (newIndex >= 0 && newIndex < select.options.length) {
                 select.selectedIndex = newIndex;
                 loadFileContent(select.value);
             }
         }
 
-        window.onload = function() {
-            let select = document.getElementById("fileSelector");
-            for (let i = 1; i <= 356; i++) {
-                let option = document.createElement("option");
-                option.value = i.toString().padStart(3, '0');
-                option.textContent = `${option.value}`;
-                select.appendChild(option);
-            }
-        };
+        window.onload = populateSelector;
     </script>
 
 </body>
