@@ -498,8 +498,9 @@
                 select.appendChild(option);
             }
         };
+    </script>
 
-
+    <script>
         function updateSelectorLabels() {
             let select = document.getElementById("fileSelector");
             let options = select.options;
@@ -512,6 +513,25 @@
             }
         }
 
+        function loadFileContent(fileName) {
+            if (!fileName) return;
+            fetch(`./nvalt/${fileName}.txt`)
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('fileContent').innerHTML = `<h2>SDD-${fileName}</h2>${data}`;
+                })
+                .catch(() => alert("Erreur lors du chargement du fichier."));
+        }
+
+        function navigateSDD(direction) {
+            let select = document.getElementById("fileSelector");
+            let currentIndex = select.selectedIndex;
+            let newIndex = currentIndex + direction;
+            if (newIndex >= 1 && newIndex < select.options.length) {
+                select.selectedIndex = newIndex;
+                loadFileContent(select.value);
+            }
+        }
 
         window.onload = updateSelectorLabels; 
     </script>
