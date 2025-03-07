@@ -5,43 +5,442 @@
 <title>SDD Explorer</title>
 <style>
 body {
-    font-family: Arial, sans-serif;
+	font-family: Arial, sans-serif;
+}
+.tag {
+	font-weight: bold;
+padding: 2px 5px;
+	 border-radius: 3px;
 }
 #fileContent {
-    margin-top: 20px;
-    white-space: pre-line;
-    font-size: 18px;
+	margin-top: 20px;
+	white-space: pre-line;
+	font-size: 18px;
 }
 #fileSelector {
-    font-size: 18px;
-    padding: 5px;
+	font-size: 18px;
+padding: 5px;
 }
 .nav-buttons {
-    margin-left: 10px;
-    font-size: 18px;
-    cursor: pointer;
+	margin-left: 10px;
+	font-size: 18px;
+cursor: pointer;
 }
 .line-separator {
-    padding-bottom: 3px;
-    margin-bottom: 3px;
+	/*<!--            border-bottom: 1px dashed black;-->*/
+	padding-bottom: 3px;
+	margin-bottom: 3px;
 }
-#searchResults {
-    margin-top: 20px;
-}
+
+.INT {
+	background-color:#13A7C5;
+color: yellow;
+} 
+.EXA {
+	background-color:#3FAF05;
+color: yellow;
+} 
+.DGP {
+	background-color:#F49D37;
+color: yellow;
+} 
+.ETP {
+	background-color:#656565;
+color: yellow;
+} 
+.PEC {
+	background-color:#C02047;
+color: yellow;
+} 
+.URG {
+	background-color:#E4DF2D;
+color: red;
+} 
+
+.ANN {
+	background-color:#8D880E;
+color: yellow;
+} 
+.COM {
+	background-color:#6B8E23;
+color: yellow;
+} 
+.CLI {
+	background-color:#5A189A;
+color: yellow;
+} 
+.ICO {
+	background-color:#43AA8B;
+color: yellow;
+} 
+.PRO {
+	background-color:#140F2D;
+color: yellow;
+} 
 </style>
+
 </head>
 <body>
-
 <label for="fileSelector">Sélectionnez un SDD :</label>
 <select id="fileSelector" onchange="loadFileContent(this.value)">
-    <option value="">-- Choisissez un SDD --</option>
-    <option value="001">001 Constipation</option>
-    <option value="002">002 Diarrhée</option>
-    <option value="003">003 Distension abdominale</option>
-    <option value="004">004 Douleur abdominale</option>
-    <option value="005">005 Douleur anale</option>
-    <option value="006">006 Hépatomégalie</option>
-    <!-- Ajoute ici toutes les options jusqu'à 356 -->
+<option value="">-- Choisissez un SDD --</option>
+<option value="001">001 Constipation</option>
+<option value="002">002 Diarrhée</option>
+<option value="003">003 Distension abdominale</option>
+<option value="004">004 Douleur abdominale</option>
+<option value="005">005 Douleur anale</option>
+<option value="006">006 Hépatomégalie</option>
+<option value="007">007 Incontinence fécale</option>
+<option value="008">008 Masse abdominale</option>
+<option value="009">009 Masse - tuméfaction pariétale</option>
+<option value="010">010 Méléna - rectorragie</option>
+<option value="011">011 Régurgitation du nourrisson</option>
+<option value="012">012 Station au sol prolongée</option>
+<option value="013">013 Nausées-vomissements</option>
+<option value="014">014 Emission de sang par la bouche</option>
+<option value="015">015 Anomalies de couleur des extrémités</option>
+<option value="016">016 Adénopathies unique ou multiples</option>
+<option value="017">017 Amaigrissement</option>
+<option value="018">018 Découverte d'anomalies à l'auscultation cardiaque</option>
+<option value="019">019 Découverte d'un souffle vasculaire</option>
+<option value="020">020 Découverte d'anomalies à l'auscultation pulmonaire</option>
+<option value="021">021 Asthénie</option>
+<option value="022">022 Diminution de la diurèse</option>
+<option value="023">023 Anomalie de la miction</option>
+<option value="024">024 Bouffées de chaleur</option>
+<option value="025">025 Hypersudation</option>
+<option value="026">026 Anomalies de la croissance staturo-pondérale</option>
+<option value="027">027 Chute de la personne âgée</option>
+<option value="028">028 Coma et troubles de conscience</option>
+<option value="029">029 Contracture musculaire localisée ou généralisée</option>
+<option value="030">030 Dénutrition - malnutrition</option>
+<option value="031">031 Perte d'autonomie progressive</option>
+<option value="032">032 Deshydratation de l'enfant</option>
+<option value="033">033 Difficultés à procréer</option>
+<option value="034">034 Douleur aiguë post-opératoire</option>
+<option value="035">035 Douleur chronique</option>
+<option value="036">036 Douleur de la région lombaire</option>
+<option value="037">037 Éruptions chez l'enfant</option>
+<option value="038">038 État de mort apparente</option>
+<option value="039">039 Examen du nouveau-né à terme</option>
+<option value="040">040 Écoulement mamelonnaire</option>
+<option value="041">041 Gynécomastie</option>
+<option value="042">042 Hypertension artérielle</option>
+<option value="043">043 Découverte d'une hypotension artérielle</option>
+<option value="044">044 Hyperthermie - fièvre</option>
+<option value="045">045 Hypothermie</option>
+<option value="046">046 Hypotonie - malaise du nourisson</option>
+<option value="047">047 Ictère</option>
+<option value="048">048 Ictere chez le nouveau-né</option>
+<option value="049">049 Ivresse aiguë</option>
+<option value="050">050 Malaise - perte de connaissance</option>
+<option value="051">051 Obésité et surpoids</option>
+<option value="052">052 Odynophagie  -  dysphagie</option>
+<option value="053">053 Hypertension durant la grossesse</option>
+<option value="054">054 Œdème localisé ou diffus</option>
+<option value="055">055 Paleur de l'enfant</option>
+<option value="056">056 Raideur articulaire</option>
+<option value="057">057 Prise de poids</option>
+<option value="058">058 Splénomégalie</option>
+<option value="059">059 Tendance au saignement</option>
+<option value="060">060 Hémorragie aigue</option>
+<option value="061">061 Syndrome polyuro-polydypsique</option>
+<option value="062">062 Troubles de déglutition ou fausse-route</option>
+<option value="063">063 Troubles sexuels et troubles de l'érection</option>
+<option value="064">064 Vertige et sensation vertigineuse</option>
+<option value="065">065 Déformation rachidienne</option>
+<option value="066">066 Apparition d'une difficulté à la marche</option>
+<option value="067">067 Douleurs articulaires</option>
+<option value="068">068 Boiterie</option>
+<option value="069">069 Claudication intermittente d'un membre</option>
+<option value="070">070 Déformation articulaire</option>
+<option value="071">071 Douleur d'un membre (supérieur ou inférieur)</option>
+<option value="072">072 Douleur du rachis (cervical, dorsal ou lombaire)</option>
+<option value="073">073 Douleur, brûlure, crampes et paresthésies</option>
+<option value="074">074 Faiblesse musculaire</option>
+<option value="075">075 Instabilité du genou</option>
+<option value="076">076 Jambes lourdes</option>
+<option value="077">077 Myalgies</option>
+<option value="078">078 Acné</option>
+<option value="079">079 Hirsutisme</option>
+<option value="080">080 Alopécie et chute des cheveux</option>
+<option value="081">081 Anomalie des ongles</option>
+<option value="082">082 Bulles, éruption bulleuse</option>
+<option value="083">083 Cicatrice anormale</option>
+<option value="084">084 Lésion cutanée  -  "grain de beauté"</option>
+<option value="085">085 Érythème</option>
+<option value="086">086 Escarre</option>
+<option value="087">087 Grosse jambe rouge aiguë</option>
+<option value="088">088 Prurit</option>
+<option value="089">089 Purpura - ecchymose - hématome</option>
+<option value="090">090 Tache cutanée du nourrisson</option>
+<option value="091">091 Anomalies des muqueuses</option>
+<option value="092">092 Ulcère cutané</option>
+<option value="093">093 Vésicules, éruption vésiculeuse (cutaneo-muqueuse)</option>
+<option value="094">094 Troubles du cycle menstruel</option>
+<option value="095">095 Découverte d'une anomalie au toucher rectal</option>
+<option value="096">096 Brulure mictionnelle</option>
+<option value="097">097 Rétention aigue d'urines</option>
+<option value="098">098 Contraction utérine chez une femme enceinte</option>
+<option value="099">099 Douleur pelvienne</option>
+<option value="100">100 Douleur testiculaire</option>
+<option value="101">101 Écoulement urétral</option>
+<option value="102">102 Hématurie</option>
+<option value="103">103 Incontinence urinaire</option>
+<option value="104">104 Leucorrhées</option>
+<option value="105">105 Découverte d'une malformation de l'appareil génital</option>
+<option value="106">106 Masse pelvienne</option>
+<option value="107">107 Prolapsus</option>
+<option value="108">108 Anomalie des bourses</option>
+<option value="109">109 Perte de liquide chez une femme enceinte avant terme</option>
+<option value="110">110 Saignement génital anormal en post-partum</option>
+<option value="111">111 Saignement génital durant la grossesse</option>
+<option value="112">112 Saignement génital anormal (hors grossesse connue)</option>
+<option value="113">113 Puberté précoce ou retardée</option>
+<option value="114">114 Agitation</option>
+<option value="115">115 Anomalie du développement psychomoteur</option>
+<option value="116">116 Anxiété</option>
+<option value="117">117 Apathie</option>
+<option value="118">118 Céphalée</option>
+<option value="119">119 Confusion mentale - désorientation</option>
+<option value="120">120 Convulsions</option>
+<option value="121">121 Déficit neurologique sensitif et - ou moteur</option>
+<option value="122">122 Hallucinations</option>
+<option value="123">123 Humeur triste - douleur morale</option>
+<option value="124">124 Idées délirantes</option>
+<option value="125">125 Humeur exaltée ou augmentation de l'énergie et des activités</option>
+<option value="126">126 Mouvements anormaux</option>
+<option value="127">127 Paralysie faciale</option>
+<option value="128">128 Tremblements</option>
+<option value="129">129 Troubles de l'attention</option>
+<option value="130">130 Troubles de l'équilibre</option>
+<option value="131">131 Troubles de mémoire - déclin cognitif</option>
+<option value="132">132 Troubles des conduites alimentaires (anorexie ou boulimie)</option>
+<option value="133">133 Troubles du comportement chez enfant et adolescent</option>
+<option value="134">134 Troubles du langage et - ou phonation</option>
+<option value="135">135 Troubles du sommeil, insomnie ou hypersomnie</option>
+<option value="136">136 Troubles obsessionnels, comportement compulsif</option>
+<option value="137">137 Troubles psychiatriques en post-partum</option>
+<option value="138">138 Anomalie de la vision</option>
+<option value="139">139 Anomalies palpébrales</option>
+<option value="140">140 Baisse de l'audition - surdité</option>
+<option value="141">141 Sensation de brûlure oculaire</option>
+<option value="142">142 Corps étranger de l'oreille ou du nez</option>
+<option value="143">143 Diplopie</option>
+<option value="144">144 Douleur cervico-faciale</option>
+<option value="145">145 Douleur pharyngée</option>
+<option value="146">146 Dysphonie</option>
+<option value="147">147 Épistaxis</option>
+<option value="148">148 Goitre ou nodule thyroidien</option>
+<option value="149">149 Ingestion ou inhalation d'un corps étranger</option>
+<option value="150">150 Limitation de l'ouverture buccale</option>
+<option value="151">151 Oedème de la face et du cou</option>
+<option value="152">152 Oeil rouge et - ou douloureux</option>
+<option value="153">153 Otalgie</option>
+<option value="154">154 Otorrhée</option>
+<option value="155">155 Rhinorrhée</option>
+<option value="156">156 Ronflements</option>
+<option value="157">157 Strabisme de l'enfant</option>
+<option value="158">158 Tuméfaction cervico-faciale</option>
+<option value="159">159 Bradycardie</option>
+<option value="160">160 Détresse respiratoire aiguë</option>
+<option value="161">161 Douleur thoracique</option>
+<option value="162">162 Dyspnée</option>
+<option value="163">163 Expectoration</option>
+<option value="164">164 Anomalie de l'examen clinique mammaire</option>
+<option value="165">165 Palpitations</option>
+<option value="166">166 Tachycardie</option>
+<option value="167">167 Toux</option>
+<option value="168">168 Brulure</option>
+<option value="169">169 Morsures et piqures</option>
+<option value="170">170 Plaie</option>
+<option value="171">171 Traumatisme abdomino-pelvien</option>
+<option value="172">172 Traumatisme cranien</option>
+<option value="173">173 Traumatisme des membres</option>
+<option value="174">174 Traumatisme facial</option>
+<option value="175">175 Traumatisme rachidien</option>
+<option value="176">176 Traumatisme sévère</option>
+<option value="177">177 Traumatisme thoracique</option>
+<option value="178">178 Demande - prescription raisonnée et choix d'un examen diagnostique</option>
+<option value="179">179 Réaction inflammatoire sur pièce opératoire  - biopsie</option>
+<option value="180">180 Interprétation d'un compte rendu d'anatomopathologie</option>
+<option value="181">181 Tumeurs malignes sur pièce opératoire - biopsie</option>
+<option value="182">182 Analyse de la bandelette urinaire</option>
+<option value="183">183 Analyse du liquide cérébro-spinal (lcs)</option>
+<option value="184">184 Prescription et interprétation d'un audiogramme</option>
+<option value="185">185 Réalisation et interprétation d'un éléctrocardiogramme (ecg)</option>
+<option value="186">186 Syndrome inflammatoire aigu ou chronique</option>
+<option value="187">187 Bactérie multirésistante à l’antibiogramme</option>
+<option value="188">188 Découverte de bacilles acido-alcoolo-résistants (baar) sur un crachat</option>
+<option value="189">189 Analyse d'un examen cytobactériologiques des urines (ecbu)</option>
+<option value="190">190 Hémoculture positive</option>
+<option value="191">191 Prescription et interprétation d'un examen microbiologique des selles</option>
+<option value="192">192 Analyse d'un résultat de gaz du sang</option>
+<option value="193">193 Analyse de l'éléctrophorèse des protéines sériques</option>
+<option value="194">194 Analyse du bilan thyroïdien</option>
+<option value="195">195 Analyse du bilan lipidique</option>
+<option value="196">196 Analyse du sédiment urinaire</option>
+<option value="197">197 Analyse des bicarbonates</option>
+<option value="198">198 Choléstase</option>
+<option value="199">199 Créatinine augmentée</option>
+<option value="200">200 Dyscalcémie</option>
+<option value="201">201 Dyskaliémie</option>
+<option value="202">202 Dysnatrémie</option>
+<option value="203">203 Prescription et interprétation de tests allergologiques (patch tests, prick tests, idr) (cedef)</option>
+<option value="204">204 Elévation des marqueurs biochimiques cardiaques</option>
+<option value="205">205 Élévation des enzymes pancréatiques</option>
+<option value="206">206 Élévation des transaminases sans cholestase</option>
+<option value="207">207 Ferritine  -  baisse ou augmentation</option>
+<option value="208">208 Hyperglycémie</option>
+<option value="209">209 Hypoglycémie</option>
+<option value="210">210 Hyperprotidémie</option>
+<option value="211">211 Hypoprotidémie</option>
+<option value="212">212 Protéinurie</option>
+<option value="213">213 Allongement du temps de céphaline activée (tca)</option>
+<option value="214">214 Anomalie des indices érythrocytaires (taux hémoglobine, hématocrite..)</option>
+<option value="215">215 Anomalie des plaquettes</option>
+<option value="216">216 Anomalie leucocytes</option>
+<option value="217">217 Baisse de l'hémoglobine</option>
+<option value="218">218 Diminution du taux de prothrombine (tp)</option>
+<option value="219">219 Hyperéosinophilie</option>
+<option value="220">220 Hyperlymphocytose</option>
+<option value="221">221 Interprétation d'un myélogramme</option>
+<option value="222">222 Prescription et analyse du frottis sanguin</option>
+<option value="223">223 Interprétation de l'hémogramme</option>
+<option value="224">224 Découverte d'une anomalie abdominale à l'examen d'imagerie médicale</option>
+<option value="225">225 Découverte d'une anomalie cervico-faciale à l'examen d'imagerie médicale</option>
+<option value="226">226 Découverte d'une anomalie du cerveau à l'examen d'imagerie médicale</option>
+<option value="227">227 Découverte d'une anomalie médullaire ou vertébrale à l'examen d'imagerie médicale</option>
+<option value="228">228 Découverte d'une anomalie osseuse et articulaire à l'examen d'imagerie médicale</option>
+<option value="229">229 Découverte d'une anomalie pelvienne à l'examen d'imagerie médicale</option>
+<option value="230">230 Découverte d'une anomalie cardio-thoracique à l'imagerie médicale</option>
+<option value="231">231 Demande d'un examen d'imagerie</option>
+<option value="232">232 Demande d'explication d'un patient sur le déroulement, les risques et les bénéfices attendus d'un examen d'imagerie</option>
+<option value="233">233 Identifier - reconnaitre les différents examens d'imagerie (type - fenêtre -  séquences - incidences - injection)</option>
+<option value="234">234 Interprétation d'une recherche d'accès palustre</option>
+<option value="235">235 Découverte diagnostic positif dépistage rapide vih</option>
+<option value="236">236 Interprétation d'un résultat de sérologie</option>
+<option value="237">237 Décès</option>
+<option value="238">238 Demande et préparation aux examens endoscopiques (bronchiques, digestifs)</option>
+<option value="239">239 Explication pré-opératoire et recueil de consentement d'un geste invasif diagnostique ou thérapeutique</option>
+<option value="240">240 Hospitalisation en soins psychiatrique sans consentement</option>
+<option value="241">241 Gestion du sevrage alcoolique contraint</option>
+<option value="242">242 Gestion du sevrage tabagique contraint</option>
+<option value="243">243 Mise en place et suivi d’un appareil d'immobilisation</option>
+<option value="244">244 Mise en place et suivi d’une contention mécanique</option>
+<option value="245">245 Prescription d'un appareillage simple</option>
+<option value="246">246 Prescription d'un soin ambulatoire</option>
+<option value="247">247 Prescription d'une rééducation</option>
+<option value="248">248 Prescription et suivi d'un traitement par anticoagulant et - ou anti-agrégant</option>
+<option value="249">249 Prescrire des ains</option>
+<option value="250">250 Prescrire des antalgiques</option>
+<option value="251">251 Prescrire des corticoïdes par voie générale ou locale</option>
+<option value="252">252 Prescrition d'un hypolipémiant</option>
+<option value="253">253 Prescrire des diurétiques</option>
+<option value="254">254 Prescrire des soins associés à l'initiation d'une chimiothérapie</option>
+<option value="255">255 Prescrire un anti-infectieux</option>
+<option value="256">256 Prescrire un hypnotique - anxiolytique</option>
+<option value="257">257 Prescrire une contraception et contraception d'urgence</option>
+<option value="258">258 Prévention de la douleur liée aux soins</option>
+<option value="259">259 Évaluation et prise en charge de la douleur aiguë</option>
+<option value="260">260 Évaluation et prise en charge de la douleur chronique</option>
+<option value="261">261 Évaluation et prise en charge de la douleur de l'enfant et du nourrisson</option>
+<option value="262">262 Prise en charge d'un accès palustre</option>
+<option value="263">263 Prise en charge d'une ectoparasitose</option>
+<option value="264">264 Adaptation des traitements sur un terrain particulier (IR, IH, grossesse, personne agée...)</option>
+<option value="265">265 Consultation de suivi d'un nourrisson en bonne santé</option>
+<option value="266">266 Consultation de suivi d'un patient polymédiqué</option>
+<option value="267">267 Consultation de suivi d'un patient polymorbide</option>
+<option value="268">268 Consultation de suivi de grossesse normale (1er-2ème et 3ème trimestre)</option>
+<option value="269">269 Consultation de suivi et traitement de fond d'un patient souffrant d'un trouble psychiatrique chronique (hors dépression)</option>
+<option value="270">270 Demande d'amaigrissement</option>
+<option value="271">271 Prescription et surveillance d'une voie d'abord vasculaire</option>
+<option value="272">272 Prescrire et réaliser une transfusion sanguine</option>
+<option value="273">273 Prise en charge d'un allaitement normal et difficile</option>
+<option value="274">274 Prise en charge d'un patient présentant une tuberculose bacillifère</option>
+<option value="275">275 Prise en charge d'une suspicion de thrombophilie</option>
+<option value="276">276 Prise en charge d’un patient en décubitus prolongé</option>
+<option value="277">277 Consultation de suivi d'un patient présentant une lombalgie aiguë ou chronique</option>
+<option value="278">278 Consultation de suivi d'une femme ménopausée</option>
+<option value="279">279 Consultation de suivi d'une pathologie chronique</option>
+<option value="280">280 Prescription d'une insulinothérapie, consultation de suivi, éducation d'un patient diabétique de type 1</option>
+<option value="281">281 Prescription médicamenteuse, consultation de suivi et éducation d'un patient diabétique de type 2 ou ayant un diabète secondaire</option>
+<option value="282">282 Prescription médicamenteuse,consultation de suivi et éducation d'un patient hypertendu</option>
+<option value="283">283 Consultation de suivi et éducation thérapeutique d'un patient asthmatique</option>
+<option value="284">284 Consultation de suivi et éducation thérapeutique d'un patient avec hypothyroïdie</option>
+<option value="285">285 Consultation de suivi et éducation thérapeutique d'un patient avec un antécédent cardiovasculaire</option>
+<option value="286">286 Consultation de suivi et éducation thérapeutique d'un patient bpco</option>
+<option value="287">287 Consultation de suivi et éducation thérapeutique d'un patient insuffisant cardiaque</option>
+<option value="288">288 Consultation de suivi et traitement de fond d'un patient dépressif</option>
+<option value="289">289 Consultation et suivi d'un patient épileptique</option>
+<option value="290">290 Suivi d'un patient en insuffisance rénale chronique</option>
+<option value="291">291 Suivi du patient immunodéprimé</option>
+<option value="292">292 Première consultation d'addictologie</option>
+<option value="293">293 Consultation de suivi addictologie</option>
+<option value="294">294 Consultation de suivi de suivi en gynécologie</option>
+<option value="295">295 Consultation de suivi gériatrique</option>
+<option value="296">296 Consultation de suivi pédiatrique</option>
+<option value="297">297 Consultation du suivi en cancérologie</option>
+<option value="298">298 Consultation et suivi d'un patient ayant des troubles cognitifs</option>
+<option value="299">299 Consultation post événement allergique</option>
+<option value="300">300 Consultation d'anesthésie</option>
+<option value="301">301 Consultation suite à un contage tuberculeux</option>
+<option value="302">302 Consultation aux voyageurs</option>
+<option value="303">303 Prévention - dépistage des cancers de l'adulte</option>
+<option value="304">304 Dépistage du diabète gestationnel chez une femme enceinte</option>
+<option value="305">305 Dépistage et conseils devant une infection sexuellement transmissible</option>
+<option value="306">306 Dépistage et prévention ostéoporose</option>
+<option value="307">307 Dépistage prénatal de la trisomie 21</option>
+<option value="308">308 Depistage neonatale systématique</option>
+<option value="309">309 Patient à risque suicidaire</option>
+<option value="310">310 Prévention chez un malade contagieux</option>
+<option value="311">311 Prévention des infections liées aux soins</option>
+<option value="312">312 Prévention des risques fœtaux</option>
+<option value="313">313 Prévention des risques liés à l'alcool</option>
+<option value="314">314 Prévention des risques liés au tabac</option>
+<option value="315">315 Prévention des risques professionnels</option>
+<option value="316">316 Identifier les conséquences d'une pathologie - situation sur le maintien d'un emploi</option>
+<option value="317">317 Dépistage et prévention des violences faites aux femmes</option>
+<option value="318">318 Prévention de la mort inexpliquée du nourrisson</option>
+<option value="319">319 Prévention du surpoids et de l'obésite</option>
+<option value="320">320 Prévention des maladies cardiovasculaires</option>
+<option value="321">321 Suspicion maltraitance et enfance en danger</option>
+<option value="322">322 Vaccinations de l'adulte et de l'enfant</option>
+<option value="323">323 Prévention de l'exposition aux écrans</option>
+<option value="324">324 Modification thérapeutique du mode de vie (sommeil, activité physique, alimentation...)</option>
+<option value="325">325 Prévention des accidents domestiques</option>
+<option value="326">326 Accident du travail</option>
+<option value="327">327 Annonce d'un diagnostic de maladie grave au patient et - ou à sa famille</option>
+<option value="328">328 Annonce d'une maladie chronique</option>
+<option value="329">329 Conduite à tenir devant une demande d'accès à l'information - au dossier médical</option>
+<option value="330">330 Accompagnement global d'un aidant</option>
+<option value="331">331 Découverte d'un aléa thérapeutique ou d'une erreur médicale</option>
+<option value="332">332 Demande d'interruption volontaire de grossesse</option>
+<option value="333">333 Demande d'un certificat médical initial</option>
+<option value="334">334 Demande de traitement et investigation inappropriés</option>
+<option value="335">335 Évaluation de l'aptitude au sport et rédaction d'un certificat de non contre-indication</option>
+<option value="336">336 Exposition accidentelle aux liquides biologiques</option>
+<option value="337">337 Identification, prise en soin et suivi d'un patient en situation palliative</option>
+<option value="338">338 Prescription médicale chez un patient en situation de précarité</option>
+<option value="339">339 Prescrire un arret de travail</option>
+<option value="340">340 Prise volontaire ou involontaire d'un toxique ou d'un médicament potentiellement toxique</option>
+<option value="341">341 Réaction à un événement potentiellement traumatique</option>
+<option value="342">342 Rédaction d'une ordonnance - d'un courrier médical</option>
+<option value="343">343 Refus de traitement et de prise en charge recommandés</option>
+<option value="344">344 Situation de harcèlement</option>
+<option value="345">345 Situation de handicap</option>
+<option value="346">346 Situation sanitaire exceptionnelle</option>
+<option value="347">347 Situation sociale précaire et isolement</option>
+<option value="348">348 Suspicion d'un effet indésidable des médicaments ou d'un soin</option>
+<option value="349">349 Troubles des interactions sociales  -  difficultés de socialisation</option>
+<option value="350">350 Violences sexuelles</option>
+<option value="351">351 Violences psychologiques et - ou physiques</option>
+<option value="352">352 Expliquer un traitement au patient (adulte - enfant - adolescent)</option>
+<option value="353">353 Identifier une situation de déconditionnement</option>
+<option value="354">354 Evaluation de l'observance thérapeutique</option>
+<option value="355">355 Organisation de la sortie d'hospitalisation</option>
+<option value="356">356 Information et suivi d'un patient en chirurgie ambulatoire</option>
+<!-- Ajoute ici toutes les options jusqu'à 356 -->
 </select>
 <span class="nav-buttons" onclick="navigateSDD(-1)">←</span>
 <span class="nav-buttons" onclick="navigateSDD(1)">→</span>
@@ -49,84 +448,82 @@ body {
 <div id="fileContent"></div>
 
 <hr>
-
-<!-- Zone de recherche -->
 <label for="searchInput">Recherche dans tous les fichiers :</label>
 <input type="text" id="searchInput" oninput="searchFiles(this.value)">
 <div id="searchResults"></div>
 
+
 <script>
 function applyTagStyles(content) {
-    let tagMappings = {
-        "#INT": "INT", "#URG": "URG", "#DGP": "DGP", "#COM": "COM", "#ANN": "ANN",
-        "#CLI": "CLI", "#ETP": "ETP", "#PEC": "PEC", "#EXA": "EXA", "#PRO": "PRO", "#ICO": "ICO"
-    };
+	let tagMappings = {
+		"#INT": "INT", "#URG": "URG", "#DGP": "DGP", "#COM": "COM", "#ANN": "ANN",
+		"#CLI": "CLI", "#ETP": "ETP", "#PEC": "PEC", "#EXA": "EXA", "#PRO": "PRO", "#ICO": "ICO"
+	};
 
-    let lines = content.split("\n");
-    let formattedContent = lines.map(line => {
-        for (let tag in tagMappings) {
-            if (line.includes(tag)) {
-                return `<div class="${tagMappings[tag]} line-separator">${line}</div>`;
-            }
-        }
-        return `<div class="line-separator">${line}</div>`;
-    }).join("");
+	let lines = content.split("\n");
+	let formattedContent = lines.map(line => {
+			for (let tag in tagMappings) {
+			if (line.includes(tag)) {
+			return `<div class="${tagMappings[tag]} line-separator">${line}</div>`;
+			}
+			}
+			return `<div class="line-separator">${line}</div>`;
+			}).join("");
 
-    return formattedContent;
+	return formattedContent;
 }
 
 function loadFileContent(fileName) {
-    if (!fileName) return;
-    fetch(`./nvalt/${fileName}.txt`)
-        .then(response => response.text())
-        .then(data => {
-            document.getElementById('fileContent').innerHTML = `<h2>SDD-${fileName}</h2>${applyTagStyles(data)}`;
-        })
-        .catch(() => alert("Erreur lors du chargement du fichier."));
+	if (!fileName) return;
+	fetch(`./nvalt/${fileName}.txt`)
+		.then(response => response.text())
+		.then(data => {
+				document.getElementById('fileContent').innerHTML = `<h2>SDD-${fileName}</h2>${applyTagStyles(data)}`;
+				})
+	.catch(() => alert("Erreur lors du chargement du fichier."));
 }
 
 function navigateSDD(direction) {
-    let select = document.getElementById("fileSelector");
-    let currentIndex = select.selectedIndex;
-    let newIndex = currentIndex + direction;
-    if (newIndex >= 1 && newIndex < select.options.length) {
-        select.selectedIndex = newIndex;
-        loadFileContent(select.value);
-    }
+	let select = document.getElementById("fileSelector");
+	let currentIndex = select.selectedIndex;
+	let newIndex = currentIndex + direction;
+	if (newIndex >= 1 && newIndex < select.options.length) {
+		select.selectedIndex = newIndex;
+		loadFileContent(select.value);
+	}
 }
-
 async function searchFiles(keyword) {
-    if (keyword.length < 3) {
-        document.getElementById("searchResults").innerHTML = "";
-        return;
-    }
+	if (keyword.length < 3) {
+		document.getElementById("searchResults").innerHTML = "";
+		return;
+	}
 
-    let searchResults = document.getElementById("searchResults");
-    searchResults.innerHTML = "<p>Recherche en cours...</p>";
+	let searchResults = document.getElementById("searchResults");
+	searchResults.innerHTML = "<p>Recherche en cours...</p>";
 
-    let files = ["001", "002", "003", "004", "005", "006"]; // Liste des fichiers à chercher
+	let files = ["001", "002", "003", "004", "005", "006"]; // Liste des fichiers à chercher
 
-    let resultsHTML = "";
+	let resultsHTML = "";
 
-    for (let fileName of files) {
-        try {
-            let response = await fetch(`./nvalt/${fileName}.txt`);
-            let text = await response.text();
-            let matchingLines = text.split("\n").filter(line => line.toLowerCase().includes(keyword.toLowerCase()));
+	for (let fileName of files) {
+		try {
+			let response = await fetch(`./nvalt/${fileName}.txt`);
+			let text = await response.text();
+			let matchingLines = text.split("\n").filter(line => line.toLowerCase().includes(keyword.toLowerCase()));
 
-            if (matchingLines.length > 0) {
-                resultsHTML += `<h3>SDD-${fileName}</h3><ul>`;
-                matchingLines.forEach(line => {
-                    resultsHTML += `<li>${line}</li>`;
-                });
-                resultsHTML += `</ul>`;
-            }
-        } catch (error) {
-            console.error(`Erreur lors de la lecture du fichier ${fileName}:`, error);
-        }
-    }
+			if (matchingLines.length > 0) {
+				resultsHTML += `<h3>SDD-${fileName}</h3><ul>`;
+				matchingLines.forEach(line => {
+						resultsHTML += `<li>${line}</li>`;
+						});
+				resultsHTML += `</ul>`;
+			}
+		} catch (error) {
+			console.error(`Erreur lors de la lecture du fichier ${fileName}:`, error);
+		}
+	}
 
-    searchResults.innerHTML = resultsHTML || "<p>Aucun résultat trouvé.</p>";
+	searchResults.innerHTML = resultsHTML || "<p>Aucun résultat trouvé.</p>";
 }
 </script>
 
