@@ -103,7 +103,6 @@ color: yellow;
 
 </head>
 <body>
-<div id="leftPanel">
 <label for="fileSelector">Sélectionnez un SDD :</label>
 <select id="fileSelector" onchange="loadFileContent(this.value)">
 <option value="">-- Choisissez un SDD --</option>
@@ -469,13 +468,10 @@ color: yellow;
 <span class="nav-buttons" onclick="navigateSDD(1)">→</span>
 
 <div id="fileContent"></div>
-</div>
 <hr>
-<div id="rightPanel">
 <label for="searchInput">Recherche dans tous les fichiers :</label>
 <input type="text" id="searchInput" oninput="searchFiles(this.value)">
 <div id="searchResults"></div>
-</div>
 
 
 <script>
@@ -570,7 +566,7 @@ async function searchFiles(keyword) {
 </script>
 
 <div class="footer">
-2025-03-07 17:44:56
+2025-03-07 17:52:49
 </div>
 </body>
 </html>
