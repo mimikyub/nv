@@ -22,6 +22,18 @@ align-items: center;
 z-index: 1000;
 }
 
+    #fixedContent {
+        position: fixed;
+        top: 60px; /* Juste sous la barre */
+        left: 0;
+        width: 100%;
+        background-color: #ffffff;
+        border-bottom: 2px solid #ccc;
+        padding: 10px;
+        z-index: 900;
+        max-height: 200px; /* Ajuste la hauteur max pour ne pas occuper trop d'espace */
+        overflow-y: auto; /* Active le défilement interne si le contenu est long */
+    }
 .footer {
 position: fixed;
 bottom: 0;
@@ -470,7 +482,9 @@ color: yellow;
 <span class="nav-buttons" onclick="navigateSDD(-1)">←</span>
 <span class="nav-buttons" onclick="navigateSDD(1)">→</span><br>
 </div>
+<div id="fixedContent">
 <div id="fileContent"></div>
+</div>
 <hr>
 <label for="searchInput">Recherche dans tous les fichiers :</label>
 <input type="text" id="searchInput" oninput="searchFiles(this.value)">
@@ -569,7 +583,7 @@ async function searchFiles(keyword) {
 </script>
 
 <div class="footer">
-2025-03-07 18:41:00
+2025-03-07 18:49:23
 </div>
 </body>
 </html>
