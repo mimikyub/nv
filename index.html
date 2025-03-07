@@ -479,12 +479,13 @@ color: yellow;
 </select>
 <span class="nav-buttons" onclick="navigateSDD(-1)">←</span>
 <span class="nav-buttons" onclick="navigateSDD(1)">→</span><br>
+<label for="searchInput">Recherche dans tous les fichiers :</label>
+<input type="text" id="searchInput" oninput="searchFiles(this.value)">
+
 </div>
 <div id="fileContent"></div>
 
 <hr>
-<label for="searchInput">Recherche dans tous les fichiers :</label>
-<input type="text" id="searchInput" oninput="searchFiles(this.value)">
 <div id="searchResults"></div>
 
 
