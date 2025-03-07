@@ -7,6 +7,11 @@
         body {
             font-family: Arial, sans-serif;
         }
+        .tag {
+            font-weight: bold;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
         #fileContent {
             margin-top: 20px;
             white-space: pre-line;
@@ -22,12 +27,60 @@
             cursor: pointer;
         }
         .line-separator {
+/*<!--            border-bottom: 1px dashed black;-->*/
             padding-bottom: 3px;
             margin-bottom: 3px;
         }
+
+.INT {
+    background-color:#13A7C5;
+    color: yellow;
+} 
+.EXA {
+    background-color:#3FAF05;
+    color: yellow;
+} 
+.DGP {
+    background-color:#F49D37;
+    color: yellow;
+} 
+.ETP {
+    background-color:#656565;
+    color: yellow;
+} 
+.PEC {
+    background-color:#C02047;
+    color: yellow;
+} 
+.URG {
+    background-color:#E4DF2D;
+    color: red;
+} 
+
+.ANN {
+    background-color:#8D880E;
+    color: yellow;
+} 
+.COM {
+    background-color:#6B8E23;
+    color: yellow;
+} 
+.CLI {
+    background-color:#5A189A;
+    color: yellow;
+} 
+.ICO {
+    background-color:#43AA8B;
+    color: yellow;
+} 
+.PRO {
+    background-color:#140F2D;
+    color: yellow;
+} 
     </style>
 </head>
 <body>
+
 
     <label for="fileSelector">Sélectionnez un SDD :</label>
     <select id="fileSelector" onchange="loadFileContent(this.value)">
@@ -395,16 +448,57 @@
 
     <div id="fileContent"></div>
 
-    <script>
-        function fetchFirstLine(fileName) {
-            return fetch(`./nvalt/${fileName}.txt`)
-                .then(response => response.text())
-                .then(text => {
-                    let firstLine = text.split("\n")[0].replace("* SDD-", "").trim();
-                    return firstLine || `SDD-${fileName}`;
-                })
-                .catch(() => `SDD-${fileName}`);
+  <script>
+        function applyTagStyles(content) {
+            let tagMappings = {
+                "#INT": "INT", "#URG": "URG", "#DGP": "DGP", "#COM": "COM", "#ANN": "ANN",
+                "#CLI": "CLI", "#ETP": "ETP", "#PEC": "PEC", "#EXA": "EXA", "#PRO": "PRO", "#ICO": "ICO"
+            };
+
+            let lines = content.split("\n");
+            let formattedContent = lines.map(line => {
+                for (let tag in tagMappings) {
+                    if (line.includes(tag)) {
+                        return <div class="${tagMappings[tag]} line-separator">${line}</div>;
+                    }
+                }
+                return <div class="line-separator">${line}</div>;
+            }).join("");
+
+            return formattedContent;
         }
+
+        function loadFileContent(fileName) {
+            if (!fileName) return;
+            fetch(./nvalt/${fileName}.txt)
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('fileContent').innerHTML = <h2>SDD-${fileName}</h2>${applyTagStyles(data)};
+                })
+                .catch(error => alert("Erreur lors du chargement du fichier : " + error));
+        }
+
+        function navigateSDD(direction) {
+            let select = document.getElementById("fileSelector");
+            if (!select.value) return;
+            let currentIndex = select.selectedIndex;
+            let newIndex = currentIndex + direction;
+            if (newIndex >= 1 && newIndex < select.options.length) {
+                select.selectedIndex = newIndex;
+                loadFileContent(select.value);
+            }
+        }
+
+        window.onload = function() {
+            let select = document.getElementById("fileSelector");
+            for (let i = 1; i <= 356; i++) {
+                let option = document.createElement("option");
+                option.value = i.toString().padStart(3, '0');
+                option.textContent = ${option.value};
+                select.appendChild(option);
+            }
+        };
+
 
         function updateSelectorLabels() {
             let select = document.getElementById("fileSelector");
@@ -418,25 +512,6 @@
             }
         }
 
-        function loadFileContent(fileName) {
-            if (!fileName) return;
-            fetch(`./nvalt/${fileName}.txt`)
-                .then(response => response.text())
-                .then(data => {
-                    document.getElementById('fileContent').innerHTML = `<h2>SDD-${fileName}</h2>${data}`;
-                })
-                .catch(() => alert("Erreur lors du chargement du fichier."));
-        }
-
-        function navigateSDD(direction) {
-            let select = document.getElementById("fileSelector");
-            let currentIndex = select.selectedIndex;
-            let newIndex = currentIndex + direction;
-            if (newIndex >= 1 && newIndex < select.options.length) {
-                select.selectedIndex = newIndex;
-                loadFileContent(select.value);
-            }
-        }
 
         window.onload = updateSelectorLabels; 
     </script>
