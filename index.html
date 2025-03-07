@@ -28,7 +28,7 @@ cursor: pointer;
 </style>
 </head>
 <body>
-2025-03-07 15:14:36
+2025-03-07 15:17:02
 <label for="fileSelector">Sélectionnez un SDD :</label>
 <select id="fileSelector" onchange="loadFileContent(this.value)">
 <option value="">-- Choisissez un SDD --</option>
@@ -442,7 +442,7 @@ function loadFileContent(fileName) {
 	fetch(`./nvalt/${fileName}.txt`)
 		.then(response => response.text())
 		.then(data => {
-				document.getElementById('fileContent').innerHTML = <h2>SDD-${fileName}</h2>${applyTagStyles(data)};
+				document.getElementById('fileContent').innerHTML = `<h2>SDD-${fileName}</h2>${applyTagStyles(data)}`;
 				})
 	.catch(() => alert("Erreur lors du chargement du fichier."));
 }
