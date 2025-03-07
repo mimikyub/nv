@@ -510,7 +510,11 @@ async function searchFiles(keyword) {
 	let searchResults = document.getElementById("searchResults");
 	searchResults.innerHTML = "<p>Recherche en cours...</p>";
 
-	let files = ["001", "002", "003", "004", "005", "006"]; // Liste des fichiers à chercher
+	let files = [];
+	for (let i = 0; i <= 356; i++) {
+	    // Ajouter chaque numéro formaté à trois chiffres
+	    files.push(i.toString().padStart(3, '0'));
+	}
 
 	let resultsHTML = "";
 
@@ -538,7 +542,7 @@ async function searchFiles(keyword) {
 
 <div class="footer">
 2025-03-07 16:50:02
-    </div>
+</div>
 </body>
 </html>
 
