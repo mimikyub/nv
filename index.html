@@ -488,19 +488,7 @@
                 loadFileContent(select.value);
             }
         }
-
-        window.onload = function() {
-            let select = document.getElementById("fileSelector");
-            for (let i = 1; i <= 356; i++) {
-                let option = document.createElement("option");
-                option.value = i.toString().padStart(3, '0');
-                option.textContent = ${option.value};
-                select.appendChild(option);
-            }
-        };
-    </script>
-
-    <script>
+ 
         function updateSelectorLabels() {
             let select = document.getElementById("fileSelector");
             let options = select.options;
@@ -518,7 +506,7 @@
             fetch(`./nvalt/${fileName}.txt`)
                 .then(response => response.text())
                 .then(data => {
-                    document.getElementById('fileContent').innerHTML = `<h2>SDD-${fileName}</h2>${data}`;
+				document.getElementById('fileContent').innerHTML = <h2>SDD-${fileName}</h2>${applyTagStyles(data)};
                 })
                 .catch(() => alert("Erreur lors du chargement du fichier."));
         }
@@ -534,6 +522,20 @@
         }
 
         window.onload = updateSelectorLabels; 
+
+
+/*        window.onload = function() {
+            let select = document.getElementById("fileSelector");
+            for (let i = 1; i <= 356; i++) {
+                let option = document.createElement("option");
+                option.value = i.toString().padStart(3, '0');
+                option.textContent = ${option.value};
+                select.appendChild(option);
+            }
+        };
+*/
+
+ 
     </script>
 
 </body>
