@@ -7,19 +7,21 @@
 body {
 	font-family: Arial, sans-serif;
 }
- #topBar {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        background-color: #f8f8f8;
-        padding: 10px;
-        border-bottom: 2px solid #ccc;
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        z-index: 1000;
-    }
+
+#topBar {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 50px; /* Assure que la barre a une taille définie */
+background-color: #f8f8f8;
+padding: 10px;
+border-bottom: 2px solid #ccc;
+display: flex;
+align-items: center;
+justify-content: space-between;
+z-index: 1000;
+}
 
  .footer {
             position: fixed;
@@ -568,7 +570,7 @@ async function searchFiles(keyword) {
 </script>
 
 <div class="footer">
-2025-03-07 18:15:47
+2025-03-07 18:22:43
 </div>
 </body>
 </html>
