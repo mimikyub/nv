@@ -501,6 +501,17 @@ function navigateSDD(direction) {
 		loadFileContent(select.value);
 	}
 }
+async function fetchFirstLine(fileName) {
+    try {
+	let response = await fetch(`./nvalt/${fileName}.txt`);
+	if (!response.ok) throw new Error("Fichier introuvable");
+	let text = await response.text();
+	let firstLine = text.split("\n")[0].replace("* SDD-", "").trim(); 
+	return firstLine || `SDD-${fileName}`; 
+    } catch (error) {
+	return `SDD-${fileName}`;
+    }
+}
 async function searchFiles(keyword) {
 	if (keyword.length < 3) {
 		document.getElementById("searchResults").innerHTML = "";
@@ -522,10 +533,11 @@ async function searchFiles(keyword) {
 		try {
 			let response = await fetch(`./nvalt/${fileName}.txt`);
 			let text = await response.text();
+
 			let matchingLines = text.split("\n").filter(line => line.toLowerCase().includes(keyword.toLowerCase()));
 
 			if (matchingLines.length > 0) {
-				resultsHTML += `<h3>SDD-${fileName}</h3><ul>`;
+				resultsHTML += `<h3>${fetchFirstLine(fileName)}</h3><ul>`;
 				matchingLines.forEach(line => {
 						resultsHTML += `<li>${applyTagStyles(line)}</li>`;
 						});
@@ -542,7 +554,7 @@ async function searchFiles(keyword) {
 </script>
 
 <div class="footer">
-2025-03-07 17:02:34
+2025-03-07 17:05:04
 </div>
 </body>
 </html>
