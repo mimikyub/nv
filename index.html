@@ -527,8 +527,9 @@ async function searchFiles(keyword) {
 			if (matchingLines.length > 0) {
 				resultsHTML += `<h3>SDD-${fileName}</h3><ul>`;
 				matchingLines.forEach(line => {
-						resultsHTML += `<li>${line}</li>`;
+						resultsHTML += `<li>${applyTagStyles(line)}</li>`;
 						});
+  
 				resultsHTML += `</ul>`;
 			}
 		} catch (error) {
@@ -541,8 +542,8 @@ async function searchFiles(keyword) {
 </script>
 
 <div class="footer">
+2025-03-07 17:00:18
 </div>
-2025-03-07 16:54:29
 </body>
 </html>
 
