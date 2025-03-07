@@ -116,6 +116,8 @@ color: yellow;
 </head>
 <body>
 <div id="topBar">
+<span class="nav-buttons" onclick="navigateSDD(-1)">←</span>
+<span class="nav-buttons" onclick="navigateSDD(1)">→</span>
 <label for="fileSelector">Sélectionnez un SDD :</label>
 <select id="fileSelector" onchange="loadFileContent(this.value)">
 <option value="">-- Choisissez un SDD --</option>
@@ -477,15 +479,13 @@ color: yellow;
 <option value="356">356 Information et suivi d'un patient en chirurgie ambulatoire</option>
 <!-- Ajoute ici toutes les options jusqu'à 356 -->
 </select>
-<span class="nav-buttons" onclick="navigateSDD(-1)">←</span>
-<span class="nav-buttons" onclick="navigateSDD(1)">→</span><br>
-<label for="searchInput">Recherche dans tous les fichiers :</label>
-<input type="text" id="searchInput" oninput="searchFiles(this.value)">
-
+<br>
 </div>
 <div id="fileContent"></div>
 
 <hr>
+<label for="searchInput">Recherche dans tous les fichiers :</label>
+<input type="text" id="searchInput" oninput="searchFiles(this.value)">
 <div id="searchResults"></div>
 
 
