@@ -484,12 +484,14 @@ color: yellow;
 <div id="fixedContent">
 <div id="fileContent"></div>
 </div>
+<div id="footer">
 <hr>
 <label for="searchInput">Recherche dans tous les fichiers :</label>
 <input type="text" id="searchInput" oninput="searchFiles(this.value)">
 <div id="searchResults"></div>
 
 
+</div>
 <script>
 function applyTagStyles(content) {
 	let tagMappings = {
@@ -581,9 +583,6 @@ async function searchFiles(keyword) {
 }
 </script>
 
-<div class="footer">
-2025-03-07 18:54:04
-</div>
 </body>
 </html>
 
