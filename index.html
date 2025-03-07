@@ -7,6 +7,19 @@
 body {
 	font-family: Arial, sans-serif;
 }
+    #leftPanel {
+        width: 50%;
+        padding: 20px;
+        border-right: 2px solid #ccc;
+        overflow-y: auto;
+    }
+
+    /* Partie droite : Recherche dans les fichiers */
+    #rightPanel {
+        width: 50%;
+        padding: 20px;
+        overflow-y: auto;
+    }
  .footer {
             position: fixed;
             bottom: 0;
@@ -90,6 +103,7 @@ color: yellow;
 
 </head>
 <body>
+<div id="leftPanel">
 <label for="fileSelector">Sélectionnez un SDD :</label>
 <select id="fileSelector" onchange="loadFileContent(this.value)">
 <option value="">-- Choisissez un SDD --</option>
@@ -455,8 +469,9 @@ color: yellow;
 <span class="nav-buttons" onclick="navigateSDD(1)">→</span>
 
 <div id="fileContent"></div>
-
+</div>
 <hr>
+<div id="rightPanel">
 <label for="searchInput">Recherche dans tous les fichiers :</label>
 <input type="text" id="searchInput" oninput="searchFiles(this.value)">
 <div id="searchResults"></div>
@@ -553,8 +568,9 @@ async function searchFiles(keyword) {
 }
 </script>
 
+</div>
 <div class="footer">
-2025-03-07 17:05:04
+2025-03-07 17:44:56
 </div>
 </body>
 </html>
