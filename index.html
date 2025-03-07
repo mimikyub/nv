@@ -537,7 +537,7 @@ async function searchFiles(keyword) {
 			let matchingLines = text.split("\n").filter(line => line.toLowerCase().includes(keyword.toLowerCase()));
 
 			if (matchingLines.length > 0) {
-				resultsHTML += `<h3>${fetchFirstLine(fileName)}</h3><ul>`;
+				resultsHTML += `<h3>${fileName}</h3><ul>`;
 				matchingLines.forEach(line => {
 						resultsHTML += `<li>${applyTagStyles(line)}</li>`;
 						});
