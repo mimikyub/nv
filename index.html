@@ -423,7 +423,7 @@
             fetch(`./nvalt/${fileName}.txt`)
                 .then(response => response.text())
                 .then(data => {
-                    document.getElementById('fileContent').innerHTML = `<h2>SDD-${fileName}</h2>${data}`;
+		document.getElementById('fileContent').innerHTML = <h2>SDD-${fileName}</h2>${applyTagStyles(data)};
                 })
                 .catch(() => alert("Erreur lors du chargement du fichier."));
         }
