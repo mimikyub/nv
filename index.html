@@ -66,8 +66,38 @@ cursor: pointer;
 	margin-bottom: 3px;
 }
 
+   .nav-arrow {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        width: 50px;
+        background-color: rgba(0, 0, 0, 0.2);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 40px;
+        color: white;
+        cursor: pointer;
+        z-index: 1100;
+        transition: background-color 0.3s;
+    }
+
+    .nav-arrow:hover {
+        background-color: rgba(0, 0, 0, 0.4);
+    }
+
+    #leftArrow {
+        left: 0;
+        border-right: 2px solid rgba(255, 255, 255, 0.5);
+    }
+
+    #rightArrow {
+        right: 0;
+        border-left: 2px solid rgba(255, 255, 255, 0.5);
+    }
+
 .INT {
-	background-color:#13A7C5;
+/a	background-color:#13A7C5;
 color: yellow;
 } 
 .EXA {
@@ -116,8 +146,11 @@ color: yellow;
 </head>
 <body>
 <div id="topBar">
-<span class="nav-buttons" onclick="navigateSDD(-1)">←</span>
-<span class="nav-buttons" onclick="navigateSDD(1)">→</span>
+<!--<span class="nav-buttons" onclick="navigateSDD(-1)">←</span>
+<span class="nav-buttons" onclick="navigateSDD(1)">→</span>-->
+<div id="leftArrow" class="nav-arrow" onclick="navigateSDD(-1)">←</div>
+<div id="rightArrow" class="nav-arrow" onclick="navigateSDD(1)">→</div>
+
 <label for="fileSelector">Sélectionnez un SDD :</label>
 <select id="fileSelector" onchange="loadFileContent(this.value)">
 <option value="">-- Choisissez un SDD --</option>
