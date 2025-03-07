@@ -23,19 +23,19 @@ justify-content: space-between;
 z-index: 1000;
 }
 
- .footer {
-            position: fixed;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            background-color: #f1f1f1;
-            text-align: center;
-            padding: 1px;
-        }
+.footer {
+position: fixed;
+bottom: 0;
+left: 0;
+width: 100%;
+background-color: #f1f1f1;
+text-align: center;
+padding: 1px;
+}
 .tag {
-	font-weight: bold;
+font-weight: bold;
 padding: 2px 5px;
-	 border-radius: 3px;
+ border-radius: 3px;
 }
 #fileContent {
 	margin-top: 20px;
@@ -106,7 +106,7 @@ color: yellow;
 
 </head>
 <body>
-<div id=" topBar">
+<div id="topBar">
 <label for="fileSelector">Sélectionnez un SDD :</label>
 <select id="fileSelector" onchange="loadFileContent(this.value)">
 <option value="">-- Choisissez un SDD --</option>
@@ -518,15 +518,15 @@ function navigateSDD(direction) {
 	}
 }
 async function fetchFirstLine(fileName) {
-    try {
-	let response = await fetch(`./nvalt/${fileName}.txt`);
-	if (!response.ok) throw new Error("Fichier introuvable");
-	let text = await response.text();
-	let firstLine = text.split("\n")[0].replace("* SDD-", "").trim(); 
-	return firstLine || `SDD-${fileName}`; 
-    } catch (error) {
-	return `SDD-${fileName}`;
-    }
+	try {
+		let response = await fetch(`./nvalt/${fileName}.txt`);
+		if (!response.ok) throw new Error("Fichier introuvable");
+		let text = await response.text();
+		let firstLine = text.split("\n")[0].replace("* SDD-", "").trim(); 
+		return firstLine || `SDD-${fileName}`; 
+	} catch (error) {
+		return `SDD-${fileName}`;
+	}
 }
 async function searchFiles(keyword) {
 	if (keyword.length < 3) {
@@ -539,8 +539,8 @@ async function searchFiles(keyword) {
 
 	let files = [];
 	for (let i = 0; i <= 356; i++) {
-	    // Ajouter chaque numéro formaté à trois chiffres
-	    files.push(i.toString().padStart(3, '0'));
+		// Ajouter chaque numéro formaté à trois chiffres
+		files.push(i.toString().padStart(3, '0'));
 	}
 
 	let resultsHTML = "";
@@ -557,7 +557,7 @@ async function searchFiles(keyword) {
 				matchingLines.forEach(line => {
 						resultsHTML += `<li>${applyTagStyles(line)}</li>`;
 						});
-  
+
 				resultsHTML += `</ul>`;
 			}
 		} catch (error) {
@@ -570,7 +570,7 @@ async function searchFiles(keyword) {
 </script>
 
 <div class="footer">
-2025-03-07 18:22:43
+2025-03-07 18:26:03
 </div>
 </body>
 </html>
