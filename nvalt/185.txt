@@ -1,11 +1,9 @@
 * SDD-185 Réalisation et interprétation d'un éléctrocardiogramme (ecg)
-** Identifier les situations cliniques nécessitant la realisation d'un audiogramme #DGP
-** Expliquer au patient les modalités de réalisation de l'audiogramme #ANN
-** Identifier les différentes composantes d'un audiogramme : audiométrie tonale, audiométrie vocale, Weber audiométrique #EXA
-** Différencier une surdité de transmission d'une surdité de perception #EXA
-** Interpréter le Weber audiométrique #EXA
-** Interpréter l'audiométrie vocale et déterminer le seuil d'intelligibilité vocale #EXA
-** Interpréter l'audiométrie tonale en classifiant le degré de surdité #EXA
-** Evoquer des hypothèses diagnostiques étiologiques en fonction de l'analyse de l'audiogramme et du contexte clinique #DGP
----
-
+** Réaliser un électrocardiogramme de repos 18 dérivations     #PRO
+** Identifier les situations cliniques où un électrocardiogramme doit être réalisé en urgence #CLI
+** Identifier les situations cliniques ou un monitoring continu de l'électrocardiogramme est nécessaire et enclencher la surveillance #INT
+** Interpréter de manière structurée un électrocardiogramme #ICO
+** Identifier les critères de qualité et de bonne réalisation d'un ECG #ICO
+** Identifier les anomalies électrocardiographiques devant amener une réponse thérapeutique urgente #ICO
+** Prescrire et expliquer un enregistrement électrocardiographique de longue durée (Holter) #DGP
+** Identifier les situations d'urgences justifiant une hospitalisation et d'une surveillance continue #URG

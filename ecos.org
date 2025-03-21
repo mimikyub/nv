@@ -1771,14 +1771,14 @@
 ** Evoquer des hypothèses diagnostiques étiologiques en fonction de l'analyse de l'audiogramme et du contexte clinique :DGP:SDD_184:
 ---
 * SDD-185 Réalisation et interprétation d'un éléctrocardiogramme (ecg)
-** Identifier les situations cliniques nécessitant la realisation d'un audiogramme :DGP:SDD_185:
-** Expliquer au patient les modalités de réalisation de l'audiogramme :ANN:SDD_185:
-** Identifier les différentes composantes d'un audiogramme : audiométrie tonale, audiométrie vocale, Weber audiométrique :EXA:SDD_185:
-** Différencier une surdité de transmission d'une surdité de perception :EXA:SDD_185:
-** Interpréter le Weber audiométrique :EXA:SDD_185:
-** Interpréter l'audiométrie vocale et déterminer le seuil d'intelligibilité vocale :EXA:SDD_185:
-** Interpréter l'audiométrie tonale en classifiant le degré de surdité :EXA:SDD_185:
-** Evoquer des hypothèses diagnostiques étiologiques en fonction de l'analyse de l'audiogramme et du contexte clinique :DGP:SDD_185:
+** Réaliser un électrocardiogramme de repos 18 dérivations     :PRO:SDD_185:
+** Identifier les situations cliniques où un électrocardiogramme doit être réalisé en urgence :CLI:SDD_185:
+** Identifier les situations cliniques ou un monitoring continu de l'électrocardiogramme est nécessaire et enclencher la surveillance :INT:SDD_185:
+** Interpréter de manière structurée un électrocardiogramme    :ICO:SDD_185:
+** Identifier les critères de qualité et de bonne réalisation d'un ECG :ICO:SDD_185:
+** Identifier les anomalies électrocardiographiques devant amener une réponse thérapeutique urgente :ICO:SDD_185:
+** Prescrire et expliquer un enregistrement électrocardiographique de longue durée (Holter) :DGP:SDD_185:
+** Identifier les situations d'urgences justifiant une hospitalisation et d'une surveillance continue :URG:SDD_185:
 ---
 * SDD-186 Syndrome inflammatoire aigu ou chronique
 ** Identifier les situations justifiant la réalisation d'un bilan inflammatoire et déterminer les paramètres à mesurer :DGP:SDD_186:
